@@ -1,0 +1,101 @@
+id,nombre,continente
+1,Afghanistan,Asia
+2,Albania,Europe
+3,Algeria,Africa
+4,Argentina,South America
+5,Australia,Oceania
+6,Austria,Europe
+7,Bangladesh,Asia
+8,Belgium,Europe
+9,Brazil,South America
+10,Bulgaria,Europe
+11,Canada,North America
+12,Chile,South America
+13,China,Asia
+14,Colombia,South America
+15,Croatia,Europe
+16,Cuba,North America
+17,Czech Republic,Europe
+18,Denmark,Europe
+19,Egypt,Africa
+20,Estonia,Europe
+21,Finland,Europe
+22,France,Europe
+23,Germany,Europe
+24,Ghana,Africa
+25,Greece,Europe
+26,Hungary,Europe
+27,Iceland,Europe
+28,India,Asia
+29,Indonesia,Asia
+30,Iran,Asia
+31,Iraq,Asia
+32,Ireland,Europe
+33,Israel,Asia
+34,Italy,Europe
+35,Japan,Asia
+36,Jordan,Asia
+37,Kenya,Africa
+38,Kuwait,Asia
+39,Latvia,Europe
+40,Lebanon,Asia
+41,Lithuania,Europe
+42,Luxembourg,Europe
+43,Malaysia,Asia
+44,Mexico,North America
+45,Morocco,Africa
+46,Netherlands,Europe
+47,New Zealand,Oceania
+48,Nigeria,Africa
+49,Norway,Europe
+50,Pakistan,Asia
+51,Peru,South America
+52,Philippines,Asia
+53,Poland,Europe
+54,Portugal,Europe
+55,Qatar,Asia
+56,Romania,Europe
+57,Russia,Europe
+58,Saudi Arabia,Asia
+59,Serbia,Europe
+60,Singapore,Asia
+61,Slovakia,Europe
+62,Slovenia,Europe
+63,South Africa,Africa
+64,South Korea,Asia
+65,Spain,Europe
+66,Sri Lanka,Asia
+67,Sweden,Europe
+68,Switzerland,Europe
+69,Syria,Asia
+70,Taiwan,Asia
+71,Thailand,Asia
+72,Tunisia,Africa
+73,Turkey,Asia
+74,Ukraine,Europe
+75,United Arab Emirates,Asia
+76,United Kingdom,Europe
+77,United States,North America
+78,Uruguay,South America
+79,Venezuela,South America
+80,Vietnam,Asia
+81,Yemen,Asia
+82,Zambia,Africa
+83,Zimbabwe,Africa
+84,Bolivia,South America
+85,Paraguay,South America
+86,Ecuador,South America
+87,Panama,North America
+88,Costa Rica,North America
+89,Honduras,North America
+90,Guatemala,North America
+91,El Salvador,North America
+92,Nicaragua,North America
+93,Dominican Republic,North America
+94,Haiti,North America
+95,Jamaica,North America
+96,Nepal,Asia
+97,Bhutan,Asia
+98,Mongolia,Asia
+99,Cambodia,Asia
+100,Laos,Asia

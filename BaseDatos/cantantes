@@ -1,0 +1,501 @@
+id,nombre,id_pais,fecha_nacimiento
+1,Taylor Swift,77,1989-12-13
+2,Ed Sheeran,76,1991-02-17
+3,Shakira,14,1977-02-02
+4,Bad Bunny,56,1994-03-10
+5,Rosalía,65,1992-09-25
+6,Freddie Mercury,91,1946-09-05
+7,Michael Jackson,77,1958-08-29
+8,Madonna,77,1958-08-16
+9,Justin Bieber,11,1994-03-01
+10,Adele,76,1988-05-05
+11,Beyoncé,77,1981-09-04
+12,Luis Miguel,33,1970-04-19
+13,Elton John,76,1947-03-25
+14,Lady Gaga,77,1986-03-28
+15,Bruno Mars,77,1985-10-08
+16,Gustavo Cerati,2,1959-08-11
+17,Dua Lipa,76,1995-08-22
+18,The Weeknd,11,1990-02-16
+19,Billie Eilish,77,2001-12-18
+20,Rihanna,10,1988-02-20
+21,Camilo Sesto,65,1946-09-16
+22,Harry Styles,76,1994-02-01
+23,Selena Quintanilla,77,1971-04-16
+24,David Bowie,76,1947-01-08
+25,Amy Winehouse,76,1983-09-14
+26,Juan Gabriel,33,1950-01-07
+27,Marc Anthony,77,1968-09-16
+28,Katy Perry,77,1984-10-25
+29,Miley Cyrus,77,1992-11-23
+30,Sam Smith,76,1992-05-19
+31,Ariana Grande,77,1993-06-26
+32,Post Malone,77,1995-07-04
+33,Drake,11,1986-10-24
+34,Shawn Mendes,11,1998-08-08
+35,Camila Cabello,56,1997-03-03
+36,Maluma,14,1994-01-28
+37,J Balvin,14,1985-05-07
+38,Karol G,14,1991-02-14
+39,Ozuna,56,1992-03-13
+40,Anuel AA,56,1992-11-26
+41,Daddy Yankee,56,1977-02-03
+42,Ricky Martin,56,1971-12-24
+43,Enrique Iglesias,65,1975-05-08
+44,Alejandro Sanz,65,1968-12-18
+45,Julio Iglesias,65,1943-09-23
+46,Raphael,65,1943-05-05
+47,Joaquin Sabina,65,1949-02-12
+48,Joan Manuel Serrat,65,1943-12-27
+49,Chayanne,56,1968-06-28
+50,Ricardo Arjona,45,1964-01-19
+51,Elvis Presley,77,1935-01-08
+52,Prince,77,1958-06-07
+53,Bob Marley,44,1945-02-06
+54,Frank Sinatra,77,1915-12-12
+55,Aretha Franklin,77,1942-03-25
+56,Stevie Wonder,77,1950-05-13
+57,Whitney Houston,77,1963-08-09
+58,Celine Dion,11,1968-03-30
+59,Cher,77,1946-05-20
+60,Tina Turner,77,1939-11-26
+61,Bob Dylan,77,1941-05-24
+62,Bruce Springsteen,77,1949-09-23
+63,Paul McCartney,76,1942-06-18
+64,John Lennon,76,1940-10-09
+65,George Harrison,76,1943-02-25
+66,Ringo Starr,76,1940-07-07
+67,Mick Jagger,76,1943-07-26
+68,Keith Richards,76,1943-12-18
+69,Robert Plant,76,1948-08-20
+70,Axl Rose,77,1962-02-06
+71,Kurt Cobain,77,1967-02-20
+72,Eddie Vedder,77,1964-12-23
+73,Chris Cornell,77,1964-07-20
+74,Chester Bennington,77,1976-03-20
+75,Ozzy Osbourne,76,1948-12-03
+76,James Hetfield,77,1963-08-03
+77,Steven Tyler,77,1948-03-26
+78,Bon Jovi,77,1962-03-02
+79,Billy Joel,77,1949-05-09
+80,Phil Collins,76,1951-01-30
+81,Sting,76,1951-10-02
+82,Bono,41,1960-05-10
+83,Jim Morrison,77,1943-12-08
+84,Janis Joplin,77,1943-01-19
+85,Jimi Hendrix,77,1942-11-27
+86,Eminem,77,1972-10-17
+87,Jay-Z,77,1969-12-04
+88,Kanye West,77,1977-06-08
+89,Snoop Dogg,77,1971-10-20
+90,Dr. Dre,77,1965-02-18
+91,Kendrick Lamar,77,1987-06-17
+92,Travis Scott,77,1991-04-30
+93,Cardi B,77,1992-10-11
+94,Nicki Minaj,77,1982-12-08
+95,Lana Del Rey,77,1985-06-21
+96,Lorde,55,1996-11-07
+97,Sia,6,1975-12-18
+98,Hozier,41,1990-03-17
+99,George Michael,76,1963-06-25
+100,Robbie Williams,76,1974-02-13
+101,Enrique Bunbury,65,1967-08-11
+102,Andrés Calamaro,2,1961-08-22
+103,Fito Páez,2,1963-03-13
+104,Charly García,2,1951-10-23
+105,Luis Alberto Spinetta,2,1950-01-23
+106,Jorge Drexler,85,1964-09-21
+107,Natalia Lafourcade,33,1984-02-26
+108,Julieta Venegas,33,1970-11-24
+109,Mon Laferte,13,1983-05-02
+110,Residente,56,1978-02-23
+111,Vicente Fernández,33,1940-02-17
+112,Alejandro Fernández,33,1971-04-24
+113,Marco Antonio Solís,33,1959-12-29
+114,Juan Luis Guerra,23,1957-06-07
+115,Rubén Blades,54,1948-07-16
+116,Celia Cruz,18,1925-10-21
+117,Gloria Estefan,18,1957-09-01
+118,Thalía,33,1971-08-26
+119,Paulina Rubio,33,1971-06-17
+120,Gloria Trevi,33,1968-02-15
+121,Laura Pausini,48,1974-05-16
+122,Eros Ramazzotti,48,1963-10-28
+123,Andrea Bocelli,48,1958-09-22
+124,Luciano Pavarotti,48,1935-10-12
+125,Charles Aznavour,31,1924-05-22
+126,Edith Piaf,31,1915-12-19
+127,Björk,43,1965-11-21
+128,Enya,41,1961-05-17
+129,Dolores O'Riordan,41,1971-09-06
+130,Sinéad O'Connor,41,1966-12-08
+131,Morrissey,76,1959-05-22
+132,Robert Smith,76,1959-04-21
+133,Thom Yorke,76,1968-10-07
+134,Damon Albarn,76,1968-03-23
+135,Liam Gallagher,76,1972-09-21
+136,Noel Gallagher,76,1967-05-29
+137,Alex Turner,76,1986-01-06
+138,Chris Martin,76,1977-03-02
+139,Matt Bellamy,76,1978-06-09
+140,Brandon Flowers,77,1981-06-21
+141,Julian Casablancas,77,1978-08-23
+142,Kevin Parker,6,1986-01-20
+143,Tame Impala,6,1986-01-20
+144,Sufjan Stevens,77,1975-07-01
+145,St. Vincent,77,1982-09-28
+146,Fiona Apple,77,1977-09-13
+147,Tori Amos,77,1963-08-22
+148,Patti Smith,77,1946-12-30
+149,Debbie Harry,77,1945-07-01
+150,Cyndi Lauper,77,1953-06-22
+151,Annie Lennox,76,1954-12-25
+152,Kate Bush,76,1958-07-30
+153,Bjorn Ulvaeus,74,1945-04-25
+154,Agnetha Faltskog,74,1950-04-05
+155,Anni-Frid Lyngstad,74,1945-11-15
+156,Benny Andersson,74,1946-12-16
+157,Avicii,74,1989-09-08
+158,Tiësto,53,1969-01-17
+159,David Guetta,31,1967-11-07
+160,Calvin Harris,76,1984-01-17
+161,Daft Punk,31,1974-01-01
+162,Moby,77,1965-09-11
+163,Fatboy Slim,76,1963-07-31
+164,Skrillex,77,1988-01-15
+165,Zedd,32,1989-09-02
+166,Marshmello,77,1992-05-19
+167,Kygo,55,1991-09-11
+168,Martin Garrix,53,1996-05-14
+169,Steve Aoki,77,1977-11-30
+170,Alan Walker,55,1997-08-24
+171,Deadmau5,11,1981-01-05
+172,Armin van Buuren,53,1976-12-25
+173,Paul van Dyk,32,1971-12-16
+174,Carl Cox,76,1962-07-29
+175,Richie Hawtin,11,1970-06-04
+176,Aphex Twin,41,1971-08-18
+177,Brian Eno,76,1948-05-15
+178,Jean-Michel Jarre,31,1948-08-24
+179,Vangelis,35,1943-03-29
+180,Kraftwerk,32,1970-01-01
+181,Iggy Pop,77,1947-04-21
+182,Lou Reed,77,1942-03-02
+183,Nico,32,1938-10-16
+184,Tom Waits,77,1949-12-07
+185,Nick Cave,6,1957-09-22
+186,Leonard Cohen,11,1934-09-21
+187,Joni Mitchell,11,1943-11-07
+188,Neil Young,11,1945-11-12
+189,Van Morrison,41,1945-08-31
+190,Cat Stevens,76,1948-07-21
+191,James Taylor,77,1948-03-12
+192,Carole King,77,1942-02-09
+193,Simon & Garfunkel,77,1941-10-13
+194,Crosby Stills Nash,77,1941-08-14
+195,Fleetwood Mac,76,1947-01-01
+196,Steely Dan,77,1948-01-01
+197,Eagles,77,1947-01-01
+198,Lynyrd Skynyrd,77,1948-01-01
+199,ZZ Top,77,1949-01-01
+200,AC/DC,6,1973-01-01
+201,Guns N Roses,77,1985-01-01
+202,Metallica,77,1981-01-01
+203,Iron Maiden,76,1975-01-01
+204,Black Sabbath,76,1968-01-01
+205,Led Zeppelin,76,1968-01-01
+206,Pink Floyd,76,1965-01-01
+207,The Who,76,1964-01-01
+208,The Kinks,76,1964-01-01
+209,The Beach Boys,77,1961-01-01
+210,The Doors,77,1965-01-01
+211,The Velvet Underground,77,1964-01-01
+212,The Ramones,77,1974-01-01
+213,The Clash,76,1976-01-01
+214,Sex Pistols,76,1975-01-01
+215,Joy Division,76,1976-01-01
+216,New Order,76,1980-01-01
+217,Depeche Mode,76,1980-01-01
+218,Pet Shop Boys,76,1981-01-01
+219,The Smiths,76,1982-01-01
+220,The Cure,76,1976-01-01
+221,U2,41,1976-01-01
+222,R.E.M.,77,1980-01-01
+223,Nirvana,77,1987-01-01
+224,Pearl Jam,77,1990-01-01
+225,Soundgarden,77,1984-01-01
+226,Alice in Chains,77,1987-01-01
+227,Red Hot Chili Peppers,77,1983-01-01
+228,Foo Fighters,77,1994-01-01
+229,Green Day,77,1987-01-01
+230,Radiohead,76,1985-01-01
+231,Oasis,76,1991-01-01
+232,Blur,76,1988-01-01
+233,Pulp,76,1978-01-01
+234,Suede,76,1989-01-01
+235,The Strokes,77,1998-01-01
+236,Arctic Monkeys,76,2002-01-01
+237,The Killers,77,2001-01-01
+238,Kings of Leon,77,1999-01-01
+239,Muse,76,1994-01-01
+240,Gorillaz,76,1998-01-01
+241,LCD Soundsystem,77,2002-01-01
+242,Arcade Fire,11,2001-01-01
+243,The White Stripes,77,1997-01-01
+244,The Black Keys,77,2001-01-01
+245,Vampire Weekend,77,2006-01-01
+246,Fleet Foxes,77,2006-01-01
+247,Bon Iver,77,2006-01-01
+248,The National,77,1999-01-01
+249,Wilco,77,1994-01-01
+250,Modest Mouse,77,1992-01-01
+251,Nina Simone,77,1933-02-21
+252,Billie Holiday,77,1915-04-07
+253,Ella Fitzgerald,77,1917-04-25
+254,Miles Davis,77,1926-05-26
+255,John Coltrane,77,1926-09-23
+256,Louis Armstrong,77,1901-08-04
+257,Duke Ellington,77,1899-04-29
+258,Charlie Parker,77,1920-08-29
+259,Thelonious Monk,77,1917-10-10
+260,Ray Charles,77,1930-09-23
+261,Sam Cooke,77,1931-01-22
+262,Otis Redding,77,1941-09-09
+263,Marvin Gaye,77,1939-04-02
+264,James Brown,77,1933-05-03
+265,Al Green,77,1946-04-13
+266,Bill Withers,77,1938-07-04
+267,Curtis Mayfield,77,1942-06-03
+268,Isaac Hayes,77,1942-08-20
+269,Barry White,77,1944-09-12
+270,Donna Summer,77,1948-12-31
+271,Diana Ross,77,1944-03-26
+272,Lionel Richie,77,1949-06-20
+273,Stevie Nicks,77,1948-05-26
+274,Pat Benatar,77,1953-01-10
+275,Bonnie Raitt,77,1949-11-08
+276,Sheryl Crow,77,1962-02-11
+277,Alanis Morissette,11,1974-06-01
+278,Shania Twain,11,1965-08-28
+279,Carly Simon,77,1945-06-25
+280,Linda Ronstadt,77,1946-07-15
+281,Dolly Parton,77,1946-01-19
+282,Willie Nelson,77,1933-04-29
+283,Johnny Cash,77,1932-02-26
+284,Waylon Jennings,77,1937-06-15
+285,Kris Kristofferson,77,1936-06-22
+286,Kenny Rogers,77,1938-08-21
+287,Garth Brooks,77,1962-02-07
+288,George Strait,77,1952-05-18
+289,Tim McGraw,77,1967-05-01
+290,Keith Urban,6,1967-10-26
+291,Carrie Underwood,77,1983-03-10
+292,Luke Bryan,77,1976-07-17
+293,Blake Shelton,77,1976-06-18
+294,Miranda Lambert,77,1983-11-10
+295,Chris Stapleton,77,1978-04-15
+296,Kacey Musgraves,77,1988-08-21
+297,Tyler Childers,77,1991-06-21
+298,Sturgill Simpson,77,1978-06-08
+299,Jason Isbell,77,1979-02-02
+300,Brandi Carlile,77,1981-06-01
+301,Norah Jones,77,1979-03-30
+302,Diana Krall,11,1964-11-16
+303,Michael Bublé,11,1975-09-09
+304,Harry Connick Jr,77,1967-09-11
+305,Jamie Cullum,76,1979-08-20
+306,Gregory Porter,77,1971-11-04
+307,Esperanza Spalding,77,1984-10-18
+308,Kamasi Washington,77,1981-02-18
+309,Robert Glasper,77,1978-04-05
+310,Snarky Puppy,77,2004-01-01
+311,Thundercat,77,1984-10-19
+312,Flying Lotus,77,1983-10-07
+313,Bonobo,76,1976-12-15
+314,Four Tet,76,1977-01-01
+315,Caribou,11,1978-01-01
+316,Nicolas Jaar,13,1990-01-10
+317,Floating Points,76,1986-01-01
+318,Jon Hopkins,76,1979-08-15
+319,Nils Frahm,32,1982-09-20
+320,Olafur Arnalds,43,1986-11-03
+321,Max Richter,32,1966-01-30
+322,Ludovico Einaudi,48,1955-11-23
+323,Yann Tiersen,31,1970-06-23
+324,Hans Zimmer,32,1957-09-12
+325,John Williams,77,1932-02-08
+326,Ennio Morricone,48,1928-11-10
+327,Ryuichi Sakamoto,51,1952-01-17
+328,Joe Hisaishi,51,1950-12-06
+329,Sakamoto Kyu,51,1941-12-10
+330,Tatsuro Yamashita,51,1953-02-04
+331,Mariya Takeuchi,51,1955-03-20
+332,Anri,51,1961-08-31
+333,Miki Matsubara,51,1959-11-28
+334,Junko Ohashi,51,1950-04-01
+335,Seiko Matsuda,51,1962-03-10
+336,Akina Nakamori,51,1965-07-13
+337,Utada Hikaru,51,1983-01-19
+338,Namie Amuro,51,1977-09-20
+339,Ayumi Hamasaki,51,1978-10-02
+340,Kenshi Yonezu,51,1991-03-10
+341,LiSA,51,1987-06-24
+342,Aimer,51,1990-07-09
+343,Gen Hoshino,51,1981-01-28
+344,Fujii Kaze,51,1997-06-14
+345,Vaundy,51,2000-06-06
+346,BTS,52,2013-01-01
+347,Blackpink,52,2016-01-01
+348,Twice,52,2015-01-01
+349,Red Velvet,52,2014-01-01
+350,EXO,52,2012-01-01
+351,IU,52,1993-05-16
+352,Taeyeon,52,1989-03-09
+353,Sunmi,52,1992-05-02
+354,Chungha,52,1996-02-09
+355,Jay Park,52,1987-04-25
+356,Zico,52,1992-09-14
+357,G-Dragon,52,1988-08-18
+358,CL,52,1991-02-26
+359,Hyuna,52,1992-06-06
+360,Psy,52,1977-12-31
+361,Rain,52,1982-06-25
+362,BoA,52,1986-11-05
+363,Utada Hikaru,51,1983-01-19
+364,Jolin Tsai,15,1980-09-15
+365,Jay Chou,15,1979-01-18
+366,Eason Chan,15,1974-07-27
+367,Faye Wong,15,1969-08-08
+368,Anita Mui,15,1963-10-10
+369,Leslie Cheung,15,1956-09-12
+370,Teresa Teng,15,1953-01-29
+371,Cui Jian,15,1961-08-02
+372,G.E.M.,15,1991-08-16
+373,Jackson Wang,15,1994-03-28
+374,Lay Zhang,15,1991-10-07
+375,Kris Wu,15,1990-11-06
+376,Luhan,15,1990-04-20
+377,Victoria Song,15,1987-02-02
+378,Dimash Kudaibergen,57,1994-05-24
+379,Vitas,68,1979-02-19
+380,Alla Pugacheva,68,1949-04-15
+381,Eduard Khil,68,1934-09-04
+382,Muslim Magomayev,68,1942-08-17
+383,Anna Netrebko,68,1971-09-18
+384,Dmitry Hvorostovsky,68,1962-10-16
+385,Tarkan,75,1972-10-17
+386,Sezen Aksu,75,1954-07-13
+387,Amr Diab,26,1961-10-11
+388,Nancy Ajram,58,1983-05-16
+389,Fairuz,58,1935-11-21
+390,Umm Kulthum,26,1898-12-31
+391,Googoosh,46,1950-05-05
+392,Hayedeh,46,1942-04-10
+393,A.R. Rahman,47,1967-01-06
+394,Lata Mangeshkar,47,1929-09-28
+395,Kishore Kumar,47,1929-08-04
+396,Arijit Singh,47,1987-04-25
+397,Shreya Ghoshal,47,1984-03-12
+398,Zubeen Garg,47,1972-11-18
+399,Sidhu Moose Wala,47,1993-06-11
+400,Diljit Dosanjh,47,1984-01-06
+401,Youssou N'Dour,69,1959-10-01
+402,Miriam Makeba,71,1932-03-04
+403,Fela Kuti,61,1938-10-15
+404,Burna Boy,61,1991-07-02
+405,Wizkid,61,1990-07-16
+406,Davido,61,1992-11-21
+407,Angelique Kidjo,10,1960-07-14
+408,Salif Keita,59,1949-08-25
+409,Ali Farka Touré,59,1939-10-31
+410,Tinariwen,59,1979-01-01
+411,Cesaria Evora,12,1941-08-27
+412,Stromae,10,1985-03-12
+413,Zaz,31,1980-05-01
+414,Indila,31,1984-06-26
+415,Manu Chao,31,1961-06-21
+416,Carla Bruni,31,1967-12-23
+417,Vanessa Paradis,31,1972-12-22
+418,Serge Gainsbourg,31,1928-04-02
+419,Jane Birkin,76,1946-12-14
+420,Francoise Hardy,31,1944-01-17
+421,Mylène Farmer,31,1961-09-12
+422,Johnny Hallyday,31,1943-06-15
+423,Eros Ramazzotti,48,1963-10-28
+424,Zucchero,48,1955-09-25
+425,Tiziano Ferro,48,1980-02-21
+426,Jovanotti,48,1966-09-27
+427,Ligabue,48,1960-03-13
+428,Vasco Rossi,48,1952-02-07
+429,Mina,48,1940-03-25
+430,Adriano Celentano,48,1938-01-06
+431,Raffaella Carrà,48,1943-06-18
+432,Domenico Modugno,48,1928-01-09
+433,Falco,7,1957-02-19
+434,Scorpions,32,1965-01-01
+435,Rammstein,32,1994-01-01
+436,Nena,32,1960-03-24
+437,Modern Talking,32,1984-01-01
+438,Boney M,32,1975-01-01
+439,Milli Vanilli,32,1988-01-01
+440,Helloween,32,1984-01-01
+441,Blind Guardian,32,1984-01-01
+442,Roxette,74,1986-01-01
+443,Europe,74,1979-01-01
+444,The Cardigans,74,1992-01-01
+445,Ace of Base,74,1990-01-01
+446,Lykke Li,74,1986-03-18
+447,Robyn,74,1979-06-12
+448,Zara Larsson,74,1997-12-16
+449,Tove Lo,74,1987-10-29
+450,Sandro,2,1945-08-19
+451,Mercedes Sosa,2,1935-07-09
+452,Atahualpa Yupanqui,2,1908-01-31
+453,Facundo Cabral,2,1937-05-22
+454,Alberto Cortez,2,1940-03-11
+455,Coti,2,1973-06-14
+456,Diego Torres,2,1971-03-09
+457,Vicente Sigo,2,1964-07-24
+458,Los Enanitos Verdes,2,1979-01-01
+459,Soda Stereo,2,1982-01-01
+460,Babasónicos,2,1991-01-01
+461,Jorge Negrete,33,1911-11-30
+462,Pedro Infante,33,1917-11-18
+463,Javier Solís,33,1931-09-04
+464,Chavela Vargas,33,1919-04-17
+465,Lila Downs,33,1968-09-09
+466,Carla Morrison,33,1986-07-19
+467,Ximena Sariñana,33,1985-10-29
+468,Belinda,33,1989-08-15
+469,Christian Nodal,33,1999-01-11
+470,Peso Pluma,33,1999-06-15
+471,Natanael Cano,33,2001-03-27
+472,Santa Fe Klan,33,1999-11-29
+473,Roberto Carlos,10,1941-04-19
+474,Caetano Veloso,10,1942-08-07
+475,Gilberto Gil,10,1942-06-26
+476,Chico Buarque,10,1944-06-19
+477,Elis Regina,10,1945-03-17
+478,Gal Costa,10,1945-09-26
+479,Joao Gilberto,10,1931-06-10
+480,Tom Jobim,10,1927-01-25
+481,Jorge Ben Jor,10,1942-03-22
+482,Sepultura,10,1984-01-01
+483,Anita,10,1993-03-30
+484,Ludmilla,10,1995-04-24
+485,Pabllo Vittar,10,1994-11-01
+486,Michel Teló,10,1981-01-21
+487,Gusttavo Lima,10,1989-09-03
+488,Luan Santana,10,1991-03-13
+489,Marília Mendonça,10,1995-07-22
+490,Kevin Johansen,77,1964-06-21
+491,Jorge Gonzalez,13,1964-12-06
+492,Beto Cuevas,13,1967-09-12
+493,Javiera Mena,13,1983-06-03
+494,Alex Anwandter,13,1983-03-24
+495,Gepe,13,1981-09-28
+496,Francisca Valenzuela,13,1987-03-17
+497,Los Prisioneros,13,1979-01-01
+498,La Ley,13,1987-01-01
+499,Los Tres,13,1987-01-01
+500,Joe Vasconcellos,13,1959-03-09

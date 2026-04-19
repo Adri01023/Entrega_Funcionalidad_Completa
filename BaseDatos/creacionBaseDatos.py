@@ -127,6 +127,7 @@ with engine.connect() as conn:
     CREATE TABLE IF NOT EXISTS Recinto (
         id_recinto INTEGER PRIMARY KEY,
         nombre TEXT,
+        capacidad INTEGER,
         id_pais INTEGER,
         FOREIGN KEY (id_pais) REFERENCES Pais(id)
             ON DELETE CASCADE ON UPDATE CASCADE
@@ -139,6 +140,7 @@ with engine.connect() as conn:
         id_gira INTEGER,
         id_cantante INTEGER,
         id_recinto INTEGER,
+        entradas_vendidas INTEGER,
         FOREIGN KEY (id_gira) REFERENCES Gira(id_gira)
             ON DELETE CASCADE ON UPDATE CASCADE,
         FOREIGN KEY (id_cantante) REFERENCES Cantante(id_cantante)
@@ -393,60 +395,76 @@ with engine.connect() as conn:
         """), {"id": g[0], "nombre": g[1], "cantante": g[2], "num": g[3], "dur": g[4]})
 
     recintos = [
-        (1, 'Madison Square Garden', 1),
-        (2, 'Staples Center', 1),
-        (3, 'Wembley Stadium', 2),
-        (4, 'O2 Arena', 2),
-        (5, 'Hollywood Bowl', 1),
-        (6, 'Barclaycard Arena', 2),
-        (7, 'Roberts Stadium', 1),
-        (8, 'ASU Convocation Center', 1),
-        (9, 'Scottrade Center', 1),
-        (10, 'Event Center', 1),
-        (11, 'BMO Harris Bradley Center', 1),
-        (12, 'Xcel Energy Center', 1),
-        (13, 'Merkur Spiel-Arena', 2),
-        (14, 'PGE Narodowy', 2),
-        (15, 'Deutsche Bank Park', 2),
-        (16, 'T-Mobile Arena', 1),
-        (17, 'Scotiabank Arena', 1),
-        (18, 'United Center', 1)
+        (1, 'Madison Square Garden', 20000, 1),
+        (2, 'Staples Center', 19000, 1),
+        (3, 'Wembley Stadium', 90000, 2),
+        (4, 'O2 Arena', 20000, 2),
+        (5, 'Hollywood Bowl', 17500, 1),
+        (6, 'Barclaycard Arena', 16000, 2),
+        (7, 'Roberts Stadium', 12000, 1),
+        (8, 'ASU Convocation Center', 14000, 1),
+        (9, 'Scottrade Center', 19000, 1),
+        (10, 'Event Center', 10000, 1),
+        (11, 'BMO Harris Bradley Center', 18700, 1),
+        (12, 'Xcel Energy Center', 18000, 1),
+        (13, 'Merkur Spiel-Arena', 54000, 2),
+        (14, 'PGE Narodowy', 58000, 2),
+        (15, 'Deutsche Bank Park', 51000, 2),
+        (16, 'T-Mobile Arena', 20000, 1),
+        (17, 'Scotiabank Arena', 19800, 1),
+        (18, 'United Center', 23500, 1)
     ]
+
     for r in recintos:
         conn.execute(text("""
-        INSERT OR IGNORE INTO Recinto (id_recinto, nombre, id_pais)
-        VALUES (:id, :nombre, :pais)
-        """), {"id": r[0], "nombre": r[1], "pais": r[2]})
-
+        INSERT OR IGNORE INTO Recinto (id_recinto, nombre, capacidad, id_pais)
+        VALUES (:id, :nombre, :capacidad, :pais)
+        """), {
+            "id": r[0],
+            "nombre": r[1],
+            "capacidad": r[2],
+            "pais": r[3]
+        })
     conciertos = [
         # Taylor Swift
-        (1001, 1, 1, 7), (1002, 1, 1, 8), (1003, 1, 1, 9), (1004, 2, 1, 1),
-        (1005, 2, 1, 2), (1006, 2, 1, 5), (1007, 3, 1, 1), (1008, 3, 1, 10),
-        (1009, 3, 1, 11), (1010, 4, 1, 1), (1011, 4, 1, 12), (1012, 4, 1, 5),
-        (1013, 5, 1, 1), (1014, 5, 1, 2), (1015, 5, 1, 9), (1016, 6, 1, 1),
-        (1017, 6, 1, 12), (1018, 6, 1, 5),
+        (1001, 1, 1, 7, 11000), (1002, 1, 1, 8, 13000), (1003, 1, 1, 9, 18000), (1004, 2, 1, 1, 20000),
+        (1005, 2, 1, 2, 18500), (1006, 2, 1, 5, 16000), (1007, 3, 1, 1, 20000), (1008, 3, 1, 10, 9000),
+        (1009, 3, 1, 11, 17000), (1010, 4, 1, 1, 20000), (1011, 4, 1, 12, 17500), (1012, 4, 1, 5, 16500),
+        (1013, 5, 1, 1, 20000), (1014, 5, 1, 2, 19000), (1015, 5, 1, 9, 18000), (1016, 6, 1, 1, 20000),
+        (1017, 6, 1, 12, 18000), (1018, 6, 1, 5, 17000),
+
         # Ariana Grande
-        (2001, 7, 3, 10), (2002, 7, 3, 11), (2003, 7, 3, 12), (2004, 8, 3, 1),
-        (2005, 8, 3, 2), (2006, 8, 3, 5), (2007, 9, 3, 1), (2008, 9, 3, 10),
-        (2009, 9, 3, 11), (2010, 10, 3, 10), (2011, 10, 3, 12), (2012, 10, 3, 1),
+        (2001, 7, 3, 10, 8000), (2002, 7, 3, 11, 15000), (2003, 7, 3, 12, 17000), (2004, 8, 3, 1, 20000),
+        (2005, 8, 3, 2, 18500), (2006, 8, 3, 5, 16000), (2007, 9, 3, 1, 20000), (2008, 9, 3, 10, 9500),
+        (2009, 9, 3, 11, 17500), (2010, 10, 3, 10, 10000), (2011, 10, 3, 12, 18000), (2012, 10, 3, 1, 20000),
+
         # Harry Styles
-        (3001, 11, 4, 13), (3002, 11, 4, 14), (3003, 11, 4, 15),
-        (3004, 12, 4, 13), (3005, 12, 4, 4), (3006, 12, 4, 6),
+        (3001, 11, 4, 13, 50000), (3002, 11, 4, 14, 55000), (3003, 11, 4, 15, 48000),
+        (3004, 12, 4, 13, 52000), (3005, 12, 4, 4, 19000), (3006, 12, 4, 6, 15000),
+
         # Lady Gaga
-        (4001, 13, 2, 1), (4002, 13, 2, 2), (4003, 13, 2, 5), (4004, 14, 2, 1),
-        (4005, 14, 2, 2), (4006, 14, 2, 5), (4007, 15, 2, 1), (4008, 15, 2, 10),
-        (4009, 15, 2, 11), (4010, 16, 2, 1), (4011, 16, 2, 2), (4012, 16, 2, 5),
-        (4013, 17, 2, 1), (4014, 17, 2, 2), (4015, 17, 2, 5), (4016, 18, 2, 1),
-        (4017, 18, 2, 2), (4018, 18, 2, 5), (4019, 19, 2, 16), (4020, 19, 2, 17),
-        (4021, 19, 2, 18),
+        (4001, 13, 2, 1, 20000), (4002, 13, 2, 2, 18500), (4003, 13, 2, 5, 16000), (4004, 14, 2, 1, 20000),
+        (4005, 14, 2, 2, 19000), (4006, 14, 2, 5, 17000), (4007, 15, 2, 1, 20000), (4008, 15, 2, 10, 9500),
+        (4009, 15, 2, 11, 17500), (4010, 16, 2, 1, 20000), (4011, 16, 2, 2, 18500), (4012, 16, 2, 5, 16500),
+        (4013, 17, 2, 1, 20000), (4014, 17, 2, 2, 19000), (4015, 17, 2, 5, 17000), (4016, 18, 2, 1, 20000),
+        (4017, 18, 2, 2, 18500), (4018, 18, 2, 5, 16000), (4019, 19, 2, 16, 19500), (4020, 19, 2, 17, 19000),
+        (4021, 19, 2, 18, 22000),
+
         # Conan Gray
-        (5001, 20, 5, 5), (5002, 20, 5, 1), (5003, 20, 5, 2)
+        (5001, 20, 5, 5, 14000), (5002, 20, 5, 1, 18000), (5003, 20, 5, 2, 17000)
     ]
+
     for c in conciertos:
         conn.execute(text("""
-        INSERT OR IGNORE INTO Conciertos (id_concierto, id_gira, id_cantante, id_recinto)
-        VALUES (:id, :gira, :cantante, :recinto)
-        """), {"id": c[0], "gira": c[1], "cantante": c[2], "recinto": c[3]})
+        INSERT OR IGNORE INTO Conciertos (id_concierto, id_gira, id_cantante, id_recinto, entradas_vendidas)
+        VALUES (:id, :gira, :cantante, :recinto, :entradas)
+        """), {
+            "id": c[0],
+            "gira": c[1],
+            "cantante": c[2],
+            "recinto": c[3],
+            "entradas": c[4]
+        })
 
     conn.commit()
     print("Base de datos creada")
