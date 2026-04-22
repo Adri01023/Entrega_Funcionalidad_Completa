@@ -1,801 +1,1005 @@
-id_gira,id_cantante,nombre,num_canciones,duracion
-1,1,The Eras Tour,44,210
-2,1,Reputation Stadium Tour,24,125
-3,1,1989 World Tour,18,110
-4,2,+–=÷x Tour,25,140
-5,2,Divide Tour,22,120
-6,3,El Dorado World Tour,24,115
-7,3,Sale el Sol World Tour,21,105
-8,4,Most Wanted Tour,35,150
-9,4,World's Hottest Tour,30,135
-10,5,Motomami World Tour,28,95
-11,5,El Mal Querer Tour,15,75
-12,6,Magic Tour,26,120
-13,6,The Works Tour,24,110
-14,7,Bad World Tour,18,125
-15,7,Dangerous World Tour,16,120
-16,8,The Celebration Tour,28,130
-17,8,Reinvention World Tour,23,120
-18,9,Justice World Tour,24,100
-19,9,Purpose World Tour,22,110
-20,10,Adele Live 2016,18,105
-21,11,Renaissance World Tour,34,160
-22,12,México Por Siempre Tour,25,130
-23,13,Farewell Yellow Brick Road,25,165
-24,14,The Chromatica Ball,20,120
-25,15,24K Magic World Tour,20,95
-26,16,Ahí Vamos Tour,22,115
-27,17,Future Nostalgia Tour,18,90
-28,18,After Hours til Dawn Tour,29,110
-29,19,Happier Than Ever Tour,26,100
-30,20,Anti World Tour,25,100
-31,21,Gira Jesucristo Superstar,20,110
-32,22,Love on Tour,21,100
-33,23,Amor Prohibido Tour,18,85
-34,24,Serious Moonlight Tour,22,120
-35,25,Back to Black Tour,16,75
-36,26,México Todo es Bello,28,150
-37,27,Viviendo Tour,22,125
-38,28,The Prismatic World Tour,21,120
-39,29,Bangerz Tour,20,105
-40,30,In the Lonely Hour Tour,17,90
-41,31,Sweetener World Tour,27,100
-42,32,Twelve Carat Tour,22,95
-43,33,It's All a Blur Tour,38,140
-44,34,Wonder: The World Tour,20,100
-45,35,Never Be the Same Tour,18,85
-46,36,Papi Juancho Tour,24,110
-47,37,Energía Tour,22,105
-48,38,Mañana Será Bonito Tour,32,145
-49,39,Odissea World Tour,25,110
-50,40,Legends Never Die Tour,26,115
-51,41,La Última Vuelta World Tour,35,140
-52,42,One World Tour,22,110
-53,43,Sex and Love Tour,21,105
-54,44,Sirope Tour,22,120
-55,45,Gira 50 Años,25,135
-56,46,Gira Victoria,24,130
-57,47,Lo Niego Todo Tour,22,130
-58,48,Antología Desordenada,26,140
-59,49,Desde el Alma Tour,24,120
-60,50,Circo Soledad Tour,25,145
-61,51,Aloha from Hawaii,24,90
-62,52,Purple Rain Tour,20,115
-63,53,Uprising Tour,18,95
-64,54,My Way Tour,22,100
-65,55,Respect World Tour,19,90
-66,56,Songs in the Key of Life Tour,26,150
-67,57,The Bodyguard Tour,20,110
-68,58,Courage World Tour,24,125
-69,59,Believe Tour,22,115
-70,60,Wildest Dreams Tour,20,105
-71,61,Never Ending Tour,18,100
-72,62,The River Tour,30,190
-73,63,Got Back Tour,36,165
-74,64,Imagine Tour,15,80
-75,65,Dark Horse Tour,17,85
-76,66,All Starr Band Tour,20,110
-77,67,No Filter Tour,21,125
-78,68,Main Offender Tour,18,100
-79,69,Carry Fire Tour,16,95
-80,70,Appetite for Democracy,25,150
-81,71,In Utero Tour,20,95
-82,72,Gigaton Tour,26,150
-83,73,Euphoria Tour,18,110
-84,74,One More Light Tour,23,105
-85,75,No More Tours II,20,120
-86,76,WorldWired Tour,18,135
-87,77,Global Warming Tour,22,115
-88,78,This House Is Not for Sale,21,130
-89,79,Billy Joel in Concert,24,145
-90,80,Not Dead Yet Tour,23,125
-91,81,57th & 9th Tour,22,115
-92,82,eXPERIENCE + iNNOCENCE,24,135
-93,83,The Doors Live,14,90
-94,84,Pearl World Tour,12,70
-95,85,Cry of Love Tour,13,80
-96,86,The Marshall Mathers Tour,22,95
-97,87,4:44 Tour,20,100
-98,88,Saint Pablo Tour,31,110
-99,89,High Road Tour,20,95
-100,90,Up in Smoke Tour,22,120
-101,101,Mutaciones Tour,22,130
-102,102,Bohemio Tour,21,120
-103,103,El Amor Después del Amor 30,23,125
-104,104,La Torre de Tesla,20,110
-105,105,Spinetta y las Bandas Eternas,50,300
-106,106,Eco Tour,20,115
-107,107,Hasta la Raíz Tour,18,100
-108,108,Algo Sucede Tour,19,95
-109,109,Norma Tour,20,105
-110,110,Residente Tour,22,130
-111,111,Gira Adiós a un Grande,28,160
-112,112,Hecho en México,25,135
-113,113,Que Ganas de Verte,24,140
-114,114,Entre Mar y Palmeras,22,120
-115,115,Salswing Tour,21,150
-116,116,La Vida es un Carnaval Tour,18,110
-117,117,90 Millas World Tour,20,115
-118,118,Latina Love Tour,19,100
-119,119,Deseo Tour,18,90
-120,120,Isla Divina World Tour,22,125
-121,121,World Wide Tour,22,130
-122,122,Battito Infinito Tour,21,120
-123,123,Believe World Tour,18,110
-124,124,The Three Tenors Tour,15,100
-125,125,Aznavour Live,20,115
-126,126,Recital de l'Olympia,14,70
-127,127,Cornucopia Tour,20,110
-128,128,Watermark Tour,12,65
-129,129,No Baggage Tour,18,90
-130,130,I'm Not Bossy Tour,17,85
-131,131,World Peace Is None of Your Business,19,95
-132,132,The Cure Shows,28,160
-133,133,Thom Yorke Modern Boxes,18,100
-134,134,The Nearer the Fountain,16,90
-135,135,C'mon You Know Tour,20,110
-136,136,Council Skies Tour,19,105
-137,137,Tranquility Base Tour,21,95
-138,138,Music of the Spheres,24,125
-139,139,Will of the People Tour,22,115
-140,140,The Desired Effect Tour,18,90
-141,141,City Club Tour,17,85
-142,142,The Slow Rush Tour,18,100
-143,143,Innerspeaker Live,14,80
-144,144,The Ascension Tour,16,110
-145,145,Daddy's Home Tour,19,95
-146,146,The Idler Wheel Tour,15,85
-147,147,Ocean to Ocean Tour,18,105
-148,148,Horses Tour,17,100
-149,149,Panic of Girl Tour,18,90
-150,150,She's So Unusual 30th,20,105
-151,151,Nostalgia Tour,18,95
-152,152,Before the Dawn,22,150
-153,153,ABBA Voyage,20,95
-154,154,Agnetha Live,12,70
-155,155,Frida Solo Tour,14,75
-156,156,Benny Piano Tour,15,80
-157,157,True Tour,20,100
-158,158,Elements of Life,22,140
-159,159,Listen Tour,24,120
-160,160,Funk Wav Bounces Tour,20,90
-161,161,Alive 2007,18,90
-162,162,Play Tour,20,110
-163,163,You've Come a Long Way Tour,18,100
-164,164,Recess Tour,22,95
-165,165,Orbit Tour,19,90
-166,166,Joytime Tour,20,85
-167,167,Cloud Nine Tour,18,100
-168,168,Sentio Tour,21,95
-169,169,Neon Future Tour,22,105
-170,170,Walkerverse Tour,19,90
-171,171,Cube V3 Tour,18,105
-172,172,Balance Tour,20,120
-173,173,Music Rescues Me,19,115
-174,174,Global DJ Tour,18,150
-175,175,Close Tour,17,120
-176,176,Aphex Live,15,90
-177,177,Ambient Works Tour,12,80
-178,178,Electronica Tour,18,110
-179,179,Mythodea Tour,14,100
-180,180,Catalogue Tour,20,120
-181,181,Post Pop Depression,20,105
-182,182,Berlin Tour,18,100
-183,183,Desertshore Tour,12,70
-184,184,Glitter and Doom,22,130
-185,185,Ghosteen Tour,18,120
-186,186,Old Ideas World Tour,25,180
-187,187,Shine Tour,16,95
-188,188,Alchemy Tour,18,125
-189,189,Astral Weeks Live,15,100
-190,190,Peace Train Tour,20,110
-191,191,Before This World,19,105
-192,192,Tapestry 50th,16,90
-193,193,Old Friends Tour,21,110
-194,194,CSN Reunion Tour,20,120
-195,195,The Dance Tour,22,130
-196,196,Rock It To The Stars,15,85
-197,197,History of the Eagles,27,160
-198,198,Last of a Dyin' Breed,18,105
-199,199,Tonnage Tour,19,100
-200,200,Rock or Bust Tour,20,120
-201,201,Not in This Lifetime Tour,28,180
-202,202,M72 World Tour,18,130
-203,203,The Future Past Tour,15,115
-204,204,The End Tour,17,110
-205,205,The Wall Live,25,120
-206,206,Pulse Tour,18,145
-207,207,The Who Hits 50!,22,125
-208,208,Survival Tour,18,90
-209,209,50th Anniversary Tour,24,105
-210,210,Live at the Bowl,14,95
-211,211,Reunion Tour,16,85
-212,212,Adios Amigos Tour,28,90
-213,213,Out of Control Tour,19,100
-214,214,Filthy Lucre Tour,15,75
-215,215,Closer Live,14,70
-216,216,Music Complete Tour,19,110
-217,217,Memento Mori World Tour,23,130
-218,218,Dreamworld Tour,22,105
-219,219,The Queen Is Dead Tour,18,90
-220,220,Shows of a Lost World,29,170
-221,221,The Joshua Tree Tour 2017,22,130
-222,222,R.E.M. Live,21,115
-223,223,Live and Loud,19,95
-224,224,Gigaton Tour,24,140
-225,225,King Animal Tour,18,110
-226,226,Rainier Fog Tour,19,105
-227,227,Global Stadium Tour,20,120
-228,228,Everything or Nothing at All,24,150
-229,229,The Saviors Tour,30,140
-230,230,A Moon Shaped Pool Tour,22,135
-231,231,Knebworth 96,20,115
-232,232,The Ballad of Darren Tour,20,110
-233,233,This Is Hardcore Tour,18,105
-234,234,Autofiction Tour,19,100
-235,235,The New Abnormal Tour,18,95
-236,236,The Car Tour,21,100
-237,237,Imploding the Mirage Tour,22,110
-238,238,Can We Please Have Fun Tour,19,105
-239,239,Simulation Theory World Tour,21,120
-240,240,Escape to Plastic Beach,22,110
-241,241,The Long Goodbye Tour,18,120
-242,242,WE Tour,20,125
-243,243,Elephant Tour,17,85
-244,244,Dropout Boogie Tour,19,95
-245,245,Only God Was Above Us Tour,22,110
-246,246,Shore Tour,18,100
-247,247,i,i Tour,16,90
-248,248,First Two Pages of Frankenstein,21,125
-249,249,Cruel Country Tour,22,130
-250,250,The Golden Casket Tour,19,105
-251,251,Nina Simone Live at Ronnie Scott's,15,90
-252,252,Lady Day Tour,12,70
-253,253,Ella in Rome,16,80
-254,254,Kind of Blue Live,10,95
-255,255,A Love Supreme Live,5,60
-256,256,Satchmo World Tour,18,85
-257,257,Carnegie Hall Concert,20,110
-258,258,Bird with Strings Tour,14,75
-259,259,Monk in Tokyo,12,90
-260,260,Georgia on My Mind Tour,18,100
-261,261,Live at the Harlem Square Club,16,75
-262,262,Monterey Pop Live,10,50
-263,263,What's Going On Tour,15,90
-264,264,Live at the Apollo,20,85
-265,265,Lay It Down Tour,16,90
-266,266,Still Bill Tour,14,80
-267,267,Superfly Tour,15,85
-268,268,Shaft Live,12,100
-269,269,Unlimited Tour,18,110
-270,270,Last Dance Tour,20,105
-271,271,More Today Than Yesterday,19,100
-272,272,All the Hits Tour,21,115
-273,273,24 Karat Gold Tour,18,110
-274,274,In the Heat of the Night Tour,17,90
-275,275,Just Like That Tour,18,105
-276,276,Threads Tour,19,100
-277,277,Jagged Little Pill 25th,20,110
-278,278,Queen of Me Tour,22,120
-279,279,Arista 25th Tour,15,85
-280,280,Mad Love Tour,17,90
-281,281,Rockstar Tour,20,115
-282,282,Outlaw Music Festival,18,100
-283,283,Man in Black Tour,22,105
-284,284,The Highwaymen Tour,24,125
-285,285,The Cedar Creek Sessions,15,80
-286,286,The Gambler Last Deal,21,110
-287,287,The Stadium Tour,25,140
-288,288,Strait to Vegas,23,130
-289,289,Standing Room Only Tour,21,115
-290,290,The Speed of Now World Tour,20,110
-291,291,Denim & Rhinestones Tour,22,115
-292,292,Mind of a Country Boy Tour,21,105
-293,293,Back to the Honky Tonk,20,100
-294,294,Wildcard Tour,19,100
-295,295,All-American Road Show,23,125
-296,296,Star-Crossed: Unveiled,18,95
-297,297,Mule Pull Tour,19,100
-298,298,Sound & Fury Tour,16,90
-299,299,Weathervanes Tour,18,105
-300,300,In These Silent Days,19,100
-301,301,Visions Tour,17,95
-302,302,Turn Up the Quiet Tour,18,100
-303,303,Higher Tour,24,125
-304,304,True Love Tour,18,100
-305,305,Taller Tour,19,110
-306,306,Liquid Spirit Tour,16,105
-307,307,Radio Music Society,15,95
-308,308,Heaven and Earth Tour,12,120
-309,309,Black Radio Tour,14,100
-310,310,Empire Central Tour,13,115
-311,311,It Is What It Is Tour,17,90
-312,312,Flamagra Tour,18,85
-313,313,Fragments Tour,16,100
-314,314,Morning/Evening Tour,14,90
-315,315,Suddenly Tour,15,95
-316,316,Sirens Tour,14,110
-317,317,Elaenia Tour,12,100
-318,318,Singularity Tour,13,95
-319,319,All Melody Tour,11,105
-320,320,Some Kind of Peace,12,90
-321,321,Voices Tour,10,110
-322,322,In a Time Lapse Tour,15,120
-323,323,Kerber Tour,14,100
-324,324,The World of Hans Zimmer,18,150
-325,325,John Williams Celebration,16,120
-326,326,The 60 Years of Music,19,140
-327,327,Playing the Piano Tour,15,110
-328,328,The World of Joe Hisaishi,14,120
-329,329,Sukiyaki Japan Tour,15,80
-330,330,Performance 2024,20,130
-331,331,City Pop Story,18,100
-332,332,Circuit of Rainbow,17,95
-333,333,Stay with Me Night,14,80
-334,334,Silhouette Tour,16,90
-335,335,Precious Party,19,105
-336,336,Akina East Live,22,120
-337,337,Laughter in the Dark,20,125
-338,338,Finally Tour,22,140
-339,339,Premium Show,21,115
-340,340,Hype Tour,19,100
-341,341,LiVE is Smile Always,20,110
-342,342,Aimer Hall Tour,18,105
-343,343,Pop Virus Tour,21,120
-344,344,Love All Serve All,18,100
-345,345,Replica Tour,17,90
-346,346,Love Yourself World Tour,26,150
-347,347,Born Pink World Tour,24,110
-348,348,Ready to Be World Tour,25,135
-349,349,R to V Tour,21,120
-350,350,Exo'rDIUM Tour,28,160
-351,351,The Golden Hour Tour,25,180
-352,352,The Odd of Love Tour,21,120
-353,353,Warning Tour,18,95
-354,354,Bare & Rare Tour,17,90
-355,355,Sexy 4 Eva Tour,20,100
-356,356,King of the Zungle,19,105
-357,357,Act III: M.O.T.T.E,23,125
-358,358,Alpha Tour,18,90
-359,359,Lip & Hip Tour,16,85
-360,360,Summer Swag Tour,22,140
-361,361,The Best Show,20,120
-362,362,BoA Live Tour,21,115
-363,363,Deep River Tour,18,105
-364,364,Ugly Beauty World Tour,24,130
-365,365,Carnival World Tour,25,150
-366,366,Fear and Dreams Tour,22,140
-367,367,Faye Wong Live,18,110
-368,368,Final Concert,20,120
-369,369,Passion Tour,19,115
-370,370,The Legend Tour,16,90
-371,371,Rock on the New Road,18,110
-372,372,I Am Gloria Tour,21,125
-373,373,Magic Man World Tour,20,110
-374,374,Grandline Tour,19,105
-375,375,Antares Tour,15,80
-376,376,Pi Tour,16,90
-377,377,Victoria World Tour,17,100
-378,378,Stranger Tour,22,150
-379,379,The Songs of My Mother,18,110
-380,380,P.S. Concert,20,130
-381,381,Trololo World Tour,12,60
-382,382,The Best of Magomayev,15,85
-383,383,Opera Gala Tour,14,100
-384,384,The Great Baritone,13,95
-385,385,Karma Tour,19,110
-386,386,Sezen Aksu Söylüyor,20,125
-387,387,Amr Diab World Tour,22,130
-388,388,Nancy Live,18,105
-389,389,Beiteddine Festival Live,15,110
-390,390,Paris Olympia Live,10,180
-391,391,Googoosh World Tour,21,140
-392,392,Hayedeh in Concert,15,120
-393,393,A.R. Rahman Live,25,160
-394,394,Lata Live in London,18,130
-395,395,Kishore Kumar Night,16,120
-396,396,Arijit Singh Live,24,150
-397,397,Shreya Ghoshal World Tour,20,135
-398,398,Zubeen Garg Rock Tour,19,110
-399,399,Sidhu Moose Wala Live,18,100
-400,400,Born to Shine Tour,20,115
-401,401,Youssou N'Dour Live,17,110
-402,402,Pata Pata World Tour,15,90
-403,403,The Best of Fela,12,150
-404,404,Love Damini Tour,21,110
-405,405,More Love Less Ego,20,100
-406,406,Timeless Tour,22,115
-407,407,Mother Nature Tour,18,100
-408,408,The Golden Voice,16,105
-409,409,Desert Blues Tour,14,95
-410,410,Amatssou Tour,15,100
-411,411,Sodade Tour,16,110
-412,412,Multitude Tour,19,105
-413,413,Organique Tour,18,95
-414,414,Mini World Tour,15,85
-415,415,La Ventura Tour,22,120
-416,416,Quelqu'un m'a dit Tour,16,80
-417,417,Vanessa Paradis Live,18,95
-418,418,Gainsbourg Live,15,85
-419,419,Birkin/Gainsbourg Tour,14,90
-420,420,La Question Live,15,80
-421,421,Nevermore Tour,22,140
-422,422,Rester Vivant Tour,24,150
-423,423,Ali e Radici,21,120
-424,424,World Wild Tour,22,130
-425,425,TZN World Tour,23,125
-426,426,Lorenzo Live,25,150
-427,427,Ligabue Stadi,22,140
-428,428,Vasco Non Stop,24,160
-429,429,Mina Live 78,18,110
-430,430,Celentano Live,20,130
-431,431,Raffaella Carrà Show,21,100
-432,432,Modugno Live,15,90
-433,433,Emotional Tour,18,100
-434,434,Rock Believer Tour,20,115
-435,435,Stadium Tour,19,135
-436,436,99 Luftballons Tour,18,100
-437,437,Modern Talking Live,17,90
-438,438,Boney M World Tour,19,100
-439,439,Girl You Know It's True,15,85
-440,440,United Forces Tour,20,120
-441,441,The God Machine Tour,18,115
-442,442,Per Gessle's Roxette,21,115
-443,443,The Final Countdown Tour,18,105
-444,444,Gran Turismo Tour,17,90
-445,445,Happy Nation Tour,16,85
-446,446,Eyeye Tour,15,80
-447,447,Honey Tour,18,95
-448,448,Venus Tour,17,90
-449,449,Dirt Femme Tour,18,95
-450,450,Gira 40 Años de Magia,25,140
-451,451,Gira de Despedida,24,130
-452,452,Yupanqui en Vivo,15,90
-453,453,Facundo Cabral en Vivo,18,100
-454,454,Cortez en el Luna Park,20,120
-455,455,Gira Que Esperas,21,110
-456,456,Atlántico a Pie Tour,22,115
-457,457,Sigo Siendo Yo,19,105
-458,458,Gira Enanitos 40,22,120
-459,459,Me Verás Volver,24,135
-460,460,Trinchera Tour,19,110
-461,461,México Lindo y Querido,18,100
-462,462,Infante de México,15,90
-463,463,Solís en el Metropolitan,16,85
-464,464,Chavela Vargas en el Olimpia,14,100
-465,465,Dos Corazones Tour,20,110
-466,466,Amor Supremo Tour,18,95
-467,467,Mediocre Tour,17,90
-468,468,Libertad: The Tour,19,100
-469,469,Forajido Tour,22,125
-470,470,Exodo Tour,24,110
-471,471,Tumbados Tour,21,105
-472,472,Todo o Nada Tour,20,100
-473,473,Gira Roberto Carlos 2024,22,130
-474,474,Meu Coco Tour,20,115
-475,475,Aquele Abraço Tour,21,120
-476,476,Que Tal um Samba?,22,125
-477,477,Elis no Montreux,18,100
-478,478,As Várias Pontas de uma Estrela,20,110
-479,479,Amoroso Live,15,90
-480,480,Wave Tour,14,85
-481,481,Jorge Ben Jor ao Vivo,22,120
-482,482,Quadra World Tour,18,110
-483,483,Funk Generation Tour,19,95
-484,484,Ludmilla in the House,21,105
-485,485,Noitada Tour,18,90
-486,486,Bem Sertanejo,20,110
-487,487,Buteco Tour,25,160
-488,488,Luan City Tour,22,130
-489,489,Todos os Cantos,20,120
-490,490,Mis Américas Tour,19,110
-491,491,Libro Tour,18,105
-492,492,Duelo Tour,19,100
-493,493,Espejo Tour,17,90
-494,494,Amiga Tour,18,95
-495,495,Ulyse Tour,19,100
-496,496,Vida Tan Bonita,20,105
-497,497,Pateando Piedras Live,21,110
-498,498,Adaptación Tour,20,115
-499,499,Gira 30 Años,22,120
-500,500,Mami Tour,19,105
-501,1,Speak Now World Tour,20,120
-502,1,The Red Tour,19,115
-503,1,Fearless Tour,17,105
-504,7,HIStory World Tour,24,140
-505,8,Rebel Heart Tour,23,125
-506,8,The MDNA Tour,22,120
-507,8,Sticky & Sweet Tour,21,130
-508,8,Confessions Tour,19,110
-509,67,A Bigger Bang Tour,22,135
-510,67,Licks Tour,23,130
-511,67,Bridges to Babylon Tour,20,125
-512,67,Voodoo Lounge Tour,20,120
-513,11,The Mrs. Carter Show,25,120
-514,11,Formation World Tour,30,130
-515,11,I Am... World Tour,28,110
-516,13,The Red Piano Tour,18,100
-517,13,Face to Face Tour,22,160
-518,14,The Born This Way Ball,23,130
-519,14,The Monster Ball Tour,19,110
-520,14,ArtRave: The Artpop Ball,20,115
-521,20,Loud Tour,21,110
-522,20,Diamonds World Tour,24,120
-523,20,Last Girl on Earth Tour,20,105
-524,41,The Big Boss Tour,22,110
-525,41,Talento de Barrio Tour,20,105
-526,42,Livin' la Vida Loca Tour,19,110
-527,42,Música + Alma + Sexo World Tour,21,115
-528,43,Euphoria World Tour,20,105
-529,43,Insomniac World Tour,18,100
-530,12,The Hits Tour,26,140
-531,12,Complices Tour,24,130
-532,12,Mis Romances Tour,22,120
-533,3,Oral Fixation Tour,20,110
-534,3,Tour of the Mongoose,19,105
-535,3,Tour Anfibio,15,90
-536,2,Multiply Tour,20,115
-537,2,The A Team Tour,15,85
-538,15,The Moonshine Jungle Tour,18,100
-539,22,Harry Styles: Live on Tour,18,90
-540,62,Wrecking Ball World Tour,28,185
-541,62,Magic Tour,26,170
-542,62,Tunnel of Love Express,24,160
-543,63,Out There Tour,38,170
-544,63,On the Run Tour,40,180
-545,63,The 'New' Tour,37,165
-546,78,Because We Can Tour,22,135
-547,78,Lost Highway Tour,23,140
-548,78,Have a Nice Day Tour,22,130
-549,82,U2 360° Tour,24,145
-550,82,Vertigo Tour,23,135
-551,82,Zoo TV Tour,22,130
-552,82,PopMart Tour,21,125
-553,86,The Recovery Tour,24,110
-554,86,The Rapture Tour,22,105
-555,86,Anger Management Tour,20,100
-556,101,Hellville de Tour,22,135
-557,101,Flamingos Tour,21,130
-558,101,Pequeño Cabaret Ambulante,20,120
-559,103,Giros 30 Aniversario,18,100
-560,103,Circo Beat Tour,20,115
-561,114,A Son de Guerra Tour,22,130
-562,114,La Llave de mi Corazón Tour,21,125
-563,115,Cantares del Subdesarrollo,19,110
-564,115,Todos Vuelven Tour,24,160
-565,121,Hazte Sentir World Tour,22,130
-566,121,Inédito World Tour,21,125
-567,121,Similares US & Latam Tour,20,120
-568,49,En Todo Estaré Tour,22,120
-569,49,No hay imposibles Tour,21,115
-570,49,Sincero Tour,20,110
-571,110,La Lucha Tour,21,130
-572,109,La Trenza Tour,20,115
-573,109,Mon Laferte Vol. 1 Tour,18,100
-574,38,Bichota Tour,22,110
-575,38,Unstoppable Tour,19,95
-576,37,Vibras Tour,22,105
-577,37,Arcoíris Tour,24,115
-578,36,11:11 World Tour,22,110
-579,36,F.A.M.E. Tour,21,105
-580,33,Jungle Tour,20,100
-581,33,Aubrey & the Three Migos,25,120
-582,33,Boy Meets World Tour,28,115
-583,18,Starboy: Legend of the Fall,22,105
-584,18,King of the Fall Tour,18,90
-585,17,The Self-Titled Tour,16,85
-586,31,The Honeymoon Tour,20,95
-587,31,Dangerous Woman Tour,21,100
-588,28,California Dreams Tour,20,110
-589,28,Witness: The Tour,22,115
-590,28,Hello Katy Tour,15,80
-591,450,Gira de los 60,18,90
-592,16,Siempre es Hoy Tour,21,115
-593,16,Bocanada Tour,19,110
-594,459,Me Verás Volver (Reunión),22,130
-595,459,Gira Signos,18,100
-596,459,Gira Animal,20,115
-597,497,Gira Presidencial,20,110
-598,498,Gira Invisible,18,100
-599,499,Gira Freno de Mano,19,105
-600,112,Confidencias World Tour,24,135
-601,311,Drunk Tour,17,85
-602,311,The Beyond Tour,16,90
-603,227,The Getaway World Tour,20,110
-604,227,I'm with You World Tour,21,115
-605,227,Stadium Arcadium Tour,22,125
-606,228,Concrete and Gold Tour,24,155
-607,228,Sonic Highways World Tour,23,150
-608,228,Wasting Light World Tour,22,145
-609,202,WorldWired Tour,18,135
-610,202,World Magnetic Tour,18,130
-611,202,Madly in Anger with the World,19,125
-612,75,The Ultimate Tour,20,115
-613,75,Retirement Suck Tour,18,110
-614,203,Legacy of the Beast,16,110
-615,203,The Book of Souls,15,115
-616,203,Maiden England World Tour,17,110
-617,157,Stories World Tour,20,100
-618,157,Levels Tour,18,90
-619,158,Kaleidoscope World Tour,21,140
-620,158,In Search of Sunrise Tour,20,150
-621,159,7 World Tour,22,120
-622,159,One Love Tour,20,115
-623,161,Alive 1997,14,80
-624,217,Global Spirit Tour,22,130
-625,217,Delta Machine Tour,21,125
-626,217,Tour of the Universe,20,120
-627,217,Devotional Tour,19,115
-628,138,A Head Full of Dreams,24,125
-629,138,Mylo Xyloto Tour,21,110
-630,138,Viva la Vida Tour,20,105
-631,138,Twisted Logic Tour,19,100
-632,236,AM Tour,20,95
-633,236,Suck It and See Tour,19,90
-634,236,Humbug Tour,18,85
-635,137,The Last Shadow Puppets Tour,17,80
-636,239,The 2nd Law World Tour,21,115
-637,239,The Resistance Tour,20,110
-638,239,Black Holes and Revelations,19,105
-639,139,Origin of Symmetry Tour,18,100
-640,231,Heathen Chemistry Tour,20,105
-641,231,Standing on the Shoulder Tour,19,100
-642,231,Definitely Maybe Tour,15,80
-643,135,As You Were Tour,18,95
-644,136,Who Built the Moon Tour,19,100
-645,230,The King of Limbs Tour,20,120
-646,230,In Rainbows Tour,22,125
-647,230,Hail to the Thief Tour,21,115
-648,230,OK Computer Tour,19,110
-649,206,The Division Bell Tour,22,150
-650,206,A Momentary Lapse of Reason,20,140
-651,201,Use Your Illusion Tour,26,170
-652,201,Chinese Democracy Tour,22,150
-653,70,Axl Rose Solo Tour,18,120
-654,77,Dream on Tour,20,110
-655,77,Nine Lives Tour,21,115
-656,77,Permanent Vacation Tour,19,105
-657,72,Pearl Jam 20th Anniversary,25,160
-658,72,Backspacer Tour,24,150
-659,71,MTV Unplugged Tour,14,65
-660,71,Bleach Tour,15,70
-661,195,Say You Will Tour,22,130
-662,195,The Dance Tour,20,125
-663,195,Rumours Tour,18,100
-664,197,Hell Freezes Over,22,140
-665,197,The Long Run Tour,20,125
-666,51,'68 Comeback Tour,15,60
-667,51,That's the Way It Is,20,85
-668,52,Hit n Run Tour,21,110
-669,52,Musicology Tour,22,120
-670,52,Diamonds and Pearls Tour,20,115
-671,53,Exodus Tour,16,90
-672,53,Kaya Tour,15,85
-673,53,Natty Dread Tour,14,80
-674,87,The Magna Carter World Tour,22,105
-675,87,Blueprint 3 Tour,21,100
-676,80,The First Final Farewell,23,130
-677,80,Both Sides of the World,22,125
-678,80,Serious Tour,21,120
-679,81,Back to Bass Tour,20,110
-680,81,Symphonicities Tour,18,115
-681,81,Broken Music Tour,19,105
-682,100,The Heavy Entertainment Show,22,120
-683,100,Take the Crown Stadium,21,115
-684,100,Close Encounters Tour,20,110
-685,99,25 Live Tour,22,130
-686,99,Faith World Tour,20,115
-687,122,Ali e Radici Tour,21,120
-688,122,E2 World Tour,20,115
-689,123,Cinema World Tour,18,110
-690,123,Passione Tour,17,105
-691,42,Musica + Alma + Sexo,21,115
-692,42,Vuelve World Tour,19,100
-693,42,Black & White Tour,20,105
-694,43,Sex and Love Tour,22,110
-695,43,Greatest Hits Tour,20,105
-696,15,Moonshine Jungle,19,100
-697,15,Hooligans in Wondaland,16,85
-698,9,Believe Tour,21,105
-699,9,My World Tour,18,90
-700,5,Los Ángeles Tour,14,70
-701,4,X 100pre Tour,25,120
-702,4,La Nueva Religión,22,110
-703,1,The 1989 World Tour,19,110
-704,26,Bellas Artes Live,28,180
-705,26,Celebrando 35 Años,25,160
-706,21,Camilo Pura Pasión,20,115
-707,21,Gira del Adiós,22,125
-708,27,Pa'lla Voy Tour,21,120
-709,27,Opus Tour,20,115
-710,23,Selena Live!,18,95
-711,23,Ven Conmigo Tour,16,85
-712,47,Vinagre y Rosas Tour,22,130
-713,47,Carretera y Top manta,20,120
-714,48,Mediterráneo da Capo,22,135
-715,48,El Gusto es Nuestro,24,150
-716,45,1 World Tour,22,130
-717,45,Julio Iglesias en Concierto,21,120
-718,46,Gira 60 Años,25,140
-719,46,De Amor & Desamor Tour,23,130
-720,28,The California Dreams,21,110
-721,29,The Milky Milky Milk,16,85
-722,29,Gypsy Heart Tour,18,95
-723,30,The Thrill of It All,19,100
-724,31,Dangerous Woman,20,105
-725,32,Runaway Tour,21,100
-726,35,The Romance Tour,18,90
-727,39,Nibiru World Tour,22,110
-728,40,RHLM Tour,20,105
-729,50,Hecho a la Antigua,22,120
-730,50,Metamorfosis World Tour,24,140
-731,44,Sanz en Vivo,22,125
-732,44,La Música No Se Toca,21,120
-733,38,Karol G MSB Tour,30,150
-734,58,Taking Chances World Tour,23,130
-735,58,A New Day Live,22,120
-736,55,The Queen of Soul,18,90
-737,56,The Wonder Summer,22,130
-738,57,My Love Is Your Love,19,105
-739,59,The Farewell Tour,21,115
-740,59,Do You Believe? Tour,20,110
-741,60,Twenty Four Seven Tour,22,125
-742,60,Wildest Dreams World Tour,21,120
-743,102,Salmonalipsis Now,22,140
-744,102,Bohemio World Tour,20,125
-745,103,Euforia Tour,21,115
-746,104,Say No More Tour,20,110
-747,104,La Hija de la Lágrima,18,105
-748,105,Para los Árboles,16,95
-749,111,El Adiós de un Rey,28,180
-750,112,A Corazón Abierto,23,125
-751,113,Gira 40 Años,22,130
-752,118,Thalía en Vivo,19,100
-753,119,Gira Deseo,18,95
-754,120,Trevi Evolution,21,115
-755,200,Black Ice World Tour,20,130
-756,200,Stiff Upper Lip,19,120
-757,205,The Wall Pink Floyd,24,140
-758,205,Division Bell Tour,22,150
-759,217,Global Spirit,22,130
-760,217,Exciter Tour,20,120
-761,221,The Joshua Tree 2017,21,130
-762,221,Innocence + Experience,22,135
-763,222,Around the Sun,20,115
-764,222,Monster Tour,21,120
-765,227,By the Way Tour,21,115
-766,227,Californication Tour,20,110
-767,228,Wasting Light Tour,22,145
-768,229,American Idiot Tour,25,130
-769,229,21st Century Breakdown,24,135
-770,230,In Rainbows,21,125
-771,231,Dig Out Your Soul,20,115
-772,231,Morning Glory Tour,19,105
-773,235,Angles World Tour,18,100
-774,236,Tranquility Base,20,105
-775,239,The 2nd Law,21,120
-776,240,The Now Now Tour,20,110
-777,243,Icky Thump Tour,18,90
-778,281,Blue Smoke World Tour,21,115
-779,281,Better Day World Tour,20,110
-780,283,The Man in Black,20,100
-781,303,Crazy Love Tour,23,120
-782,303,To Be Loved Tour,22,125
-783,346,Wings Tour,24,140
-784,346,The Red Bullet,18,110
-785,347,In Your Area Tour,20,105
-786,348,Twicelights Tour,21,110
-787,357,G-Dragon World Tour,22,120
-788,360,Psy Summer Swag,20,135
-789,365,The Invincible World Tour,22,140
-790,385,Tarkan Live in Istanbul,18,110
-791,387,Amr Diab Academy,20,120
-792,412,Racine Carrée Tour,21,110
-793,421,Mylenium Tour,20,130
-794,422,Flashback Tour,22,140
-795,434,Crazy World Tour,20,115
-796,435,LIFAD Tour,18,125
-797,442,Joyride World Tour,22,120
-798,442,Crash! Boom! Bang!,21,115
-799,443,Bag of Bones Tour,18,105
-800,500,Mami en Vivo,19,100
+cantante,nacionalidad,fecha_nac,concierto,num_canciones,duracion,recinto,pais,continente,max_entradas,entradas_vendidas,id_admin
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N1,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N2,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N3,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: London N6,25,120,Wembley Stadium,UK,Europa,90000,90000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N4,24,105,Indoor Stadium,Singapur,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: London N5,28,115,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Dublin N2,22,95,3Arena,Irlanda,Europa,13000,13000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Miami N3,20,110,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Lyon N3,26,130,Groupama Stadium,Francia,Europa,59000,59000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Hamburg N2,24,120,Barclays Arena,Alemania,Europa,15000,15000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Amsterdam N4,23,100,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Tokyo N3,21,100,Garden Theatre,Japón,Asia,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Paris N4,19,90,Zénith Paris,Francia,Europa,6800,6800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N6,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: London N5,27,110,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N1,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N2,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N3,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Warsaw N3,25,120,PGE Narodowy,Polonia,Europa,58000,58000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Seoul N4,24,105,Gocheok Sky Dome,Corea del Sur,Asia,25000,25000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Copenhagen N3,28,115,Royal Arena,Dinamarca,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Glasgow N2,22,95,OVO Hydro,UK,Europa,14000,14000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Atlanta N2,20,110,Truist Park,USA,Norteamérica,41000,41000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Frankfurt N3,26,130,Deutsche Bank Park,Alemania,Europa,45000,45000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Cologne N3,24,120,Lanxess Arena,Alemania,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Brussels N5,23,100,Forest National,Bélgica,Europa,8000,8000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Singapore N4,21,100,The Star Theatre,Singapur,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Aarhus N2,19,90,Northside Festival,Dinamarca,Europa,35000,35000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Copenhagen N2,20,90,Store Vega,Dinamarca,Europa,1500,1500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Amsterdam N3,27,110,Amsterdam Arena,Países Bajos,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Zurich N1,44,180,Letzigrund Stadion,Suiza,Europa,48000,48000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Zurich N2,44,180,Letzigrund Stadion,Suiza,Europa,48000,48000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Cardiff N4,25,120,Principality Stadium,UK,Europa,65000,65000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Lisbon N2,24,105,NOS Alive,Portugal,Europa,55000,55000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Manchester N2,28,115,Manchester Arena,UK,Europa,21000,21000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Birmingham N2,22,95,Utilita Arena,UK,Europa,15800,15800,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Hershey N2,20,110,Hersheypark Stadium,USA,Norteamérica,30000,30000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Werchter N3,26,130,Park Werchter,Bélgica,Europa,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Paris N2,24,120,Accor Arena,Francia,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: London N6,23,100,The O2 Arena,UK,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Taipei N4,21,100,TICC,Taiwán,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: London N3,19,90,OVO Arena Wembley,UK,Europa,12500,12500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Hamburg N2,20,90,Docks,Alemania,Europa,1500,1500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Brussels N3,27,110,King Baudouin Stadium,Bélgica,Europa,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Milan N1,44,180,San Siro,Italia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Milan N2,44,180,San Siro,Italia,Europa,80000,80000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Werchter N2,25,120,Festivalpark,Bélgica,Europa,65000,65000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Madrid N2,24,105,Mad Cool Festival,España,Europa,70000,70000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Glasgow N2,28,115,SSE Hydro,UK,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Paris N4,22,95,Accor Arena,Francia,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: London N4,20,110,Tottenham Hotspur Stadium,UK,Europa,62000,62000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Lille N3,26,130,Stade Pierre-Mauroy,Francia,Europa,50000,50000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Zurich N3,24,120,Hallenstadion,Suiza,Europa,13000,13000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Glasgow N4,23,100,OVO Hydro,UK,Europa,14000,14000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Jakarta N2,21,100,Kebun Raya,Indonesia,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Brussels N4,19,90,Forest National,Bélgica,Europa,8000,8000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Utrecht N2,20,90,TivoliVredenburg,Países Bajos,Europa,2000,2000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Milan N4,27,110,San Siro,Italia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N1,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N2,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N3,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Dublin N2,25,120,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Gdynia N2,24,105,Open'er Festival,Polonia,Europa,60000,60000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Birmingham N2,28,115,Arena Birmingham,UK,Europa,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Madrid N2,22,95,WiZink Center,España,Europa,15500,15500,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Paris N4,20,110,Stade de France,Francia,Europa,80000,80000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Monchengladbach N2,26,130,SparkassenPark,Alemania,Europa,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Barcelona N3,24,120,Palau Sant Jordi,España,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Birmingham N4,23,100,Utilita Arena,UK,Europa,15800,15800,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Bangkok N4,21,100,Impact Exhibition Hall,Tailandia,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Zurich N4,19,90,The Hall,Suiza,Europa,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Cologne N4,20,90,Palladium,Alemania,Europa,4000,4000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Madrid N4,27,110,Vicente Calderón,España,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Hamburg N1,44,180,Volksparkstadion,Alemania,Europa,57000,57000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Hamburg N2,44,180,Volksparkstadion,Alemania,Europa,57000,57000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Hamburg N2,25,120,Volksparkstadion,Alemania,Europa,50000,50000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Werchter N2,24,105,Rock Werchter,Bélgica,Europa,88000,88000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Amsterdam N3,28,115,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Barcelona N2,22,95,Palau Sant Jordi,España,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Stockholm N4,20,110,Friends Arena,Suecia,Europa,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Bern N2,26,130,Wankdorf Stadium,Suiza,Europa,32000,32000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Vienna N4,24,120,Wiener Stadthalle,Austria,Europa,16000,16000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Milan N3,23,100,Unipol Forum,Italia,Europa,12000,12000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manila N5,21,100,MOA Arena,Filipinas,Asia,15000,15000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Lisbon N4,19,90,Coliseu dos Recreios,Portugal,Europa,4000,4000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Munich N4,20,90,Zenith,Alemania,Europa,5800,5800,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Barcelona N2,27,110,Estadi Olímpic,España,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Munich N1,44,180,Olympiastadion,Alemania,Europa,74000,74000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Munich N2,44,180,Olympiastadion,Alemania,Europa,74000,74000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Munich N4,25,120,Olympiastadion,Alemania,Europa,70000,70000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N5,24,105,Indoor Stadium,Singapur,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Paris N4,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Lisbon N2,22,95,MEO Arena,Portugal,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Los Angeles N4,20,110,Dodger Stadium,USA,Norteamérica,52000,52000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Milton Keynes N2,26,130,Stadium MK,UK,Europa,30000,30000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Prague N4,24,120,O2 Arena,Rep. Checa,Europa,18000,18000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris N7,23,100,Accor Arena,Francia,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Seoul N4,21,100,KBS Arena,Corea del Sur,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Milan N4,19,90,Fabrique,Italia,Europa,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Milan N4,20,90,Fabrique,Italia,Europa,3000,3000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Porto N2,27,110,Estádio do Dragão,Portugal,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Warsaw N1,44,180,PGE Narodowy,Polonia,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Warsaw N2,44,180,PGE Narodowy,Polonia,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Warsaw N3,44,180,PGE Narodowy,Polonia,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Barcelona N2,25,120,Estadi Olímpic,España,Europa,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Kuala Lumpur N3,24,105,Axiata Arena,Malasia,Asia,10000,10000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Vienna N3,28,115,Stadthalle,Austria,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Hamburg N3,22,95,Barclays Arena,Alemania,Europa,15000,15000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Miami N4,20,110,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Munich N3,26,130,Olympiastadion,Alemania,Europa,70000,70000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Birmingham N2,24,120,Utilita Arena,UK,Europa,15800,15800,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Amsterdam N5,23,100,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Tokyo N4,21,100,Garden Theatre,Japón,Asia,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Paris N5,19,90,Zénith Paris,Francia,Europa,6800,6800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N7,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Paris N5,27,110,Stade de France,Francia,Europa,80000,80000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Berlin N2,23,100,Uber Arena,Alemania,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Seoul N2,21,100,KBS Arena,Corea del Sur,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Milan N2,19,90,Fabrique,Italia,Europa,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Milan N2,20,90,Fabrique,Italia,Europa,3000,3000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Porto N1,27,110,Estádio do Dragão,Portugal,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sao Paulo N1,44,180,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sao Paulo N2,44,180,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sao Paulo N3,44,180,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Barcelona N1,25,120,Estadi Olímpic,España,Europa,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Kuala Lumpur N2,24,105,Axiata Arena,Malasia,Asia,10000,10000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Vienna N2,28,115,Stadthalle,Austria,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Hamburg N2,22,95,Barclays Arena,Alemania,Europa,15000,15000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Miami N2,20,110,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Munich N2,26,130,Olympiastadion,Alemania,Europa,70000,70000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Birmingham N1,24,120,Utilita Arena,UK,Europa,15800,15800,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Amsterdam N3,23,100,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Tokyo N2,21,100,Garden Theatre,Japón,Asia,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Paris N3,19,90,Zénith Paris,Francia,Europa,6800,6800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N3,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Paris N3,27,110,Stade de France,Francia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Tokyo N1,44,180,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Tokyo N2,44,180,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Tokyo N3,44,180,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Tokyo N4,44,180,Tokyo Dome,Japón,Asia,55000,55000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Madrid N2,25,120,Nuevo Espacio Mad Cool,España,Europa,70000,70000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Bangkok N2,24,105,Impact Arena,Tailandia,Asia,11000,11000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Prague N2,28,115,O2 Arena,Rep. Checa,Europa,18000,18000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Frankfurt N2,22,95,Festhalle,Alemania,Europa,13500,13500,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: London N3,20,110,Tottenham Hotspur Stadium,UK,Europa,62000,62000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Sofia N2,26,130,Vasil Levski Stadium,Bulgaria,Europa,50000,50000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Glasgow N1,24,120,OVO Hydro,UK,Europa,14000,14000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris N4,23,100,Accor Arena,Francia,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Taipei N3,21,100,TICC,Taiwán,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Amsterdam N2,19,90,AFAS Live,Países Bajos,Europa,6000,6000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Amsterdam N2,20,90,Melkweg,Países Bajos,Europa,1500,1500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Milan N3,27,110,San Siro,Italia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Melbourne N1,44,180,MCG,Australia,Oceanía,96000,96000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Melbourne N2,44,180,MCG,Australia,Oceanía,96000,96000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Melbourne N3,44,180,MCG,Australia,Oceanía,96000,96000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Lisbon N2,25,120,Passeio Marítimo de Algés,Portugal,Europa,60000,60000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Mumbai N2,24,105,MMRDA Grounds,India,Asia,30000,30000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Krakow N2,28,115,Tauron Arena,Polonia,Europa,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Copenhagen N2,22,95,Royal Arena,Dinamarca,Europa,16000,16000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Arnhem N2,20,110,GelreDome,Países Bajos,Europa,41000,41000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Tel Aviv N2,26,130,Hayarkon Park,Israel,Asia,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Manchester N2,24,120,AO Arena,UK,Europa,21000,21000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: London N4,23,100,The O2 Arena,UK,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Singapore N3,21,100,The Star Theatre,Singapur,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Brussels N3,19,90,Forest National,Bélgica,Europa,8000,8000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Prague N2,20,90,Forum Karlin,Rep. Checa,Europa,3000,3000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: London N4,27,110,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N1,44,180,Accor Stadium,Australia,Oceanía,81000,81000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N2,44,180,Accor Stadium,Australia,Oceanía,81000,81000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N3,44,180,Accor Stadium,Australia,Oceanía,81000,81000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N4,44,180,Accor Stadium,Australia,Oceanía,81000,81000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Reggio Emilia N2,25,120,RCF Arena,Italia,Europa,100000,100000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Jakarta N3,24,105,Indonesia Arena,Indonesia,Asia,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Oslo N2,28,115,Telenor Arena,Noruega,Europa,25000,25000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Oslo N2,22,95,Oslo Spektrum,Noruega,Europa,10000,10000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Dusseldorf N2,20,110,Merkur Spiel-Arena,Alemania,Europa,54000,54000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Athens N2,26,130,Olympiako Stadio,Grecia,Europa,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: London N2,24,120,The O2 Arena,UK,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Dublin N3,23,100,3Arena,Irlanda,Europa,13000,13000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manila N3,21,100,MOA Arena,Filipinas,Asia,15000,15000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Hamburg N3,19,90,Sporthalle,Alemania,Europa,7000,7000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Berlin N3,20,90,Columbiahalle,Alemania,Europa,3500,3500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Manchester N3,27,110,Etihad Stadium,UK,Europa,60000,60000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N1,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N2,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N3,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N4,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N5,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N6,44,180,National Stadium,Singapur,Asia,55000,55000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: London N5,25,120,Wembley Stadium,UK,Europa,90000,90000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Manila N3,24,105,Philippine Arena,Filipinas,Asia,55000,55000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Stockholm N2,28,115,Ericsson Globe,Suecia,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Zurich N2,22,95,Hallenstadion,Suiza,Europa,13000,13000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Washington N2,20,110,Nationals Park,USA,Norteamérica,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Lyon N2,26,130,Groupama Stadium,Francia,Europa,59000,59000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Berlin N2,24,120,Uber Arena,Alemania,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Manchester N3,23,100,Co-op Live,UK,Europa,23500,23500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Brisbane N3,21,100,Fortitude Music Hall,Australia,Oceanía,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Munich N3,19,90,Zenith,Alemania,Europa,5800,5800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Paris N3,20,90,L'Olympia,Francia,Europa,2800,2800,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Stockholm N2,27,110,Friends Arena,Suecia,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N1,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N2,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N3,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N4,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Paris N3,25,120,Stade de France,Francia,Europa,80000,80000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Tokyo N4,24,105,Saitama Super Arena,Japón,Asia,35000,35000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Helsinki N2,28,115,Hartwall Arena,Finlandia,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Bologna N2,22,95,Unipol Arena,Italia,Europa,14000,14000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Los Angeles N3,20,110,Dodger Stadium,USA,Norteamérica,52000,52000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Chambord N2,26,130,Château de Chambord,Francia,Europa,30000,30000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Cologne N2,24,120,Lanxess Arena,Alemania,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris N5,23,100,Accor Arena,Francia,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Auckland N3,21,100,Spark Arena,Nueva Zelanda,Oceanía,12000,12000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Copenhagen N3,19,90,KB Hallen,Dinamarca,Europa,4500,4500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Madrid N3,20,90,Palacio Vistalegre,España,Europa,13000,13000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Bern N2,27,110,Stade de Suisse,Suiza,Europa,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Stockholm N1,44,180,Friends Arena,Suecia,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Stockholm N2,44,180,Friends Arena,Suecia,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Stockholm N3,44,180,Friends Arena,Suecia,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Amsterdam N3,25,120,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Taipei N3,24,105,Rakuten Taoyuan Baseball Stadium,Taiwán,Asia,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Berlin N2,28,115,Mercedes-Benz Arena,Alemania,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Berlin N3,22,95,Uber Arena,Alemania,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Tokyo N3,20,110,Belluna Dome,Japón,Asia,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Werchter N2,26,130,Park Werchter,Bélgica,Europa,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Madrid N2,24,120,WiZink Center,España,Europa,15500,15500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: London N5,23,100,The O2 Arena,UK,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Sydney N4,21,100,ICC Sydney,Australia,Oceanía,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Stockholm N3,19,90,Hovet,Suecia,Europa,9000,9000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N4,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Dusseldorf N2,27,110,Esprit Arena,Alemania,Europa,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lisbon N1,44,180,Estádio da Luz,Portugal,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lisbon N2,44,180,Estádio da Luz,Portugal,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Warsaw N2,25,120,PGE Narodowy,Polonia,Europa,58000,58000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Seoul N3,24,105,Gocheok Sky Dome,Corea del Sur,Asia,25000,25000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: London N4,28,115,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N2,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Paris N3,20,110,Stade de France,Francia,Europa,80000,80000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Frankfurt N2,26,130,Deutsche Bank Park,Alemania,Europa,45000,45000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Prague N3,24,120,O2 Arena,Rep. Checa,Europa,18000,18000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Glasgow N3,23,100,OVO Hydro,UK,Europa,14000,14000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Melbourne N3,21,100,Margaret Court Arena,Australia,Oceanía,7500,7500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Prague N3,19,90,Sportovni Hala Fortuna,Rep. Checa,Europa,13000,13000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Amsterdam N3,20,90,Melkweg,Países Bajos,Europa,1500,1500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Amsterdam N2,27,110,Amsterdam Arena,Países Bajos,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Madrid N1,44,180,Santiago Bernabéu,España,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Madrid N2,44,180,Santiago Bernabéu,España,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Frankfurt N3,25,120,Deutsche Bank Park,Alemania,Europa,45000,45000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N3,24,105,Indoor Stadium,Singapur,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Dublin N3,28,115,3Arena,Irlanda,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manchester N2,22,95,Co-op Live,UK,Europa,23500,23500,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Stockholm N3,20,110,Friends Arena,Suecia,Europa,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Lille N2,26,130,Stade Pierre-Mauroy,Francia,Europa,50000,50000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Barcelona N2,24,120,Palau Sant Jordi,España,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Birmingham N3,23,100,Utilita Arena,UK,Europa,15800,15800,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Bangkok N3,21,100,Impact Exhibition Hall,Tailandia,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Zurich N3,19,90,The Hall,Suiza,Europa,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Cologne N3,20,90,Palladium,Alemania,Europa,4000,4000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Brussels N2,27,110,King Baudouin Stadium,Bélgica,Europa,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lyon N1,44,180,Groupama Stadium,Francia,Europa,59000,59000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lyon N2,44,180,Groupama Stadium,Francia,Europa,59000,59000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Vienna N2,25,120,Ernst-Happel-Stadion,Austria,Europa,50000,50000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Jakarta N4,24,105,Indonesia Arena,Indonesia,Asia,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Paris N3,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Paris N3,22,95,Accor Arena,Francia,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Chicago N3,20,110,Wrigley Field,USA,Norteamérica,41000,41000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Berlin N3,26,130,Waldbühne,Alemania,Europa,22000,22000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Milan N2,24,120,Mediolanum Forum,Italia,Europa,12000,12000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Milan N2,23,100,Unipol Forum,Italia,Europa,12000,12000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manila N4,21,100,MOA Arena,Filipinas,Asia,15000,15000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Lisbon N3,19,90,Coliseu dos Recreios,Portugal,Europa,4000,4000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Munich N3,20,90,Zenith,Alemania,Europa,5800,5800,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Madrid N3,27,110,Vicente Calderón,España,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Edinburgh N1,44,180,BT Murrayfield Stadium,UK,Europa,67000,67000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Edinburgh N2,44,180,BT Murrayfield Stadium,UK,Europa,67000,67000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Edinburgh N3,44,180,BT Murrayfield Stadium,UK,Europa,67000,67000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Munich N3,25,120,Olympiastadion,Alemania,Europa,70000,70000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Manila N4,24,105,Philippine Arena,Filipinas,Asia,55000,55000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Hamburg N3,28,115,Barclays Arena,Alemania,Europa,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Amsterdam N2,22,95,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: New York N3,20,110,MetLife Stadium,USA,Norteamérica,82000,82000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Warsaw N3,26,130,PGE Narodowy,Polonia,Europa,58000,58000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Vienna N3,24,120,Wiener Stadthalle,Austria,Europa,16000,16000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Brussels N4,23,100,Forest National,Bélgica,Europa,8000,8000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Seoul N3,21,100,KBS Arena,Corea del Sur,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Milan N3,19,90,Fabrique,Italia,Europa,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Milan N3,20,90,Fabrique,Italia,Europa,3000,3000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Paris N4,27,110,Stade de France,Francia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Liverpool N1,44,180,Anfield Stadium,UK,Europa,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Liverpool N2,44,180,Anfield Stadium,UK,Europa,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Liverpool N3,44,180,Anfield Stadium,UK,Europa,54000,54000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Coventry N3,25,120,Coventry Building Society Arena,UK,Europa,40000,40000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Tokyo N5,24,105,Saitama Super Arena,Japón,Asia,35000,35000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Milan N3,28,115,Mediolanum Forum,Italia,Europa,12000,12000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Antwerp N2,22,95,Sportpaleis,Bélgica,Europa,23000,23000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Boston N3,20,110,Fenway Park,USA,Norteamérica,38000,38000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Prague N3,26,130,Letňany Airport,Rep. Checa,Europa,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: London N3,24,120,The O2 Arena,UK,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris N6,23,100,Accor Arena,Francia,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Taipei N4,21,100,TICC,Taiwán,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Amsterdam N3,19,90,AFAS Live,Países Bajos,Europa,6000,6000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N5,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Milan N4,27,110,San Siro,Italia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Cardiff N1,44,180,Principality Stadium,UK,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N1,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N2,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N3,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Cardiff N3,25,120,Principality Stadium,UK,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N1,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N2,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N3,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Auckland N1,25,120,Mt Smart Stadium,Nueva Zelanda,Oceanía,40000,40000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Sydney N1,24,105,Qudos Bank Arena,Australia,Oceanía,18000,18000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Tokyo N1,28,115,Chiba Marine Stadium,Japón,Asia,30000,30000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Seoul N1,22,95,Jamsil Arena,Corea del Sur,Asia,11000,11000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Tokyo N1,20,110,Belluna Dome,Japón,Asia,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Cape Town N1,26,130,DHL Stadium,Sudáfrica,África,55000,55000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Mexico City N1,24,120,Foro Sol,México,Norteamérica,65000,65000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Toronto N1,23,100,Scotiabank Arena,Canadá,Norteamérica,19800,19800,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manila N1,21,100,MOA Arena,Filipinas,Asia,15000,15000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Bangkok N1,19,90,Impact Arena,Tailandia,Asia,11000,11000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Tokyo N1,20,90,Liquidroom,Japón,Asia,1000,1000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Madrid N5,27,110,Vicente Calderón,España,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: New Orleans N1,44,180,Caesars Superdome,USA,Norteamérica,70000,70000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: New Orleans N2,44,180,Caesars Superdome,USA,Norteamérica,70000,70000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: New Orleans N3,44,180,Caesars Superdome,USA,Norteamérica,70000,70000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Perth N1,25,120,HBF Park,Australia,Oceanía,32000,32000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Melbourne N1,24,105,Rod Laver Arena,Australia,Oceanía,14500,14500,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Manila N1,28,115,Mall of Asia Arena,Filipinas,Asia,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Bangkok N1,22,95,Impact Arena,Tailandia,Asia,11000,11000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Mexico City N1,20,110,Foro Sol,México,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Johannesburg N1,26,130,FNB Stadium,Sudáfrica,África,90000,90000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Monterrey N1,24,120,Estadio Banorte,México,Norteamérica,16000,16000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Montreal N1,23,100,Bell Centre,Canadá,Norteamérica,15000,15000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Singapore N1,21,100,The Star Theatre,Singapur,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Singapore N1,19,90,The Star Theatre,Singapur,Asia,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Seoul N1,20,90,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Sao Paulo N1,27,110,Morumbi,Brasil,Sudamérica,60000,60000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Miami N1,44,180,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Miami N2,44,180,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Miami N3,44,180,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Melbourne N1,25,120,Marvel Stadium,Australia,Oceanía,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Brisbane N1,24,105,Entertainment Centre,Australia,Oceanía,13500,13500,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Jakarta N1,28,115,JIExpo,Indonesia,Asia,12000,12000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Hong Kong N1,22,95,AsiaWorld-Arena,Hong Kong,Asia,14000,14000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: New York N1,20,110,MetLife Stadium,USA,Norteamérica,82000,82000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Buenos Aires N1,26,130,Campo Argentino de Polo,Argentina,Sudamérica,60000,60000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Guadalajara N1,24,120,Estadio Jalisco,México,Norteamérica,45000,45000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Detroit N1,23,100,Little Caesars Arena,USA,Norteamérica,15000,15000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Taipei N1,21,100,TICC,Taiwán,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Kuala Lumpur N1,19,90,Zepp KL,Malasia,Asia,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Taipei N1,20,90,Legacy Taipei,Taiwán,Asia,1200,1200,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Rio de Janeiro N1,27,110,Maracanã,Brasil,Sudamérica,70000,70000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Indianapolis N1,44,180,Lucas Oil Stadium,USA,Norteamérica,70000,70000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Indianapolis N2,44,180,Lucas Oil Stadium,USA,Norteamérica,70000,70000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Indianapolis N3,44,180,Lucas Oil Stadium,USA,Norteamérica,70000,70000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Sydney N1,25,120,Accor Stadium,Australia,Oceanía,81000,81000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Perth N1,24,105,RAC Arena,Australia,Oceanía,15500,15500,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Taipei N1,28,115,Arena Taipei,Taiwán,Asia,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Tokyo N1,22,95,Ariake Arena,Japón,Asia,15000,15000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Boston N1,20,110,Fenway Park,USA,Norteamérica,38000,38000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Santiago N1,26,130,Estadio Bicentenario,Chile,Sudamérica,30000,30000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Bogota N1,24,120,Coliseo Medplus,Colombia,Sudamérica,15000,15000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Chicago N1,23,100,United Center,USA,Norteamérica,23500,23500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Hong Kong N1,21,100,AsiaWorld-Expo,Hong Kong,Asia,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Tokyo N1,19,90,Toyosu PIT,Japón,Asia,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Hong Kong N1,20,90,Music Zone,Hong Kong,Asia,1000,1000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Santiago N1,27,110,Estadio Nacional,Chile,Sudamérica,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N1,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N2,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N3,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Brisbane N1,25,120,Suncorp Stadium,Australia,Oceanía,50000,50000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Adelaide N1,24,105,Entertainment Centre,Australia,Oceanía,11000,11000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Seoul N1,28,115,Gocheok Sky Dome,Corea del Sur,Asia,25000,25000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Singapore N1,22,95,Indoor Stadium,Singapur,Asia,12000,12000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: San Francisco N1,20,110,Oracle Park,USA,Norteamérica,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Curitiba N1,26,130,Pedreira Paulo Leminski,Brasil,Sudamérica,25000,25000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Sao Paulo N1,24,120,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Nashville N1,23,100,Bridgestone Arena,USA,Norteamérica,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Kuala Lumpur N1,21,100,Zepp KL,Malasia,Asia,2500,2500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Seoul N1,19,90,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Bangkok N1,20,90,KBank Siam Pic-Ganesha,Tailandia,Asia,1000,1000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Buenos Aires N1,27,110,Vélez Sarsfield,Argentina,Sudamérica,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N4,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N5,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Toronto N6,44,180,Rogers Centre,Canadá,Norteamérica,50000,50000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Gold Coast N1,25,120,Heritage Bank Stadium,Australia,Oceanía,40000,40000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N1,24,105,Indoor Stadium,Singapur,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Bangkok N1,28,115,Impact Arena,Tailandia,Asia,11000,11000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manila N1,22,95,Philippine Arena,Filipinas,Asia,55000,55000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Los Angeles N1,20,110,Dodger Stadium,USA,Norteamérica,52000,52000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Sao Paulo N1,26,130,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Curitiba N1,24,120,Pedreira Paulo Leminski,Brasil,Sudamérica,25000,25000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: St. Louis N1,23,100,Enterprise Center,USA,Norteamérica,18000,18000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Jakarta N1,21,100,Kebun Raya,Indonesia,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Taipei N1,19,90,TICC,Taiwán,Asia,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Singapore N1,20,90,Gateway Theatre,Singapur,Asia,900,900,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Lima N1,27,110,Estadio Nacional,Perú,Sudamérica,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N1,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N2,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vancouver N3,44,180,BC Place,Canadá,Norteamérica,54000,54000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Reggio Emilia N1,25,120,RCF Arena,Italia,Europa,100000,100000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Kuala Lumpur N1,24,105,Axiata Arena,Malasia,Asia,10000,10000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Paris N1,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N1,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Miami N1,20,110,Hard Rock Stadium,USA,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Berlin N1,26,130,Waldbühne,Alemania,Europa,22000,22000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: London N1,24,120,The O2 Arena,UK,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: London N1,23,100,The O2 Arena,UK,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: London N1,21,100,OVO Arena Wembley,UK,Europa,12500,12500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Paris N1,19,90,Zénith Paris,Francia,Europa,6800,6800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London N1,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: London N1,27,110,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N1,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N2,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: London N3,44,180,Wembley Stadium,UK,Europa,90000,90000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: London N1,25,120,Wembley Stadium,UK,Europa,90000,90000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: London N1,24,105,Wembley Stadium,UK,Europa,90000,90000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: London N1,28,115,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N1,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: London N1,20,110,Tottenham Hotspur Stadium,UK,Europa,62000,62000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: London N1,26,130,MK Stadium,UK,Europa,30000,30000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Manchester N1,24,120,AO Arena,UK,Europa,21000,21000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Manchester N1,23,100,Co-op Live,UK,Europa,23500,23500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manchester N1,21,100,O2 Apollo,UK,Europa,3500,3500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Manchester N1,19,90,AO Arena,UK,Europa,21000,21000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Manchester N1,20,90,O2 Apollo,UK,Europa,3500,3500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Manchester N1,27,110,Etihad Stadium,UK,Europa,60000,60000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N1,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N2,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Dublin N3,44,180,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Dublin N1,25,120,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Dublin N1,24,105,3Arena,Irlanda,Europa,13000,13000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Dublin N1,28,115,3Arena,Irlanda,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Dublin N1,22,95,3Arena,Irlanda,Europa,13000,13000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Arnhem N1,20,110,GelreDome,Países Bajos,Europa,41000,41000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Amsterdam N1,26,130,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Amsterdam N1,24,120,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Amsterdam N1,23,100,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Amsterdam N1,21,100,AFAS Live,Países Bajos,Europa,6000,6000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Amsterdam N1,19,90,AFAS Live,Países Bajos,Europa,6000,6000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Amsterdam N1,20,90,Melkweg,Países Bajos,Europa,1500,1500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Amsterdam N1,27,110,Amsterdam Arena,Países Bajos,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N1,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N2,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Amsterdam N3,44,180,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Amsterdam N1,25,120,Johan Cruyff Arena,Países Bajos,Europa,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Paris N1,24,105,Accor Arena,Francia,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Paris N1,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Paris N1,22,95,Accor Arena,Francia,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Paris N1,20,110,Stade de France,Francia,Europa,80000,80000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Paris N1,26,130,La Défense Arena,Francia,Europa,40000,40000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Paris N1,24,120,Accor Arena,Francia,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris N1,23,100,Accor Arena,Francia,Europa,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Paris N1,21,100,Zénith Paris,Francia,Europa,6800,6800,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Paris N1,19,90,Zénith Paris,Francia,Europa,6800,6800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Paris N1,20,90,L'Olympia,Francia,Europa,2800,2800,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Paris N1,27,110,Stade de France,Francia,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N1,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N2,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N3,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Paris N4,44,180,La Défense Arena,Francia,Europa,40000,40000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Paris N1,25,120,Stade de France,Francia,Europa,80000,80000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Berlin N1,24,105,Uber Arena,Alemania,Europa,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Berlin N1,28,115,Uber Arena,Alemania,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Berlin N1,22,95,Uber Arena,Alemania,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Dusseldorf N1,20,110,Merkur Spiel-Arena,Alemania,Europa,54000,54000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Munich N1,26,130,Olympiastadion,Alemania,Europa,70000,70000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Berlin N1,24,120,Uber Arena,Alemania,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Berlin N1,23,100,Uber Arena,Alemania,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Berlin N1,21,100,Verti Music Hall,Alemania,Europa,4500,4500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Berlin N1,19,90,Velodrom,Alemania,Europa,12000,12000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Berlin N1,20,90,Columbiahalle,Alemania,Europa,3500,3500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Dusseldorf N1,27,110,Esprit Arena,Alemania,Europa,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N1,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N2,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N3,44,180,Veltins-Arena,Alemania,Europa,62000,62000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Munich N1,25,120,Olympiastadion,Alemania,Europa,70000,70000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Madrid N1,24,105,WiZink Center,España,Europa,15500,15500,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Madrid N1,28,115,WiZink Center,España,Europa,15500,15500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Madrid N1,22,95,WiZink Center,España,Europa,15500,15500,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Madrid N1,20,110,Cívitas Metropolitano,España,Europa,55000,55000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Madrid N1,26,130,Estadio Metropolitano,España,Europa,55000,55000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Madrid N1,24,120,WiZink Center,España,Europa,15500,15500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Madrid N1,23,100,WiZink Center,España,Europa,15500,15500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Madrid N1,21,100,Palacio Vistalegre,España,Europa,13000,13000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Madrid N1,19,90,WiZink Center,España,Europa,15500,15500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Madrid N1,20,90,Palacio Vistalegre,España,Europa,13000,13000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Madrid N1,27,110,Vicente Calderón,España,Europa,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Madrid N1,44,180,Santiago Bernabéu,España,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Madrid N2,44,180,Santiago Bernabéu,España,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Madrid N1,25,120,Nuevo Espacio Mad Cool,España,Europa,70000,70000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Barcelona N1,24,105,Palau Sant Jordi,España,Europa,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener World Tour: Barcelona N1,28,115,Palau Sant Jordi,España,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Barcelona N1,22,95,Palau Sant Jordi,España,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Barcelona N1,20,110,Estadi Olímpic,España,Europa,55000,55000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Barcelona N1,26,130,Estadi Olímpic,España,Europa,55000,55000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Barcelona N1,24,120,Palau Sant Jordi,España,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Barcelona N1,23,100,Palau Sant Jordi,España,Europa,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Barcelona N1,21,100,Sant Jordi Club,España,Europa,4600,4600,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other Tour: Barcelona N1,19,90,Sant Jordi Club,España,Europa,4600,4600,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Barcelona N1,20,90,Razzmatazz,España,Europa,2000,2000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Barcelona N1,27,110,Estadi Olímpic,España,Europa,52000,52000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Tokyo N1,19,125,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Tokyo N2,19,125,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: Sydney,18,120,ANZ Stadium,Australia,Oceanía,76000,76000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: London,18,120,Hyde Park,UK,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour N1,20,95,The O2 Arena,UK,Europa,20000,20000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour N2,20,95,The O2 Arena,UK,Europa,20000,20000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: New York N1,25,120,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: New York N2,25,120,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: London N1,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: London N2,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Berlin,18,80,Columbiahalle,Alemania,Europa,3500,3500,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Paris,18,80,Yoyo,Francia,Europa,1000,1000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Osaka,26,100,Osaka-jo Hall,Japón,Asia,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Tokyo,26,100,Makuhari Messe,Japón,Asia,30000,30000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Miami,24,90,American Airlines Arena,USA,Norteamérica,19600,19600,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Toronto,24,90,Air Canada Centre,Canadá,Norteamérica,19800,19800,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: New York N1,15,65,Radio City Music Hall,USA,Norteamérica,6000,6000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: New York N2,15,65,Radio City Music Hall,USA,Norteamérica,6000,6000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Miami,22,95,Kaseya Center,USA,Norteamérica,19000,19000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Orlando,22,95,Kia Center,USA,Norteamérica,18000,18000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Seoul,24,130,Olympic Stadium,Corea del Sur,Asia,50000,50000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Tokyo,24,130,Saitama Super Arena,Japón,Asia,35000,35000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: Paris,22,110,Bercy Arena,Francia,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: London,22,110,The O2 Arena,UK,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve World Tour: Rome,23,120,Circo Massimo,Italia,Europa,60000,60000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve World Tour: Lisbon,23,120,Altice Arena,Portugal,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: Mexico City,21,110,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: Bogota,21,110,Parque Simón Bolívar,Colombia,Sudamérica,30000,30000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Mexico City,22,115,Foro Sol,México,Norteamérica,65000,65000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Guadalajara,22,115,Arena VFG,México,Norteamérica,15000,15000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Chicago,23,105,United Center,USA,Norteamérica,23500,23500,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Toronto,23,105,Molson Amphitheatre,Canadá,Norteamérica,16000,16000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Los Angeles,19,85,The Wiltern,USA,Norteamérica,2300,2300,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: San Francisco,19,85,The Warfield,USA,Norteamérica,2250,2250,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: Singapore,16,75,Capitol Theatre,Singapur,Asia,1000,1000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: Manila,16,75,New Frontier Theater,Filipinas,Asia,2300,2300,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: London N1,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: London N2,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+Conan Gray,Estadounidense,1998-12-05,The Comfort Crowd Tour: San Francisco,17,75,The Fillmore,USA,Norteamérica,1300,1300,1
+Conan Gray,Estadounidense,1998-12-05,The Comfort Crowd Tour: Los Angeles,17,75,The Fonda Theatre,USA,Norteamérica,1200,1200,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: Tokyo,18,85,Toyosu PIT,Japón,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: Seoul,18,85,Olympic Hall,Corea del Sur,Asia,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Sydney,16,70,Enmore Theatre,Australia,Oceanía,2500,2500,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Melbourne,16,70,Forum Theatre,Australia,Oceanía,2000,2000,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Paris,19,85,Le Trianon,Francia,Europa,1000,1000,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Berlin,19,85,Metropol,Alemania,Europa,1000,1000,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows Tour: New York,18,80,Terminal 5,USA,Norteamérica,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows Tour: Boston,18,80,House of Blues,USA,Norteamérica,2500,2500,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: London N1,25,100,The O2 Arena,UK,Europa,20000,20000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: London N2,25,100,The O2 Arena,UK,Europa,20000,20000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Madrid,28,125,Vicente Calderón,España,Europa,54000,54000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Milan,28,125,San Siro,Italia,Europa,75000,75000,1
+One Direction,Británica,2010-07-23,On the Road Again Tour: Tokyo,27,120,Saitama Super Arena,Japón,Asia,35000,35000,1
+One Direction,Británica,2010-07-23,On the Road Again Tour: Dubai,27,120,Sevens Stadium,EAU,Asia,30000,30000,1
+Taylor Swift,Estadounidense,1989-12-13,Red Tour: Berlin,20,130,O2 World,Alemania,Europa,14000,14000,1
+Taylor Swift,Estadounidense,1989-12-13,Red Tour: Paris,20,130,Palais Omnisports,Francia,Europa,15000,15000,1
+Taylor Swift,Estadounidense,1989-12-13,Speak Now World Tour: Madrid,18,120,Palacio de Deportes,España,Europa,15000,15000,1
+Taylor Swift,Estadounidense,1989-12-13,Speak Now World Tour: Oslo,18,120,Oslo Spektrum,Noruega,Europa,9000,9000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Paris N1,25,120,Stade de France,Francia,Europa,80000,80000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Paris N2,25,120,Stade de France,Francia,Europa,80000,80000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Mexico City N1,25,120,Foro Sol,México,Norteamérica,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Mexico City N2,25,120,Foro Sol,México,Norteamérica,65000,65000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Madrid,22,95,Wizink Center,España,Europa,16000,16000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Barcelona,22,95,Palau Sant Jordi,España,Europa,17000,17000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: London,24,110,Royal Albert Hall,UK,Europa,5000,5000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Berlin,24,110,Waldbühne,Alemania,Europa,22000,22000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Amsterdam N1,28,115,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Amsterdam N2,28,115,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Monterrey,26,105,Arena Monterrey,México,Norteamérica,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Mexico City,26,105,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N1,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N2,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Paris,22,95,Accor Arena,Francia,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Berlin,22,95,Uber Arena,Alemania,Europa,17000,17000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: New York N1,22,120,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: New York N2,22,120,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: London N1,20,110,Tottenham Stadium,UK,Europa,62000,62000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: London N2,20,110,Tottenham Stadium,UK,Europa,62000,62000,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: Los Angeles,24,115,Hollywood Bowl,USA,Norteamérica,17500,17500,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: New York,24,115,Barclays Center,USA,Norteamérica,19000,19000,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Denver,18,90,Red Rocks,USA,Norteamérica,9500,9500,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Seattle,18,90,KeyArena,USA,Norteamérica,17000,17000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Madrid,24,115,Wizink Center,España,Europa,15500,15500,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Barcelona,24,115,Palau Sant Jordi,España,Europa,17000,17000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: London,20,100,Alexandra Palace,UK,Europa,10000,10000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: New York,20,100,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: New York,21,100,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Los Angeles,21,100,Crypto.com Arena,USA,Norteamérica,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Dublin,19,85,3Arena,Irlanda,Europa,13000,13000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Paris,19,85,Zenith Paris,Francia,Europa,6800,6800,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Melbourne,22,95,John Cain Arena,Australia,Oceanía,10000,10000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Sydney,22,95,ICC Sydney Theatre,Australia,Oceanía,8000,8000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Chicago,20,90,Byline Bank Aragon,USA,Norteamérica,5000,5000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Dallas,20,90,South Side Ballroom,USA,Norteamérica,4000,4000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Manchester,20,100,AO Arena,UK,Europa,21000,21000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Amsterdam,20,100,AFAS Live,Países Bajos,Europa,6000,6000,1
+Troye Sivan,Australiana,1995-06-05,Bloom Tour: San Francisco,18,85,Bill Graham Auditorium,USA,Norteamérica,8500,8500,1
+Troye Sivan,Australiana,1995-06-05,Bloom Tour: Houston,18,85,Revention Music Center,USA,Norteamérica,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: London,20,90,Eventim Apollo,UK,Europa,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Amsterdam,20,90,Paradiso,Países Bajos,Europa,1500,1500,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: Madrid,18,80,La Riviera,España,Europa,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: Barcelona,18,80,Razzmatazz,España,Europa,2000,2000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N1,44,210,Accor Stadium,Australia,Oceanía,82000,82000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Sydney N2,44,210,Accor Stadium,Australia,Oceanía,82000,82000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N1,44,210,National Stadium,Singapur,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Singapore N2,44,210,National Stadium,Singapur,Asia,55000,55000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Buenos Aires N1,25,120,Estadio River Plate,Argentina,Sudamérica,70000,70000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Buenos Aires N2,25,120,Estadio River Plate,Argentina,Sudamérica,70000,70000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Sao Paulo N1,25,120,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Sao Paulo N2,25,120,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Milan,22,95,Mediolanum Forum,Italia,Europa,12000,12000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Vienna,22,95,Stadthalle,Austria,Europa,16000,16000,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Stockholm,18,80,Annexet,Suecia,Europa,3500,3500,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Oslo,18,80,Rockefeller,Noruega,Europa,1500,1500,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Paris N1,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Paris N2,28,115,Accor Arena,Francia,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Manila,24,95,Mall of Asia Arena,Filipinas,Asia,15000,15000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Jakarta,24,95,JIExpo,Indonesia,Asia,10000,10000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Dublin N1,22,95,3Arena,Irlanda,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Dublin N2,22,95,3Arena,Irlanda,Europa,13000,13000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Brussels,15,65,Ancienne Belgique,Bélgica,Europa,2000,2000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Zurich,15,65,Halle 622,Suiza,Europa,3500,3500,1
+Lady Gaga,Estadounidense,1986-03-28,Enigma Residency: Las Vegas,21,100,Park MGM,USA,Norteamérica,5200,5200,1
+Lady Gaga,Estadounidense,1986-03-28,Jazz & Piano Residency: Las Vegas,20,120,Park MGM,USA,Norteamérica,5200,5200,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Mexico City,22,120,Foro Sol,México,Norteamérica,65000,65000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Guadalajara,22,120,Estadio Tres de Marzo,México,Norteamérica,30000,30000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Riyadh,26,130,BLVD International Festival,Arabia Saudí,Asia,25000,25000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Mumbai,26,130,Mahalaxmi Race Course,India,Asia,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: Shanghai,23,120,Mercedes-Benz Arena,China,Asia,18000,18000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: Bangkok,23,120,Impact Arena,Tailandia,Asia,12000,12000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Icy Tour: Seattle,22,110,Climate Pledge Arena,USA,Norteamérica,17000,17000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Icy Tour: Portland,22,110,Moda Center,USA,Norteamérica,19000,19000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Quiet Is Violent Tour: London,18,90,The Roundhouse,UK,Europa,3300,3300,1
+Twenty One Pilots,Estadounidense,2009-12-29,Quiet Is Violent Tour: Manchester,18,90,The Ritz,UK,Europa,1500,1500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: London,21,100,The O2 Arena,UK,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Manchester,21,100,Co-op Live,UK,Europa,23500,23500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: New York,15,70,PlayStation Theater,USA,Norteamérica,2100,2100,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: Philadelphia,15,70,The Trocadero,USA,Norteamérica,1200,1200,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Tokyo,22,95,Tokyo Garden Theater,Japón,Asia,8000,8000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Taipei,22,95,Nangang Exhibition Center,Taiwán,Asia,6000,6000,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: New York,16,75,Webster Hall,USA,Norteamérica,1500,1500,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Boston,16,75,House of Blues,USA,Norteamérica,2500,2500,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Berlin,20,100,Velodrom,Alemania,Europa,12000,12000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Prague,20,100,Sportovni hala Fortuna,Chequia,Europa,10000,10000,1
+Troye Sivan,Australiana,1995-06-05,Suburbia Tour: Vancouver,17,80,Queen Elizabeth Theatre,Canadá,Norteamérica,2900,2900,1
+Troye Sivan,Australiana,1995-06-05,Suburbia Tour: Seattle,17,80,Paramount Theatre,USA,Norteamérica,2800,2800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Vancouver,20,90,Orpheum Theatre,Canadá,Norteamérica,2700,2700,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Seattle,20,90,Paramount Theatre,USA,Norteamérica,2800,2800,1
+Alec Benjamin,Estadounidense,1994-05-28,Outrunning Karma Tour: Tokyo,15,70,Unit Daikanyama,Japón,Asia,600,600,1
+Alec Benjamin,Estadounidense,1994-05-28,Outrunning Karma Tour: Seoul,15,70,Muv Hall,Corea del Sur,Asia,500,500,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Bogota,28,125,Estadio El Campín,Colombia,Sudamérica,42000,42000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Lima,28,125,Estadio Nacional,Perú,Sudamérica,40000,40000,1
+One Direction,Británica,2010-07-23,Up All Night Tour: Sydney,22,100,Hordern Pavilion,Australia,Oceanía,5500,5500,1
+One Direction,Británica,2010-07-23,Up All Night Tour: Mexico City,22,100,Auditorio Nacional,México,Norteamérica,10000,10000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: London N1,19,125,Wembley Stadium,UK,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: London N2,19,125,Wembley Stadium,UK,Europa,80000,80000,1
+Taylor Swift,Estadounidense,1989-12-13,Red Tour: Sydney,20,130,ANZ Stadium,Australia,Oceanía,75000,75000,1
+Taylor Swift,Estadounidense,1989-12-13,Red Tour: Melbourne,20,130,Etihad Stadium,Australia,Oceanía,47000,47000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Dublin,25,120,Aviva Stadium,Irlanda,Europa,52000,52000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Edinburgh,25,120,BT Murrayfield Stadium,UK,Europa,67000,67000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Milan,20,95,Alcatraz,Italia,Europa,3000,3000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Amsterdam,20,95,AFAS Live,Países Bajos,Europa,6000,6000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Bogota,22,95,Parque Salitre Mágico,Colombia,Sudamérica,25000,25000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Buenos Aires,22,95,Campo de Polo,Argentina,Sudamérica,60000,60000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Milan,24,110,Ippodromo La Maura,Italia,Europa,80000,80000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Werchter,24,110,Rock Werchter Festival,Bélgica,Europa,88000,88000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Zurich,28,115,Hallenstadion,Suiza,Europa,13000,13000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Vienna,28,115,Stadthalle,Austria,Europa,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Barcelona,24,95,Palau Sant Jordi,España,Europa,17000,17000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Paris,24,95,Zenith Paris,Francia,Europa,6800,6800,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Madrid N1,22,95,Wizink Center,España,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Madrid N2,22,95,Wizink Center,España,Europa,16000,16000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Manchester,15,65,O2 Apollo,UK,Europa,3500,3500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Glasgow,15,65,O2 Academy,UK,Europa,2500,2500,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Paris,24,130,Stade de France,Francia,Europa,75000,75000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: London,24,130,Twickenham Stadium,UK,Europa,55000,55000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Los Angeles N1,21,115,The Forum,USA,Norteamérica,16000,16000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Los Angeles N2,21,115,The Forum,USA,Norteamérica,16000,16000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Lisbon,26,130,Passeio Marítimo de Algés,Portugal,Europa,55000,55000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Madrid,26,130,Metropolitano,España,Europa,55000,55000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: London,21,110,The O2 Arena,UK,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: Paris,21,110,Zenith Paris,Francia,Europa,6800,6800,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Paris,22,115,Accor Arena,Francia,Europa,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Berlin,22,115,Mercedes-Benz Arena,Alemania,Europa,17000,17000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Las Vegas,23,105,MGM Grand Garden Arena,USA,Norteamérica,14000,14000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Denver,23,105,Red Rocks,USA,Norteamérica,9500,9500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Paris,21,100,Accor Arena,Francia,Europa,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Berlin,21,100,Uber Arena,Alemania,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Singapore,19,85,Sands Expo,Singapur,Asia,5000,5000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Tokyo,19,85,Toyosu PIT,Japón,Asia,3000,3000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Paris,22,95,Zenith Paris,Francia,Europa,6800,6800,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Amsterdam,22,95,AFAS Live,Países Bajos,Europa,6000,6000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Manila,20,90,Mall of Asia Arena,Filipinas,Asia,15000,15000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Singapore,20,90,The Star Theatre,Singapur,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Paris,20,100,Zenith Paris,Francia,Europa,6800,6800,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Lisbon,20,100,Coliseu dos Recreios,Portugal,Europa,4000,4000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: London,16,70,O2 Shepherd's Bush,UK,Europa,2000,2000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Berlin,16,70,Huxleys Neue Welt,Alemania,Europa,1600,1600,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Singapore,20,90,Capitol Theatre,Singapur,Asia,1500,1500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Hong Kong,20,90,MacPherson Stadium,China,Asia,2000,2000,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Dublin,19,85,Academy,Irlanda,Europa,1000,1000,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Manchester,19,85,Academy 2,UK,Europa,900,900,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Milan N1,44,210,San Siro,Italia,Europa,75000,75000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Milan N2,44,210,San Siro,Italia,Europa,75000,75000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vienna N1,44,210,Ernst Happel Stadion,Austria,Europa,65000,65000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Vienna N2,44,210,Ernst Happel Stadion,Austria,Europa,65000,65000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Stockholm,25,120,Tele2 Arena,Suecia,Europa,40000,40000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Oslo,25,120,Telenor Arena,Noruega,Europa,25000,25000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Tokyo N1,20,95,EX Theater Roppongi,Japón,Asia,1700,1700,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Tokyo N2,20,95,EX Theater Roppongi,Japón,Asia,1700,1700,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Mexico City,22,95,Foro Sol,México,Norteamérica,65000,65000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Monterrey,22,95,Estadio Banorte,México,Norteamérica,20000,20000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N1,24,110,Indoor Stadium,Singapur,Asia,12000,12000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Singapore N2,24,110,Indoor Stadium,Singapur,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Hamburg,28,115,Barclays Arena,Alemania,Europa,15000,15000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Prague,28,115,O2 Arena,Chequia,Europa,18000,18000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Sydney,26,105,ICC Sydney Theatre,Australia,Oceanía,8000,8000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Melbourne,26,105,Rod Laver Arena,Australia,Oceanía,14000,14000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Milan,22,95,Mediolanum Forum,Italia,Europa,12000,12000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Amsterdam N1,22,95,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Amsterdam N2,22,95,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Milan,15,65,Fabrique,Italia,Europa,3000,3000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Bogota,24,130,Estadio El Campín,Colombia,Sudamérica,45000,45000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Rio de Janeiro,24,130,Parque dos Atletas,Brasil,Sudamérica,90000,90000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: Sydney,22,110,Allphones Arena,Australia,Oceanía,21000,21000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: Brisbane,22,110,Entertainment Centre,Australia,Oceanía,13000,13000,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: Toronto,24,115,Budweiser Stage,Canadá,Norteamérica,16000,16000,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: Montreal,24,115,Bell Centre,Canadá,Norteamérica,15000,15000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Mexico City,26,130,Foro Sol,México,Norteamérica,65000,65000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Monterrey,26,130,Estadio Banorte,México,Norteamérica,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Sydney,24,115,Qudos Bank Arena,Australia,Oceanía,18000,18000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Melbourne,24,115,Rod Laver Arena,Australia,Oceanía,14000,14000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Sydney,22,115,Qudos Bank Arena,Australia,Oceanía,18000,18000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Auckland,22,115,Spark Arena,Nueva Zelanda,Oceanía,12000,12000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Toronto,21,100,Scotiabank Arena,Canadá,Norteamérica,19000,19000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Montreal,21,100,Bell Centre,Canadá,Norteamérica,15000,15000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: Los Angeles,15,70,The Fonda,USA,Norteamérica,1200,1200,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: Seattle,15,70,The Showbox,USA,Norteamérica,1100,1100,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Los Angeles,22,95,Kia Forum,USA,Norteamérica,17000,17000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: San Francisco,22,95,Bill Graham Auditorium,USA,Norteamérica,8500,8500,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Berlin,16,75,Huxleys Neue Welt,Alemania,Europa,1600,1600,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Paris,16,75,La Cigale,Francia,Europa,1000,1000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Sydney,20,100,Sydney Opera House Forecourt,Australia,Oceanía,6000,6000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Melbourne,20,100,Margaret Court Arena,Australia,Oceanía,7500,7500,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: London N1,18,85,Eventim Apollo,UK,Europa,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: London N2,18,85,Eventim Apollo,UK,Europa,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Mexico City,20,90,Auditorio BB,México,Norteamérica,3000,3000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Monterrey,20,90,Showcenter Complex,México,Norteamérica,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Tokyo,19,85,Liquidroom,Japón,Asia,1000,1000,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Seoul,19,85,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Sydney,19,125,ANZ Stadium,Australia,Oceanía,76000,76000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Melbourne,19,125,Marvel Stadium,Australia,Oceanía,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,Fearless Tour: London,17,110,Shepherd's Bush Empire,UK,Europa,2000,2000,1
+Taylor Swift,Estadounidense,1989-12-13,Fearless Tour: New York,17,110,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Tokyo N1,25,120,Ariake Arena,Japón,Asia,15000,15000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Tokyo N2,25,120,Ariake Arena,Japón,Asia,15000,15000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Seoul,25,120,KSPO Dome,Corea del Sur,Asia,15000,15000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Singapore,25,120,National Stadium,Singapur,Asia,55000,55000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Sydney,22,95,Qudos Bank Arena,Australia,Oceanía,18000,18000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Auckland,22,95,Spark Arena,Nueva Zelanda,Oceanía,12000,12000,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Tokyo,18,80,Zepp Tokyo,Japón,Asia,2700,2700,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Seoul,18,80,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Dublin N1,28,115,3Arena,Irlanda,Europa,13000,13000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Dublin N2,28,115,3Arena,Irlanda,Europa,13000,13000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: London N1,26,105,The O2 Arena,UK,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: London N2,26,105,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Tokyo N1,22,95,Ariake Arena,Japón,Asia,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Tokyo N2,22,95,Ariake Arena,Japón,Asia,15000,15000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Seoul,22,95,Jamsil Arena,Corea del Sur,Asia,11000,11000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Bangkok,22,95,Impact Arena,Tailandia,Asia,12000,12000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Milan,24,130,Stadio San Siro,Italia,Europa,75000,75000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Vienna,24,130,Stadthalle,Austria,Europa,16000,16000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: Tokyo N1,22,110,Chiba Marine Stadium,Japón,Asia,35000,35000,1
+Lady Gaga,Estadounidense,1986-03-28,ArtRave: The Artpop Ball: Tokyo N2,22,110,Chiba Marine Stadium,Japón,Asia,35000,35000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Cape Town,26,130,DHL Stadium,Sudáfrica,África,50000,50000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Johannesburg,26,130,FNB Stadium,Sudáfrica,África,90000,90000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: Mexico City,23,120,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: Monterrey,23,120,Auditorio Citibanamex,México,Norteamérica,8000,8000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Los Angeles,22,115,The Forum,USA,Norteamérica,16000,16000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Oakland,22,115,Oracle Arena,USA,Norteamérica,19000,19000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Quiet Is Violent Tour: Tokyo,18,90,O-East,Japón,Asia,1300,1300,1
+Twenty One Pilots,Estadounidense,2009-12-29,Quiet Is Violent Tour: Seoul,18,90,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Milan,21,100,Mediolanum Forum,Italia,Europa,12000,12000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Amsterdam,21,100,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: London,16,75,Eventim Apollo,UK,Europa,5000,5000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: Paris,16,75,Le Trianon,Francia,Europa,1000,1000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Berlin,22,95,Uber Eats Music Hall,Alemania,Europa,4500,4500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Brussels,22,95,Forest National,Bélgica,Europa,8000,8000,1
+Conan Gray,Estadounidense,1998-12-05,The Comfort Crowd Tour: London,17,75,Electric Ballroom,UK,Europa,1500,1500,1
+Conan Gray,Estadounidense,1998-12-05,The Comfort Crowd Tour: Paris,17,75,Le Trabendo,Francia,Europa,700,700,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Zurich,20,100,The Hall,Suiza,Europa,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Milan,20,100,Alcatraz,Italia,Europa,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: New York,16,70,Terminal 5,USA,Norteamérica,3000,3000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Los Angeles,16,70,The Wiltern,USA,Norteamérica,2300,2300,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Sydney,20,90,Enmore Theatre,Australia,Oceanía,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Melbourne,20,90,The Forum,Australia,Oceanía,2000,2000,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: Chicago,18,80,House of Blues,USA,Norteamérica,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: San Francisco,18,80,The Fillmore,USA,Norteamérica,1300,1300,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: Paris,25,100,Bercy Arena,Francia,Europa,17000,17000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: Berlin,25,100,O2 World,Alemania,Europa,14000,14000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Buenos Aires N1,28,125,Estadio Velez Sarsfield,Argentina,Sudamérica,45000,45000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Buenos Aires N2,28,125,Estadio Velez Sarsfield,Argentina,Sudamérica,45000,45000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N1,44,210,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Gelsenkirchen N2,44,210,Veltins-Arena,Alemania,Europa,62000,62000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Warsaw N1,44,210,PGE Narodowy,Polonia,Europa,60000,60000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Warsaw N2,44,210,PGE Narodowy,Polonia,Europa,60000,60000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Perth,25,120,HBF Park,Australia,Oceanía,35000,35000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Gold Coast,25,120,Heritage Bank Stadium,Australia,Oceanía,40000,40000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Sydney,20,95,Hordern Pavilion,Australia,Oceanía,5500,5500,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Melbourne,20,95,Festival Hall,Australia,Oceanía,5000,5000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Lisbon,22,95,Altice Arena,Portugal,Europa,20000,20000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Braga,22,95,Altice Forum,Portugal,Europa,12000,12000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Gdynia,24,110,Open'er Festival,Polonia,Europa,60000,60000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Lisbon,24,110,NOS Alive Festival,Portugal,Europa,55000,55000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Stockholm,28,115,Ericsson Globe,Suecia,Europa,14000,14000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Oslo,28,115,Telenor Arena,Noruega,Europa,25000,25000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Tokyo,24,95,Tokyo International Forum,Japón,Asia,5000,5000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Saitama,24,95,Saitama Super Arena,Japón,Asia,35000,35000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manchester N1,22,95,Co-op Live,UK,Europa,23500,23500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manchester N2,22,95,Co-op Live,UK,Europa,23500,23500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Toronto N1,15,65,Massey Hall,Canadá,Norteamérica,2700,2700,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Toronto N2,15,65,Massey Hall,Canadá,Norteamérica,2700,2700,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Sydney N1,24,130,Allphones Arena,Australia,Oceanía,21000,21000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Sydney N2,24,130,Allphones Arena,Australia,Oceanía,21000,21000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Milan,21,115,Mediolanum Forum,Italia,Europa,12000,12000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Barcelona,21,115,Palau Sant Jordi,España,Europa,17000,17000,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: London,24,115,The O2 Arena,UK,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Loom World Tour: Paris,24,115,Accor Arena,Francia,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Tokyo,18,90,Shibuya-AX,Japón,Asia,1500,1500,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Seoul,18,90,Olympic Hall,Corea del Sur,Asia,3000,3000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Berlin,24,115,Uber Arena,Alemania,Europa,17000,17000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: Prague,24,115,O2 Arena,Chequia,Europa,18000,18000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: Mexico City,20,100,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: Monterrey,20,100,Auditorio Citibanamex,México,Norteamérica,8000,8000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Dublin,21,100,3Arena,Irlanda,Europa,13000,13000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Glasgow,21,100,OVO Hydro,UK,Europa,14000,14000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Mexico City,19,85,Teatro Metropólitan,México,Norteamérica,3000,3000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Guadalajara,19,85,Teatro Diana,México,Norteamérica,2300,2300,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: London,22,95,OVO Arena Wembley,UK,Europa,12500,12500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Manchester,22,95,O2 Apollo,UK,Europa,3500,3500,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Tokyo,20,90,MGM Music Hall,Japón,Asia,5000,5000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Seoul,20,90,KBS Hall,Corea del Sur,Asia,2000,2000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: New York,20,100,Radio City Music Hall,USA,Norteamérica,6000,6000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Los Angeles,20,100,Greek Theatre,USA,Norteamérica,5900,5900,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: Paris,18,85,Zenith Paris,Francia,Europa,6800,6800,1
+Troye Sivan,Australiana,1995-06-05,The Bloom Tour: Berlin,18,85,Tempodrom,Alemania,Europa,3500,3500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Paris,20,90,L'Olympia,Francia,Europa,2800,2800,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Berlin,20,90,Columbiahalle,Alemania,Europa,3500,3500,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Manila,19,85,New Frontier Theater,Filipinas,Asia,2300,2300,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Taipei,19,85,Legacy Taipei,Taiwán,Asia,1000,1000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: Tokyo N1,18,120,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: Tokyo N2,18,120,Tokyo Dome,Japón,Asia,55000,55000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: Shanghai N1,18,120,Mercedes-Benz Arena,China,Asia,18000,18000,1
+Taylor Swift,Estadounidense,1989-12-13,1989 World Tour: Shanghai N2,18,120,Mercedes-Benz Arena,China,Asia,18000,18000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Chicago N1,25,120,United Center,USA,Norteamérica,23500,23500,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Chicago N2,25,120,United Center,USA,Norteamérica,23500,23500,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Austin N1,25,120,Moody Center,USA,Norteamérica,15000,15000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Austin N2,25,120,Moody Center,USA,Norteamérica,15000,15000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Toronto N1,22,95,Scotiabank Arena,Canadá,Norteamérica,19000,19000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Toronto N2,22,95,Scotiabank Arena,Canadá,Norteamérica,19000,19000,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: New York,18,80,Terminal 5,USA,Norteamérica,3000,3000,1
+Dua Lipa,Británica,1995-08-22,Self-Titled Tour: Los Angeles,18,80,The Palladium,USA,Norteamérica,4000,4000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Los Angeles N1,28,115,The Forum,USA,Norteamérica,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Los Angeles N2,28,115,The Forum,USA,Norteamérica,16000,16000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Rio de Janeiro,26,105,Jeunesse Arena,Brasil,Sudamérica,18000,18000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Sao Paulo,26,105,Allianz Parque,Brasil,Sudamérica,45000,45000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manila N1,22,95,Philippine Arena,Filipinas,Asia,55000,55000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Manila N2,22,95,Philippine Arena,Filipinas,Asia,55000,55000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Sydney,15,65,Hordern Pavilion,Australia,Oceanía,5500,5500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Melbourne,15,65,Festival Hall,Australia,Oceanía,5000,5000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: London N1,22,120,The O2 Arena,UK,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: London N2,22,120,The O2 Arena,UK,Europa,20000,20000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Paris,20,110,Stade de France,Francia,Europa,76000,76000,1
+Lady Gaga,Estadounidense,1986-03-28,The Chromatica Ball: Arnhem,20,110,GelreDome,Países Bajos,Europa,30000,30000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Berlin,26,130,Waldbühne,Alemania,Europa,22000,22000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Prague,26,130,Letnany Airport,Chequia,Europa,60000,60000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: London N1,23,120,The O2 Arena,UK,Europa,20000,20000,1
+Imagine Dragons,Estadounidense,2008-06-15,Evolve Tour: London N2,23,120,The O2 Arena,UK,Europa,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: London N1,24,115,The O2 Arena,UK,Europa,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Clancy World Tour: London N2,24,115,The O2 Arena,UK,Europa,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Sydney,23,105,Qudos Bank Arena,Australia,Oceanía,18000,18000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: Melbourne,23,105,Rod Laver Arena,Australia,Oceanía,14000,14000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Austin,21,100,Moody Center,USA,Norteamérica,15000,15000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Dallas,21,100,American Airlines Center,USA,Norteamérica,19000,19000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: Seoul,16,75,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Singular Tour: Tokyo,16,75,Ex Theater Roppongi,Japón,Asia,1700,1700,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: New York,22,95,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Toronto,22,95,Budweiser Stage,Canadá,Norteamérica,16000,16000,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Paris,20,90,L'Olympia,Francia,Europa,2800,2800,1
+Conan Gray,Estadounidense,1998-12-05,Superache Tour: Amsterdam,20,90,AFAS Live,Países Bajos,Europa,6000,6000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Dublin,20,100,3Arena,Irlanda,Europa,13000,13000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: London,20,100,OVO Arena Wembley,UK,Europa,12500,12500,1
+Troye Sivan,Australiana,1995-06-05,Bloom Tour: Bangkok,18,85,Impact Exhibition Hall,Tailandia,Asia,5000,5000,1
+Troye Sivan,Australiana,1995-06-05,Bloom Tour: Manila,18,85,Mall of Asia Arena,Filipinas,Asia,15000,15000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Madrid,20,90,Palacio Vistalegre,España,Europa,10000,10000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Barcelona,20,90,Sant Jordi Club,España,Europa,4600,4600,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: London N1,18,80,O2 Academy Brixton,UK,Europa,5000,5000,1
+Alec Benjamin,Estadounidense,1994-05-28,These Two Windows: London N2,18,80,O2 Academy Brixton,UK,Europa,5000,5000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: New York,25,100,Madison Square Garden,USA,Norteamérica,20000,20000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: Toronto,25,100,Air Canada Centre,Canadá,Norteamérica,19800,19800,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Santiago,28,125,Estadio Nacional,Chile,Sudamérica,50000,50000,1
+One Direction,Británica,2010-07-23,Where We Are Tour: Rio de Janeiro,28,125,Apoteose,Brasil,Sudamérica,35000,35000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Hamburg N1,44,210,Volksparkstadion,Alemania,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Hamburg N2,44,210,Volksparkstadion,Alemania,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lyon N1,44,210,Groupama Stadium,Francia,Europa,59000,59000,1
+Taylor Swift,Estadounidense,1989-12-13,The Eras Tour: Lyon N2,44,210,Groupama Stadium,Francia,Europa,59000,59000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Copenhagen N1,25,120,Royal Arena,Dinamarca,Europa,16000,16000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Copenhagen N2,25,120,Royal Arena,Dinamarca,Europa,16000,16000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Paris,20,95,L'Olympia,Francia,Europa,2800,2800,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Berlin,20,95,Tempodrom,Alemania,Europa,3500,3500,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Amsterdam N1,22,95,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Amsterdam N2,22,95,Ziggo Dome,Países Bajos,Europa,17000,17000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Werchter,24,110,Rock Werchter Festival,Bélgica,Europa,88000,88000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Madrid,24,110,Mad Cool Festival,España,Europa,70000,70000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Miami N1,28,115,American Airlines Arena,USA,Norteamérica,19600,19600,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: Miami N2,28,115,American Airlines Arena,USA,Norteamérica,19600,19600,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Bangkok,26,105,Impact Arena,Tailandia,Asia,12000,12000,1
+Ariana Grande,Estadounidense,1993-06-26,Dangerous Woman Tour: Singapore,26,105,F1 Grand Prix,Singapur,Asia,50000,50000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Seattle N1,22,95,Climate Pledge Arena,USA,Norteamérica,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: Seattle N2,22,95,Climate Pledge Arena,USA,Norteamérica,17000,17000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Philadelphia,15,65,The Met,USA,Norteamérica,3500,3500,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: Washington DC,15,65,The Anthem,USA,Norteamérica,6000,6000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Tokyo N1,22,120,Yoyogi National Gymnasium,Japón,Asia,13000,13000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Tokyo N2,22,120,Yoyogi National Gymnasium,Japón,Asia,13000,13000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Birmingham,21,115,Genting Arena,UK,Europa,15000,15000,1
+Lady Gaga,Estadounidense,1986-03-28,Joanne World Tour: Manchester,21,115,Manchester Arena,UK,Europa,21000,21000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Stockholm,26,130,Tele2 Arena,Suecia,Europa,40000,40000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Oslo,26,130,Telenor Arena,Noruega,Europa,25000,25000,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Madrid,18,90,La Riviera,España,Europa,2500,2500,1
+Imagine Dragons,Estadounidense,2008-06-15,Night Visions Tour: Barcelona,18,90,Razzmatazz,España,Europa,2000,2000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Icy Tour: New York,22,110,Madison Square Garden,USA,Norteamérica,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Icy Tour: Washington DC,22,110,Capital One Arena,USA,Norteamérica,20000,20000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: Sydney,20,100,Enmore Theatre,Australia,Oceanía,2500,2500,1
+Twenty One Pilots,Estadounidense,2009-12-29,Blurryface Tour: Melbourne,20,100,The Forum,Australia,Oceanía,2000,2000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Los Angeles N1,21,100,Crypto Arena,USA,Norteamérica,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Los Angeles N2,21,100,Crypto Arena,USA,Norteamérica,20000,20000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Sydney,19,85,Enmore Theatre,Australia,Oceanía,2500,2500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Emails I Can't Send Tour: Melbourne,19,85,The Forum,Australia,Oceanía,2000,2000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Zurich,22,95,The Hall,Suiza,Europa,5000,5000,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Milan,22,95,Alcatraz,Italia,Europa,3000,3000,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Sydney,16,75,The Metro Theatre,Australia,Oceanía,1500,1500,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Melbourne,16,75,The Forum,Australia,Oceanía,2000,2000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Barcelona,20,100,Sant Jordi Club,España,Europa,4600,4600,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Madrid,20,100,Wizink Center,España,Europa,15500,15500,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Paris,16,70,Casino de Paris,Francia,Europa,2000,2000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Amsterdam,16,70,Paradiso,Países Bajos,Europa,1500,1500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Dublin,20,90,The Academy,Irlanda,Europa,1000,1000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Glasgow,20,90,O2 Academy,UK,Europa,2500,2500,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: Los Angeles,19,85,The Wiltern,USA,Norteamérica,2300,2300,1
+Alec Benjamin,Estadounidense,1994-05-28,The (Un)Commentary Tour: New York,19,85,Terminal 5,USA,Norteamérica,3000,3000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: Sydney N1,25,100,Allphones Arena,Australia,Oceanía,21000,21000,1
+One Direction,Británica,2010-07-23,Take Me Home Tour: Sydney N2,25,100,Allphones Arena,Australia,Oceanía,21000,21000,1
+One Direction,Británica,2010-07-23,On the Road Again Tour: Johannesburg N1,27,120,FNB Stadium,Sudáfrica,África,90000,90000,1
+One Direction,Británica,2010-07-23,On the Road Again Tour: Johannesburg N2,27,120,FNB Stadium,Sudáfrica,África,90000,90000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Manchester,19,125,Etihad Stadium,UK,Europa,50000,50000,1
+Taylor Swift,Estadounidense,1989-12-13,Reputation Stadium Tour: Dublin,19,125,Croke Park,Irlanda,Europa,82000,82000,1
+Taylor Swift,Estadounidense,1989-12-13,Fearless Tour: Brisbane,17,110,Entertainment Centre,Australia,Oceanía,13000,13000,1
+Taylor Swift,Estadounidense,1989-12-13,Fearless Tour: Melbourne,17,110,Hisense Arena,Australia,Oceanía,10000,10000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Auckland,25,120,Mt Smart Stadium,Nueva Zelanda,Oceanía,40000,40000,1
+Harry Styles,Británica,1994-02-01,Love On Tour: Bangkok,25,120,Rajamangala Stadium,Tailandia,Asia,50000,50000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Singapore,20,95,The Star Theatre,Singapur,Asia,5000,5000,1
+Harry Styles,Británica,1994-02-01,Harry Styles: Live on Tour: Hong Kong,20,95,EXPO Arena,China,Asia,14000,14000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Rio de Janeiro,22,95,Rock in Rio,Brasil,Sudamérica,100000,100000,1
+Dua Lipa,Británica,1995-08-22,Future Nostalgia Tour: Sao Paulo,22,95,Distrito Anhembi,Brasil,Sudamérica,30000,30000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Nimes,24,110,Arenes de Nimes,Francia,Europa,12000,12000,1
+Dua Lipa,Británica,1995-08-22,Radical Optimism Tour: Pula,24,110,Pula Arena,Croacia,Europa,7000,7000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: London N1,28,115,The O2 Arena,UK,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,Sweetener Tour: London N2,28,115,The O2 Arena,UK,Europa,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Mexico City N1,24,95,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Ariana Grande,Estadounidense,1993-06-26,The Honeymoon Tour: Mexico City N2,24,95,Palacio de los Deportes,México,Norteamérica,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N3,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,GUTS World Tour: London N4,22,95,The O2 Arena,UK,Europa,20000,20000,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: San Francisco N1,15,65,The Masonic,USA,Norteamérica,3300,3300,1
+Olivia Rodrigo,Estadounidense,2003-02-20,SOUR Tour: San Francisco N2,15,65,The Masonic,USA,Norteamérica,3300,3300,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Mexico City N1,22,120,Foro Sol,México,Norteamérica,65000,65000,1
+Lady Gaga,Estadounidense,1986-03-28,The Monster Ball: Mexico City N2,22,120,Foro Sol,México,Norteamérica,65000,65000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Singapore N1,24,130,Indoor Stadium,Singapur,Asia,12000,12000,1
+Lady Gaga,Estadounidense,1986-03-28,The Born This Way Ball: Singapore N2,24,130,Indoor Stadium,Singapur,Asia,12000,12000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Tel Aviv,26,130,Yarkon Park,Israel,Asia,60000,60000,1
+Imagine Dragons,Estadounidense,2008-06-15,Mercury World Tour: Warsaw,26,130,PGE Narodowy,Polonia,Europa,60000,60000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: Sydney,21,110,Qantas Credit Union Arena,Australia,Oceanía,13000,13000,1
+Imagine Dragons,Estadounidense,2008-06-15,Smoke + Mirrors Tour: Melbourne,21,110,Margaret Court Arena,Australia,Oceanía,7500,7500,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Bogota,22,115,Estadio El Campín,Colombia,Sudamérica,40000,40000,1
+Twenty One Pilots,Estadounidense,2009-12-29,The Bandito Tour: Buenos Aires,22,115,Lollapalooza Argentina,Argentina,Sudamérica,100000,100000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: London N1,23,105,Alexandra Palace,UK,Europa,10000,10000,1
+Twenty One Pilots,Estadounidense,2009-12-29,Emotional Roadshow: London N2,23,105,Alexandra Palace,UK,Europa,10000,10000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Brussels,21,100,Forest National,Bélgica,Europa,8000,8000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Short n' Sweet Tour: Zurich,21,100,The Hall,Suiza,Europa,5000,5000,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: Paris,15,70,Les Etoiles,Francia,Europa,500,500,1
+Sabrina Carpenter,Estadounidense,1999-05-11,Evolution Tour: Berlin,15,70,Frannz Club,Alemania,Europa,500,500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Glasgow,22,95,O2 Academy,UK,Europa,2500,2500,1
+Conan Gray,Estadounidense,1998-12-05,Found Heaven On Tour: Dublin,22,95,3Arena,Irlanda,Europa,13000,13000,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: Los Angeles,16,75,The Wiltern,USA,Norteamérica,2300,2300,1
+Conan Gray,Estadounidense,1998-12-05,Kid Krow Tour: San Francisco,16,75,The Fillmore,USA,Norteamérica,1300,1300,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Brussels,20,100,Forest National,Bélgica,Europa,8000,8000,1
+Troye Sivan,Australiana,1995-06-05,Something to Give Each Other: Copenhagen,20,100,Royal Arena,Dinamarca,Europa,16000,16000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Tokyo,16,70,Ebisu Liquidroom,Japón,Asia,1000,1000,1
+Troye Sivan,Australiana,1995-06-05,Blue Neighbourhood Tour: Seoul,16,70,Yes24 Live Hall,Corea del Sur,Asia,2000,2000,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Zurich,20,90,Kaufleuten,Suiza,Europa,1500,1500,1
+Alec Benjamin,Estadounidense,1994-05-28,12 Notes Tour: Milan,20,90,Magazzini Generali,Italia,Europa,1000,1000,1
