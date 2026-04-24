@@ -21,9 +21,9 @@ with engine.connect() as conn:
     CREATE TABLE IF NOT EXISTS Usuario (
         id_user INTEGER PRIMARY KEY AUTOINCREMENT,
         id_admin INTEGER NOT NULL,
-        consulta TEXT NOT NULL,
-        fecha DATE NOT NULL,
-        FOREIGN KEY (id_admin) REFERENCES Administrador(id_user)
+        usuario TEXT NOT NULL,
+        contraseña TEXT NOT NULL,
+        FOREIGN KEY (id_admin) REFERENCES Administrador(id_admin)
             ON DELETE CASCADE ON UPDATE CASCADE
     )
     """))
@@ -32,9 +32,9 @@ with engine.connect() as conn:
         CREATE TABLE IF NOT EXISTS Historial (
             id_consulta INTEGER PRIMARY KEY AUTOINCREMENT,
             id_consultor INTEGER NOT NULL,
-            usuario TEXT NOT NULL,
-            contrasena TEXT NOT NULL,
-            FOREIGN KEY (id_consultor) REFERENCES Usuario(id_admin)
+            consulta TEXT NOT NULL,
+            fecha DATE NOT NULL,
+            FOREIGN KEY (id_consultor) REFERENCES Usuario(id_user)
                 ON DELETE CASCADE ON UPDATE CASCADE
         )
         """))
