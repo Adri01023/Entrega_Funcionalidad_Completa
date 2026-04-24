@@ -1,31 +1,8 @@
-from fastapi import FastAPI, Response
+from fastapi import FastAPI, Response, HTTPException, UploadFile, File
 
-from Estadistica_Y_Graficas.estadisticas import (
-    rendimiento_vs_media_posicion, ranking_goleadores,
-    estadisticas_por_equipo, eficiencia_goleadora,
-    distribucion_salarial_por_cargo, ranking_salarial,
-    comparativa_salario_real_vs_base, antiguedad_media_por_cargo,
-    distribucion_empleados_por_cargo,
-    ranking_cantantes_por_actividad, distribucion_conciertos_por_continente,
-    recintos_mas_demandados, ocupacion_media_por_cantante, rentabilidad_por_gira,
-    rentabilidad_peliculas, generos_mas_rentables,
-    directores_mas_taquilleros, peliculas_mayor_perdida, impacto_actores_en_recaudacion
-)
-
-
-from Estadistica_Y_Graficas.graficas import (
-    grafico_rendimiento_posicion, grafico_ranking_goleadores,
-    grafico_estadisticas_por_equipo, grafico_eficiencia_goleadora,
-    grafico_distribucion_salarial, grafico_ranking_salarios,
-    grafico_comparativa_vs_base, grafico_antiguedad_por_cargo,
-    grafico_distribucion_empleados,
-    grafico_ranking_cantantes, grafico_distribucion_por_continente,
-    grafico_recintos_mas_demandados, grafico_ocupacion_por_cantante,
-    grafico_rentabilidad_giras,
-    grafico_rentabilidad_peliculas, grafico_generos_rentables,
-    grafico_directores_taquilleros, grafico_peliculas_mayor_perdida,
-    grafico_impacto_actores
-)
+from Estadistica_Y_Graficas.estadisticas import *
+from Estadistica_Y_Graficas.graficas import *
+from Estadistica_Y_Graficas.importar import *
 
 app = FastAPI(title="PyBusiness Analytics API")
 
@@ -207,3 +184,41 @@ def get_actores():
 def get_grafico_actores():
     datos = impacto_actores_en_recaudacion()
     return Response(content=grafico_impacto_actores(datos), media_type="image/png")
+
+@app.post("/subir-archivo")
+async def importar_ficheros(file: UploadFile = File(...)):
+    try:
+        contenido = await file.read()
+
+        df = importar_fichero(file.filename, contenido)
+
+        columnas = [c.lower() for c in df.columns]
+        tabla=""
+        if 'goles' in columnas or 'posicion' in columnas:
+            tabla = "Futbol"
+        elif 'salario_base' in columnas or 'fecha_contratacion' in columnas:
+            tabla = "Empleados"
+        elif 'entradas_vendidas' in columnas or 'recinto' in columnas:
+            tabla = "Conciertos"
+        elif 'recaudacion' in columnas or 'director' in columnas:
+            tabla = "Cine"
+        else:
+            raise ValueError("La estructura del archivo no coincide con ninguna tabla conocida.")
+
+        df.to_sql(tabla, con=engine, if_exists="append", index=False)
+
+        return {
+            "nombre_archivo": file.filename,
+            "num_filas": len(df),
+            "columnas": df.columns,
+            "datos": df.to_dict(orient="records")
+        }
+
+
+    except ValueError as e:
+        raise HTTPException(status_code=400, detail=str(e))
+
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
+
+
