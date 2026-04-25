@@ -1,0 +1,1001 @@
+cantante,nacionalidad,fecha_nac,concierto,num_canciones,duracion,recinto,pais,continente,max_entradas,entradas_vendidas
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Madison Square Garden,Estados Unidos,América del Norte,20000,15203
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,River Plate Stadium,Argentina,América del Sur,83000,74350
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,O2 Arena,Reino Unido,Europa,20000,12711
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,44812
+Coldplay,Británico,2000-01-01 00:00:00,Music of the Spheres World Tour,25,125,United Center,Estados Unidos,América del Norte,21000,13234
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Wembley Stadium,Reino Unido,Europa,90000,66356
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Rod Laver Arena,Australia,Oceanía,15000,9261
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Wembley Stadium,Reino Unido,Europa,90000,59219
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,River Plate Stadium,Argentina,América del Sur,83000,54381
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,12254
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Staples Center,Estados Unidos,América del Norte,20000,15870
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Movistar Arena Madrid,España,Europa,17000,14772
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,United Center,Estados Unidos,América del Norte,21000,12228
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Maracanã Stadium,Brasil,América del Sur,78000,75949
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Rod Laver Arena,Australia,Oceanía,15000,14138
+Coldplay,Británico,2000-01-01 00:00:00,Music of the Spheres World Tour,25,125,Accor Arena,Francia,Europa,20000,14059
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,O2 Arena,Reino Unido,Europa,20000,19384
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,18011
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Santiago Bernabéu,España,Europa,81000,74501
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Maracanã Stadium,Brasil,América del Sur,78000,59934
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,River Plate Stadium,Argentina,América del Sur,83000,72893
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Estadio Azteca,México,América del Norte,87000,81058
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Rod Laver Arena,Australia,Oceanía,15000,10892
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Santiago Bernabéu,España,Europa,81000,67042
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,79851
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,30063
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Accor Arena,Francia,Europa,20000,19706
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,MetLife Stadium,Estados Unidos,América del Norte,82500,65334
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,The Eras Tour,45,195,National Stadium Singapore,Singapur,Asia,55000,49824
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,19862
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Tokyo Dome,Japón,Asia,55000,49273
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Madison Square Garden,Estados Unidos,América del Norte,20000,17959
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Accor Arena,Francia,Europa,20000,10191
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,River Plate Stadium,Argentina,América del Sur,83000,53180
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,14863
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Santiago Bernabéu,España,Europa,81000,55914
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,River Plate Stadium,Argentina,América del Sur,83000,66703
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Movistar Arena Madrid,España,Europa,17000,16629
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Sydney Olympic Park,Australia,Oceanía,83000,52721
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,10561
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Allianz Arena,Alemania,Europa,75000,61523
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Camp Nou,España,Europa,99000,89138
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Estadio Azteca,México,América del Norte,87000,57443
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Accor Arena,Francia,Europa,20000,18846
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Movistar Arena Madrid,España,Europa,17000,15527
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,AT&T Stadium,Estados Unidos,América del Norte,80000,71102
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Tokyo Dome,Japón,Asia,55000,38049
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Foro Sol,México,América del Norte,65000,58270
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,MetLife Stadium,Estados Unidos,América del Norte,82500,69573
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,AT&T Stadium,Estados Unidos,América del Norte,80000,46648
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,AT&T Stadium,Estados Unidos,América del Norte,80000,53470
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Santiago Bernabéu,España,Europa,81000,56207
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Estadio Azteca,México,América del Norte,87000,59456
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Arena Ciudad de México,México,América del Norte,22000,19981
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Tokyo Dome,Japón,Asia,55000,32210
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,WiZink Center,España,Europa,17000,14894
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Movistar Arena Madrid,España,Europa,17000,15601
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Foro Sol,México,América del Norte,65000,47511
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Santiago Bernabéu,España,Europa,81000,68762
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,37512
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,National Stadium Singapore,Singapur,Asia,55000,39490
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Accor Arena,Francia,Europa,20000,14786
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Madison Square Garden,Estados Unidos,América del Norte,20000,13178
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Foro Sol,México,América del Norte,65000,55945
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,83888
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Allianz Arena,Alemania,Europa,75000,50512
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Santiago Bernabéu,España,Europa,81000,77764
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Staples Center,Estados Unidos,América del Norte,20000,11812
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Foro Sol,México,América del Norte,65000,33048
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,National Stadium Singapore,Singapur,Asia,55000,31236
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Movistar Arena Madrid,España,Europa,17000,11663
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,54091
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Movistar Arena Madrid,España,Europa,17000,13478
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,36078
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Movistar Arena Madrid,España,Europa,17000,11986
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Accor Arena,Francia,Europa,20000,13470
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,MetLife Stadium,Estados Unidos,América del Norte,82500,44214
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Rogers Centre,Canadá,América del Norte,50000,45590
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,SoFi Stadium,Estados Unidos,América del Norte,70000,47652
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,United Center,Estados Unidos,América del Norte,21000,15206
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,River Plate Stadium,Argentina,América del Sur,83000,66811
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Movistar Arena Madrid,España,Europa,17000,13962
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,12545
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Wembley Stadium,Reino Unido,Europa,90000,55820
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Tokyo Dome,Japón,Asia,55000,36327
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Sydney Olympic Park,Australia,Oceanía,83000,41948
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Allianz Arena,Alemania,Europa,75000,57513
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Wembley Stadium,Reino Unido,Europa,90000,60422
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Palau Sant Jordi,España,Europa,18000,10530
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Tokyo Dome,Japón,Asia,55000,46127
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Scotiabank Arena,Canadá,América del Norte,20000,15193
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Allianz Arena,Alemania,Europa,75000,67654
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Scotiabank Arena,Canadá,América del Norte,20000,17682
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,10915
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,O2 Arena,Reino Unido,Europa,20000,19349
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Tokyo Dome,Japón,Asia,55000,28779
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Tokyo Dome,Japón,Asia,55000,41506
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Movistar Arena Madrid,España,Europa,17000,16287
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,59322
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,United Center,Estados Unidos,América del Norte,21000,18401
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,Scotiabank Arena,Canadá,América del Norte,20000,18612
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,AT&T Stadium,Estados Unidos,América del Norte,80000,44782
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,O2 Arena,Reino Unido,Europa,20000,14800
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Madison Square Garden,Estados Unidos,América del Norte,20000,11102
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,AT&T Stadium,Estados Unidos,América del Norte,80000,44594
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,50174
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,83127
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,National Stadium Singapore,Singapur,Asia,55000,43454
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Allianz Arena,Alemania,Europa,75000,62651
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,MetLife Stadium,Estados Unidos,América del Norte,82500,55647
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,38288
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Scotiabank Arena,Canadá,América del Norte,20000,18466
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Santiago Bernabéu,España,Europa,81000,52732
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Rod Laver Arena,Australia,Oceanía,15000,10674
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,10345
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Foro Sol,México,América del Norte,65000,35305
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Staples Center,Estados Unidos,América del Norte,20000,15477
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,57800
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Tokyo Dome,Japón,Asia,55000,44212
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,United Center,Estados Unidos,América del Norte,21000,12299
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Olympic Stadium,Reino Unido,Europa,60000,55148
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,80642
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,United Center,Estados Unidos,América del Norte,21000,17239
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Madison Square Garden,Estados Unidos,América del Norte,20000,18421
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Palau Sant Jordi,España,Europa,18000,10615
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Santiago Bernabéu,España,Europa,81000,40533
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,United Center,Estados Unidos,América del Norte,21000,11840
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Palau Sant Jordi,España,Europa,18000,17975
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,AT&T Stadium,Estados Unidos,América del Norte,80000,51319
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Tokyo Dome,Japón,Asia,55000,50088
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Foro Sol,México,América del Norte,65000,36470
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,O2 Arena,Reino Unido,Europa,20000,18493
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,18043
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Accor Arena,Francia,Europa,20000,11803
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,67655
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,39811
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Olympic Stadium,Reino Unido,Europa,60000,45447
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Foro Sol,México,América del Norte,65000,59005
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,14900
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Olympic Stadium,Reino Unido,Europa,60000,47360
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Foro Sol,México,América del Norte,65000,61711
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Olympic Stadium,Reino Unido,Europa,60000,35271
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,SoFi Stadium,Estados Unidos,América del Norte,70000,66185
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,AT&T Stadium,Estados Unidos,América del Norte,80000,70133
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,43410
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Arena Ciudad de México,México,América del Norte,22000,13141
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,United Center,Estados Unidos,América del Norte,21000,18833
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,68725
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Allianz Arena,Alemania,Europa,75000,44174
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,61907
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Allianz Arena,Alemania,Europa,75000,70372
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Arena Corinthians,Brasil,América del Sur,49000,29209
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Scotiabank Arena,Canadá,América del Norte,20000,12637
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,O2 Arena,Reino Unido,Europa,20000,12120
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,National Stadium Singapore,Singapur,Asia,55000,33464
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,O2 Arena,Reino Unido,Europa,20000,18698
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Tokyo Dome,Japón,Asia,55000,31727
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Tokyo Dome,Japón,Asia,55000,47502
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,O2 Arena,Reino Unido,Europa,20000,13902
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Wembley Stadium,Reino Unido,Europa,90000,75057
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Sydney Olympic Park,Australia,Oceanía,83000,46947
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Arena Ciudad de México,México,América del Norte,22000,15525
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Scotiabank Arena,Canadá,América del Norte,20000,15629
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Accor Arena,Francia,Europa,20000,10096
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,WiZink Center,España,Europa,17000,11388
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Movistar Arena Madrid,España,Europa,17000,13518
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Maracanã Stadium,Brasil,América del Sur,78000,66818
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,River Plate Stadium,Argentina,América del Sur,83000,80793
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Palau Sant Jordi,España,Europa,18000,9165
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,SoFi Stadium,Estados Unidos,América del Norte,70000,46363
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Santiago Bernabéu,España,Europa,81000,58351
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Scotiabank Arena,Canadá,América del Norte,20000,11138
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,42847
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Accor Arena,Francia,Europa,20000,13167
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Camp Nou,España,Europa,99000,54525
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Estadio Azteca,México,América del Norte,87000,72166
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,MetLife Stadium,Estados Unidos,América del Norte,82500,54314
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Arena Corinthians,Brasil,América del Sur,49000,48170
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Olympic Stadium,Reino Unido,Europa,60000,52094
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Foro Sol,México,América del Norte,65000,40646
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Rod Laver Arena,Australia,Oceanía,15000,9963
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,12020
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Rod Laver Arena,Australia,Oceanía,15000,7894
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Santiago Bernabéu,España,Europa,81000,63385
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Sydney Olympic Park,Australia,Oceanía,83000,47379
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,17333
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,40552
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Staples Center,Estados Unidos,América del Norte,20000,14471
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Santiago Bernabéu,España,Europa,81000,80714
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,33200
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,United Center,Estados Unidos,América del Norte,21000,14436
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Allianz Arena,Alemania,Europa,75000,42297
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Foro Sol,México,América del Norte,65000,61348
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Allianz Arena,Alemania,Europa,75000,59624
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,MetLife Stadium,Estados Unidos,América del Norte,82500,48464
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Santiago Bernabéu,España,Europa,81000,57851
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Arena Ciudad de México,México,América del Norte,22000,15843
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,AT&T Stadium,Estados Unidos,América del Norte,80000,79898
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,Accor Arena,Francia,Europa,20000,17626
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Tokyo Dome,Japón,Asia,55000,54325
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,River Plate Stadium,Argentina,América del Sur,83000,76096
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,66270
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,O2 Arena,Reino Unido,Europa,20000,14566
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Rogers Centre,Canadá,América del Norte,50000,34453
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,43665
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,71089
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Movistar Arena Madrid,España,Europa,17000,13727
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Palau Sant Jordi,España,Europa,18000,14059
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Madison Square Garden,Estados Unidos,América del Norte,20000,19555
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Rogers Centre,Canadá,América del Norte,50000,38638
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Olympic Stadium,Reino Unido,Europa,60000,50827
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Estadio Azteca,México,América del Norte,87000,73730
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Accor Arena,Francia,Europa,20000,14664
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Camp Nou,España,Europa,99000,56469
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Foro Sol,México,América del Norte,65000,39354
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,13208
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,31968
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Maracanã Stadium,Brasil,América del Sur,78000,47353
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Staples Center,Estados Unidos,América del Norte,20000,11899
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,River Plate Stadium,Argentina,América del Sur,83000,81516
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,AT&T Stadium,Estados Unidos,América del Norte,80000,71078
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Arena Corinthians,Brasil,América del Sur,49000,25640
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Estadio Azteca,México,América del Norte,87000,77494
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,19292
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,19413
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Estadio Azteca,México,América del Norte,87000,61989
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Allianz Arena,Alemania,Europa,75000,68097
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Palau Sant Jordi,España,Europa,18000,10826
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,MetLife Stadium,Estados Unidos,América del Norte,82500,76514
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Movistar Arena Madrid,España,Europa,17000,16229
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,The Eras Tour,45,195,WiZink Center,España,Europa,17000,9958
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Santiago Bernabéu,España,Europa,81000,58039
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Santiago Bernabéu,España,Europa,81000,62060
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Santiago Bernabéu,España,Europa,81000,42172
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Maracanã Stadium,Brasil,América del Sur,78000,69705
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,60225
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Arena Ciudad de México,México,América del Norte,22000,14911
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Scotiabank Arena,Canadá,América del Norte,20000,19926
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,SoFi Stadium,Estados Unidos,América del Norte,70000,38586
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,35011
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Movistar Arena Madrid,España,Europa,17000,14733
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Allianz Arena,Alemania,Europa,75000,67248
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Camp Nou,España,Europa,99000,93812
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Madison Square Garden,Estados Unidos,América del Norte,20000,17608
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Camp Nou,España,Europa,99000,50533
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Arena Corinthians,Brasil,América del Sur,49000,25742
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,O2 Arena,Reino Unido,Europa,20000,11743
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Scotiabank Arena,Canadá,América del Norte,20000,12246
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,MetLife Stadium,Estados Unidos,América del Norte,82500,79290
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,47175
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,National Stadium Singapore,Singapur,Asia,55000,32210
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,Accor Arena,Francia,Europa,20000,13138
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Madison Square Garden,Estados Unidos,América del Norte,20000,12826
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Santiago Bernabéu,España,Europa,81000,74674
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,63361
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,16594
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,O2 Arena,Reino Unido,Europa,20000,18648
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,35029
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,WiZink Center,España,Europa,17000,16601
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Palau Sant Jordi,España,Europa,18000,16160
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Maracanã Stadium,Brasil,América del Sur,78000,68951
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Foro Sol,México,América del Norte,65000,39643
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Santiago Bernabéu,España,Europa,81000,73140
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Staples Center,Estados Unidos,América del Norte,20000,16288
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Foro Sol,México,América del Norte,65000,62187
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,47129
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Palau Sant Jordi,España,Europa,18000,14569
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,National Stadium Singapore,Singapur,Asia,55000,33227
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,O2 Arena,Reino Unido,Europa,20000,15889
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,60525
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Camp Nou,España,Europa,99000,72450
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,O2 Arena,Reino Unido,Europa,20000,19282
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,O2 Arena,Reino Unido,Europa,20000,18626
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Foro Sol,México,América del Norte,65000,41950
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Allianz Arena,Alemania,Europa,75000,44098
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Camp Nou,España,Europa,99000,84307
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Madison Square Garden,Estados Unidos,América del Norte,20000,19911
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,Arena Ciudad de México,México,América del Norte,22000,21877
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Rogers Centre,Canadá,América del Norte,50000,46209
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,River Plate Stadium,Argentina,América del Sur,83000,60998
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,O2 Arena,Reino Unido,Europa,20000,10019
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Camp Nou,España,Europa,99000,62723
+Coldplay,Británico,2000-01-01 00:00:00,Music of the Spheres World Tour,25,125,Madison Square Garden,Estados Unidos,América del Norte,20000,19859
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Foro Sol,México,América del Norte,65000,46271
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,73182
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Foro Sol,México,América del Norte,65000,37832
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Madison Square Garden,Estados Unidos,América del Norte,20000,13361
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,20386
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,83824
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,19723
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Arena Corinthians,Brasil,América del Sur,49000,40619
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,SoFi Stadium,Estados Unidos,América del Norte,70000,48543
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Foro Sol,México,América del Norte,65000,62133
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Maracanã Stadium,Brasil,América del Sur,78000,75570
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Tokyo Dome,Japón,Asia,55000,52172
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,WiZink Center,España,Europa,17000,12922
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,O2 Arena,Reino Unido,Europa,20000,17776
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,AT&T Stadium,Estados Unidos,América del Norte,80000,60632
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,46820
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,8669
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,10737
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Estadio Azteca,México,América del Norte,87000,57282
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,53087
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,35656
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Camp Nou,España,Europa,99000,70774
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,SoFi Stadium,Estados Unidos,América del Norte,70000,54113
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,12253
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Tokyo Dome,Japón,Asia,55000,51860
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,WiZink Center,España,Europa,17000,8934
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,67719
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,48910
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Estadio Azteca,México,América del Norte,87000,67945
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Arena Corinthians,Brasil,América del Sur,49000,48138
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,National Stadium Singapore,Singapur,Asia,55000,49045
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,O2 Arena,Reino Unido,Europa,20000,18411
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Estadio Azteca,México,América del Norte,87000,76707
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Movistar Arena Madrid,España,Europa,17000,12837
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Allianz Arena,Alemania,Europa,75000,71246
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,51109
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Estadio Azteca,México,América del Norte,87000,55460
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,River Plate Stadium,Argentina,América del Sur,83000,68535
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,57553
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Allianz Arena,Alemania,Europa,75000,51885
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Movistar Arena Madrid,España,Europa,17000,16855
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Palau Sant Jordi,España,Europa,18000,11982
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Madison Square Garden,Estados Unidos,América del Norte,20000,17804
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Wembley Stadium,Reino Unido,Europa,90000,72768
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Camp Nou,España,Europa,99000,92102
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Staples Center,Estados Unidos,América del Norte,20000,13659
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,48087
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Rod Laver Arena,Australia,Oceanía,15000,14159
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Tokyo Dome,Japón,Asia,55000,34814
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,National Stadium Singapore,Singapur,Asia,55000,30292
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,AT&T Stadium,Estados Unidos,América del Norte,80000,53301
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,44898
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Rod Laver Arena,Australia,Oceanía,15000,13858
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,River Plate Stadium,Argentina,América del Sur,83000,74890
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,36426
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Accor Arena,Francia,Europa,20000,18530
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,66054
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,56986
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,O2 Arena,Reino Unido,Europa,20000,11454
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,19959
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,WiZink Center,España,Europa,17000,13875
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Rogers Centre,Canadá,América del Norte,50000,42283
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Arena Ciudad de México,México,América del Norte,22000,15231
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Rogers Centre,Canadá,América del Norte,50000,42852
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Camp Nou,España,Europa,99000,92713
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Rod Laver Arena,Australia,Oceanía,15000,7747
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Wembley Stadium,Reino Unido,Europa,90000,74936
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,WiZink Center,España,Europa,17000,9234
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Movistar Arena Madrid,España,Europa,17000,12150
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,O2 Arena,Reino Unido,Europa,20000,16703
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Sydney Olympic Park,Australia,Oceanía,83000,72637
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,WiZink Center,España,Europa,17000,13733
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,United Center,Estados Unidos,América del Norte,21000,15917
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,River Plate Stadium,Argentina,América del Sur,83000,57239
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Estadio Azteca,México,América del Norte,87000,74589
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Allianz Arena,Alemania,Europa,75000,51747
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Movistar Arena Madrid,España,Europa,17000,8677
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,14281
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Foro Sol,México,América del Norte,65000,44690
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Estadio Azteca,México,América del Norte,87000,63167
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,O2 Arena,Reino Unido,Europa,20000,17634
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Tokyo Dome,Japón,Asia,55000,36521
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,Sydney Olympic Park,Australia,Oceanía,83000,61580
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Foro Sol,México,América del Norte,65000,55078
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,19562
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,11264
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Palau Sant Jordi,España,Europa,18000,12888
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,38580
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Palau Sant Jordi,España,Europa,18000,12416
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,11987
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Wembley Stadium,Reino Unido,Europa,90000,73689
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Camp Nou,España,Europa,99000,59191
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Movistar Arena Madrid,España,Europa,17000,8802
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,WiZink Center,España,Europa,17000,10549
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,AT&T Stadium,Estados Unidos,América del Norte,80000,43914
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Accor Arena,Francia,Europa,20000,13451
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,42372
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,AT&T Stadium,Estados Unidos,América del Norte,80000,52360
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Wembley Stadium,Reino Unido,Europa,90000,84208
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Santiago Bernabéu,España,Europa,81000,52234
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,59128
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Rogers Centre,Canadá,América del Norte,50000,46011
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,68903
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Rod Laver Arena,Australia,Oceanía,15000,14589
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,34852
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Arena Ciudad de México,México,América del Norte,22000,20949
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,WiZink Center,España,Europa,17000,14504
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,14808
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Allianz Arena,Alemania,Europa,75000,45726
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,13783
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,15220
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Maracanã Stadium,Brasil,América del Sur,78000,55141
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,11030
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Santiago Bernabéu,España,Europa,81000,44284
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Camp Nou,España,Europa,99000,71993
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Movistar Arena Madrid,España,Europa,17000,14816
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,12354
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Maracanã Stadium,Brasil,América del Sur,78000,42938
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Madison Square Garden,Estados Unidos,América del Norte,20000,15091
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,Tokyo Dome,Japón,Asia,55000,35696
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,57213
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Madison Square Garden,Estados Unidos,América del Norte,20000,12996
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,O2 Arena,Reino Unido,Europa,20000,12264
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,78325
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,68627
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,56890
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Santiago Bernabéu,España,Europa,81000,53598
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Palau Sant Jordi,España,Europa,18000,9552
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,National Stadium Singapore,Singapur,Asia,55000,35282
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Accor Arena,Francia,Europa,20000,18874
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Wembley Stadium,Reino Unido,Europa,90000,84701
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Rod Laver Arena,Australia,Oceanía,15000,14591
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,61339
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,69388
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,47321
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Allianz Arena,Alemania,Europa,75000,43639
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Palau Sant Jordi,España,Europa,18000,13668
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Rod Laver Arena,Australia,Oceanía,15000,12875
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,74501
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Wembley Stadium,Reino Unido,Europa,90000,72273
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,WiZink Center,España,Europa,17000,8514
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,50451
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Palau Sant Jordi,España,Europa,18000,17936
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,43291
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Foro Sol,México,América del Norte,65000,46861
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Allianz Arena,Alemania,Europa,75000,64411
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Olympic Stadium,Reino Unido,Europa,60000,42280
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Arena Corinthians,Brasil,América del Sur,49000,37755
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,15177
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Santiago Bernabéu,España,Europa,81000,75340
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,19897
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Madison Square Garden,Estados Unidos,América del Norte,20000,13311
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,National Stadium Singapore,Singapur,Asia,55000,50599
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Accor Arena,Francia,Europa,20000,18544
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Tokyo Dome,Japón,Asia,55000,43984
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Scotiabank Arena,Canadá,América del Norte,20000,11125
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,Foro Sol,México,América del Norte,65000,35526
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,44566
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,75267
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,50510
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Movistar Arena Madrid,España,Europa,17000,15159
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Staples Center,Estados Unidos,América del Norte,20000,17503
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,15123
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Arena Ciudad de México,México,América del Norte,22000,18579
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,MetLife Stadium,Estados Unidos,América del Norte,82500,75857
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,31664
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,73933
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Rogers Centre,Canadá,América del Norte,50000,44798
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,WiZink Center,España,Europa,17000,12900
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,SoFi Stadium,Estados Unidos,América del Norte,70000,41420
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Foro Sol,México,América del Norte,65000,57002
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,SoFi Stadium,Estados Unidos,América del Norte,70000,46056
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,WiZink Center,España,Europa,17000,14235
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Movistar Arena Madrid,España,Europa,17000,15213
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,WiZink Center,España,Europa,17000,15093
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,57515
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Movistar Arena Madrid,España,Europa,17000,16790
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Allianz Arena,Alemania,Europa,75000,55818
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Santiago Bernabéu,España,Europa,81000,80845
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,15710
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Sydney Olympic Park,Australia,Oceanía,83000,82537
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,25864
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Sydney Olympic Park,Australia,Oceanía,83000,63571
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,49388
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Rogers Centre,Canadá,América del Norte,50000,49069
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Estadio Azteca,México,América del Norte,87000,72912
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Movistar Arena Madrid,España,Europa,17000,9567
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Movistar Arena Madrid,España,Europa,17000,12579
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,62385
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,National Stadium Singapore,Singapur,Asia,55000,43472
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,64758
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Arena Ciudad de México,México,América del Norte,22000,17973
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,81596
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Palau Sant Jordi,España,Europa,18000,13126
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Camp Nou,España,Europa,99000,72567
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,MetLife Stadium,Estados Unidos,América del Norte,82500,47920
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Madison Square Garden,Estados Unidos,América del Norte,20000,10576
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Movistar Arena Madrid,España,Europa,17000,13245
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Tokyo Dome,Japón,Asia,55000,49662
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,17874
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,Rogers Centre,Canadá,América del Norte,50000,32279
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,57700
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Camp Nou,España,Europa,99000,55545
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Palau Sant Jordi,España,Europa,18000,16766
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Allianz Arena,Alemania,Europa,75000,55235
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,87227
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,Allianz Arena,Alemania,Europa,75000,70954
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Santiago Bernabéu,España,Europa,81000,63179
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Allianz Arena,Alemania,Europa,75000,37786
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Allianz Arena,Alemania,Europa,75000,51927
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,76512
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,55391
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Allianz Arena,Alemania,Europa,75000,43838
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,43575
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Accor Arena,Francia,Europa,20000,18770
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,National Stadium Singapore,Singapur,Asia,55000,29077
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,51805
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Foro Sol,México,América del Norte,65000,34234
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Movistar Arena Madrid,España,Europa,17000,14112
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Camp Nou,España,Europa,99000,98364
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Sydney Olympic Park,Australia,Oceanía,83000,77608
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Arena Ciudad de México,México,América del Norte,22000,20235
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Foro Sol,México,América del Norte,65000,55283
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Staples Center,Estados Unidos,América del Norte,20000,10794
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,National Stadium Singapore,Singapur,Asia,55000,39407
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Palau Sant Jordi,España,Europa,18000,13912
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,MetLife Stadium,Estados Unidos,América del Norte,82500,73225
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Estadio Azteca,México,América del Norte,87000,44882
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Arena Ciudad de México,México,América del Norte,22000,13436
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,WiZink Center,España,Europa,17000,9417
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,62844
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,55087
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Tokyo Dome,Japón,Asia,55000,49975
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Arena Ciudad de México,México,América del Norte,22000,20590
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Rod Laver Arena,Australia,Oceanía,15000,10629
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,Wembley Stadium,Reino Unido,Europa,90000,56127
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Allianz Arena,Alemania,Europa,75000,46665
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,65152
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,52888
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,United Center,Estados Unidos,América del Norte,21000,16465
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Tokyo Dome,Japón,Asia,55000,51509
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Movistar Arena Madrid,España,Europa,17000,15763
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Staples Center,Estados Unidos,América del Norte,20000,19074
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Palau Sant Jordi,España,Europa,18000,15419
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,SoFi Stadium,Estados Unidos,América del Norte,70000,46971
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Allianz Arena,Alemania,Europa,75000,44259
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,53852
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,MetLife Stadium,Estados Unidos,América del Norte,82500,79983
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Arena Corinthians,Brasil,América del Sur,49000,37145
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Movistar Arena Madrid,España,Europa,17000,12682
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Madison Square Garden,Estados Unidos,América del Norte,20000,15755
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Camp Nou,España,Europa,99000,55949
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,United Center,Estados Unidos,América del Norte,21000,17322
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,Arena Ciudad de México,México,América del Norte,22000,18551
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Movistar Arena Madrid,España,Europa,17000,12317
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Accor Arena,Francia,Europa,20000,15085
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Rod Laver Arena,Australia,Oceanía,15000,11291
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,AT&T Stadium,Estados Unidos,América del Norte,80000,71368
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Sydney Olympic Park,Australia,Oceanía,83000,65281
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Maracanã Stadium,Brasil,América del Sur,78000,40276
+Coldplay,Británico,2000-01-01 00:00:00,Music of the Spheres World Tour,25,125,United Center,Estados Unidos,América del Norte,21000,20844
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Palau Sant Jordi,España,Europa,18000,16231
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Movistar Arena Madrid,España,Europa,17000,10362
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Camp Nou,España,Europa,99000,76555
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,18075
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Wembley Stadium,Reino Unido,Europa,90000,74875
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Staples Center,Estados Unidos,América del Norte,20000,12036
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Allianz Arena,Alemania,Europa,75000,54358
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,11919
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Sydney Olympic Park,Australia,Oceanía,83000,54782
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,River Plate Stadium,Argentina,América del Sur,83000,67205
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,National Stadium Singapore,Singapur,Asia,55000,43463
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Movistar Arena Madrid,España,Europa,17000,8923
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,River Plate Stadium,Argentina,América del Sur,83000,43542
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Foro Sol,México,América del Norte,65000,51913
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,MetLife Stadium,Estados Unidos,América del Norte,82500,81282
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Rod Laver Arena,Australia,Oceanía,15000,12769
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Palau Sant Jordi,España,Europa,18000,17950
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Tokyo Dome,Japón,Asia,55000,52732
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,River Plate Stadium,Argentina,América del Sur,83000,68836
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,67823
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,64050
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,MetLife Stadium,Estados Unidos,América del Norte,82500,43364
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Tokyo Dome,Japón,Asia,55000,46721
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Rod Laver Arena,Australia,Oceanía,15000,8412
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,WiZink Center,España,Europa,17000,16501
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,National Stadium Singapore,Singapur,Asia,55000,28897
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Sydney Olympic Park,Australia,Oceanía,83000,49567
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,AT&T Stadium,Estados Unidos,América del Norte,80000,40951
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,66420
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Staples Center,Estados Unidos,América del Norte,20000,18376
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,49452
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,50905
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Scotiabank Arena,Canadá,América del Norte,20000,17768
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Sydney Olympic Park,Australia,Oceanía,83000,74249
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,O2 Arena,Reino Unido,Europa,20000,19570
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Scotiabank Arena,Canadá,América del Norte,20000,11664
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Palau Sant Jordi,España,Europa,18000,11174
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,49132
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,WiZink Center,España,Europa,17000,15111
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,53942
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,WiZink Center,España,Europa,17000,12543
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Rod Laver Arena,Australia,Oceanía,15000,13775
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Accor Arena,Francia,Europa,20000,19253
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Estadio Azteca,México,América del Norte,87000,75751
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Olympic Stadium,Reino Unido,Europa,60000,41415
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Camp Nou,España,Europa,99000,50105
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,SoFi Stadium,Estados Unidos,América del Norte,70000,37123
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Olympic Stadium,Reino Unido,Europa,60000,32327
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Palau Sant Jordi,España,Europa,18000,9343
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Foro Sol,México,América del Norte,65000,63752
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,74176
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Foro Sol,México,América del Norte,65000,50432
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Santiago Bernabéu,España,Europa,81000,61837
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Camp Nou,España,Europa,99000,74364
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,64274
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Arena Corinthians,Brasil,América del Sur,49000,38432
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Arena Corinthians,Brasil,América del Sur,49000,34850
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Tokyo Dome,Japón,Asia,55000,52904
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,United Center,Estados Unidos,América del Norte,21000,20780
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Tokyo Dome,Japón,Asia,55000,34883
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,MetLife Stadium,Estados Unidos,América del Norte,82500,82035
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Scotiabank Arena,Canadá,América del Norte,20000,12888
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,WiZink Center,España,Europa,17000,14004
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Allianz Arena,Alemania,Europa,75000,49191
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,18851
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,43125
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Rod Laver Arena,Australia,Oceanía,15000,12552
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Wembley Stadium,Reino Unido,Europa,90000,85357
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Rogers Centre,Canadá,América del Norte,50000,41466
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Sydney Olympic Park,Australia,Oceanía,83000,58479
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,Allianz Arena,Alemania,Europa,75000,69423
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,19720
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,19679
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,59582
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Estadio Azteca,México,América del Norte,87000,79873
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,National Stadium Singapore,Singapur,Asia,55000,36095
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Foro Sol,México,América del Norte,65000,32603
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Allianz Arena,Alemania,Europa,75000,45577
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Tokyo Dome,Japón,Asia,55000,44785
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Wembley Stadium,Reino Unido,Europa,90000,84384
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,O2 Arena,Reino Unido,Europa,20000,17092
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Foro Sol,México,América del Norte,65000,40146
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Palau Sant Jordi,España,Europa,18000,16369
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Sydney Olympic Park,Australia,Oceanía,83000,80783
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,AT&T Stadium,Estados Unidos,América del Norte,80000,53371
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,60795
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Movistar Arena Madrid,España,Europa,17000,13083
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Foro Sol,México,América del Norte,65000,39384
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Allianz Arena,Alemania,Europa,75000,54160
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,51790
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,WiZink Center,España,Europa,17000,13985
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,United Center,Estados Unidos,América del Norte,21000,12458
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Staples Center,Estados Unidos,América del Norte,20000,17195
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,United Center,Estados Unidos,América del Norte,21000,18565
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Foro Sol,México,América del Norte,65000,45160
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,River Plate Stadium,Argentina,América del Sur,83000,76621
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Santiago Bernabéu,España,Europa,81000,69477
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Estadio Azteca,México,América del Norte,87000,53253
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Foro Sol,México,América del Norte,65000,49733
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,25687
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,49084
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,49680
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,64004
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Estadio Azteca,México,América del Norte,87000,81178
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Camp Nou,España,Europa,99000,53088
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Rod Laver Arena,Australia,Oceanía,15000,9299
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,National Stadium Singapore,Singapur,Asia,55000,46008
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Staples Center,Estados Unidos,América del Norte,20000,18080
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,19570
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,45526
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Camp Nou,España,Europa,99000,87646
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Rogers Centre,Canadá,América del Norte,50000,37043
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,51617
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,United Center,Estados Unidos,América del Norte,21000,18464
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Olympic Stadium,Reino Unido,Europa,60000,53753
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Allianz Arena,Alemania,Europa,75000,62084
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Palau Sant Jordi,España,Europa,18000,13125
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Tokyo Dome,Japón,Asia,55000,47566
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Arena Corinthians,Brasil,América del Sur,49000,29862
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Sydney Olympic Park,Australia,Oceanía,83000,70180
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Estadio Azteca,México,América del Norte,87000,54796
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Rogers Centre,Canadá,América del Norte,50000,28393
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Estadio Azteca,México,América del Norte,87000,57421
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Foro Sol,México,América del Norte,65000,43257
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,AT&T Stadium,Estados Unidos,América del Norte,80000,76077
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Estadio Azteca,México,América del Norte,87000,57946
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,80665
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,River Plate Stadium,Argentina,América del Sur,83000,75948
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Scotiabank Arena,Canadá,América del Norte,20000,17678
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,River Plate Stadium,Argentina,América del Sur,83000,82915
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,United Center,Estados Unidos,América del Norte,21000,16159
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,MetLife Stadium,Estados Unidos,América del Norte,82500,61582
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Tokyo Dome,Japón,Asia,55000,41768
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Sydney Olympic Park,Australia,Oceanía,83000,41925
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Accor Arena,Francia,Europa,20000,13174
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,WiZink Center,España,Europa,17000,10285
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Staples Center,Estados Unidos,América del Norte,20000,13633
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Estadio Azteca,México,América del Norte,87000,54343
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,SoFi Stadium,Estados Unidos,América del Norte,70000,56387
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,AT&T Stadium,Estados Unidos,América del Norte,80000,79317
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Arena Ciudad de México,México,América del Norte,22000,18408
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,44825
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Rogers Centre,Canadá,América del Norte,50000,26550
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,SoFi Stadium,Estados Unidos,América del Norte,70000,35321
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,O2 Arena,Reino Unido,Europa,20000,13715
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Maracanã Stadium,Brasil,América del Sur,78000,59831
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,52894
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Wembley Stadium,Reino Unido,Europa,90000,63955
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Estadio Azteca,México,América del Norte,87000,47103
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Tokyo Dome,Japón,Asia,55000,42621
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,Sydney Olympic Park,Australia,Oceanía,83000,64225
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,11409
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Madison Square Garden,Estados Unidos,América del Norte,20000,17475
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,Estadio Azteca,México,América del Norte,87000,86045
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Santiago Bernabéu,España,Europa,81000,58919
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Arena Corinthians,Brasil,América del Sur,49000,46164
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Palau Sant Jordi,España,Europa,18000,13677
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Camp Nou,España,Europa,99000,95333
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,United Center,Estados Unidos,América del Norte,21000,11207
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Camp Nou,España,Europa,99000,97149
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,60327
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Estadio Azteca,México,América del Norte,87000,43573
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,O2 Arena,Reino Unido,Europa,20000,18965
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Arena Ciudad de México,México,América del Norte,22000,13178
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,O2 Arena,Reino Unido,Europa,20000,14244
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,WiZink Center,España,Europa,17000,13669
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,68673
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Santiago Bernabéu,España,Europa,81000,51948
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,82218
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,28949
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Tokyo Dome,Japón,Asia,55000,51820
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Accor Arena,Francia,Europa,20000,10476
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Allianz Arena,Alemania,Europa,75000,69860
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,70480
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,MetLife Stadium,Estados Unidos,América del Norte,82500,60555
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,The Eras Tour,45,195,SoFi Stadium,Estados Unidos,América del Norte,70000,54305
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,32026
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Maracanã Stadium,Brasil,América del Sur,78000,72921
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Allianz Arena,Alemania,Europa,75000,44298
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Accor Arena,Francia,Europa,20000,19047
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,44686
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,Rogers Centre,Canadá,América del Norte,50000,44701
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Staples Center,Estados Unidos,América del Norte,20000,18476
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,WiZink Center,España,Europa,17000,14214
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Camp Nou,España,Europa,99000,67923
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Santiago Bernabéu,España,Europa,81000,43859
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,O2 Arena,Reino Unido,Europa,20000,11096
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,O2 Arena,Reino Unido,Europa,20000,19721
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,MetLife Stadium,Estados Unidos,América del Norte,82500,71941
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Maracanã Stadium,Brasil,América del Sur,78000,52479
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,1989 World Tour,19,110,Rod Laver Arena,Australia,Oceanía,15000,11035
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,19706
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Arena Corinthians,Brasil,América del Sur,49000,31648
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Scotiabank Arena,Canadá,América del Norte,20000,13861
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Camp Nou,España,Europa,99000,56144
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,51618
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Santiago Bernabéu,España,Europa,81000,56829
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Madison Square Garden,Estados Unidos,América del Norte,20000,11809
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Arena Corinthians,Brasil,América del Sur,49000,27582
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,AT&T Stadium,Estados Unidos,América del Norte,80000,42209
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Believe Tour,20,100,Palau Sant Jordi,España,Europa,18000,12449
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Arena Ciudad de México,México,América del Norte,22000,16935
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,20365
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,50718
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Santiago Bernabéu,España,Europa,81000,56741
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,River Plate Stadium,Argentina,América del Sur,83000,78678
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Scotiabank Arena,Canadá,América del Norte,20000,11292
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,39183
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Staples Center,Estados Unidos,América del Norte,20000,11908
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,National Stadium Singapore,Singapur,Asia,55000,33231
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Rod Laver Arena,Australia,Oceanía,15000,10337
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Maracanã Stadium,Brasil,América del Sur,78000,74533
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Rogers Centre,Canadá,América del Norte,50000,37115
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Movistar Arena Madrid,España,Europa,17000,12178
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,United Center,Estados Unidos,América del Norte,21000,13986
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,10363
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,11787
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,WiZink Center,España,Europa,17000,11048
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Camp Nou,España,Europa,99000,52738
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,14506
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,Arena Ciudad de México,México,América del Norte,22000,16929
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,47606
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,WiZink Center,España,Europa,17000,15125
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,National Stadium Singapore,Singapur,Asia,55000,53024
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Maracanã Stadium,Brasil,América del Sur,78000,52997
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,54221
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Movistar Arena Madrid,España,Europa,17000,16417
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,WiZink Center,España,Europa,17000,16434
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,The Eras Tour,45,195,Olympic Stadium,Reino Unido,Europa,60000,46901
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,River Plate Stadium,Argentina,América del Sur,83000,69832
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Arena Ciudad de México,México,América del Norte,22000,13697
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Staples Center,Estados Unidos,América del Norte,20000,12512
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,AT&T Stadium,Estados Unidos,América del Norte,80000,65893
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,AT&T Stadium,Estados Unidos,América del Norte,80000,76803
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,SoFi Stadium,Estados Unidos,América del Norte,70000,63491
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Madison Square Garden,Estados Unidos,América del Norte,20000,17993
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Scotiabank Arena,Canadá,América del Norte,20000,12290
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Foro Sol,México,América del Norte,65000,39867
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Tokyo Dome,Japón,Asia,55000,36848
+Beyonce,Estadounidense,1981-09-04 00:00:00,Renaissance World Tour,32,150,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,53914
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Fearless Tour,14,90,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,81876
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Reputation Stadium Tour,24,120,AT&T Stadium,Estados Unidos,América del Norte,80000,59053
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Movistar Arena Madrid,España,Europa,17000,13730
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Rod Laver Arena,Australia,Oceanía,15000,10041
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Estadio Azteca,México,América del Norte,87000,56104
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Rod Laver Arena,Australia,Oceanía,15000,9203
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Allianz Arena,Alemania,Europa,75000,69598
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Camp Nou,España,Europa,99000,51367
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,AT&T Stadium,Estados Unidos,América del Norte,80000,78593
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Tokyo Dome,Japón,Asia,55000,41651
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Estadio Azteca,México,América del Norte,87000,66200
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Madison Square Garden,Estados Unidos,América del Norte,20000,17589
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Staples Center,Estados Unidos,América del Norte,20000,17750
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Rogers Centre,Canadá,América del Norte,50000,46411
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Arena Corinthians,Brasil,América del Sur,49000,29684
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Santiago Bernabéu,España,Europa,81000,51789
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Rogers Centre,Canadá,América del Norte,50000,37073
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Staples Center,Estados Unidos,América del Norte,20000,14499
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Palau Sant Jordi,España,Europa,18000,15395
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,The Honeymoon Tour,19,100,Arena Ciudad de México,México,América del Norte,22000,13421
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Arena Ciudad de México,México,América del Norte,22000,18497
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,MetLife Stadium,Estados Unidos,América del Norte,82500,61697
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Wembley Stadium,Reino Unido,Europa,90000,51422
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,National Stadium Singapore,Singapur,Asia,55000,45385
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Palau Sant Jordi,España,Europa,18000,17016
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,65413
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,National Stadium Singapore,Singapur,Asia,55000,34977
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,O2 Arena,Reino Unido,Europa,20000,10944
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Wonder World Tour,19,100,National Stadium Singapore,Singapur,Asia,55000,54068
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Staples Center,Estados Unidos,América del Norte,20000,17433
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Olympic Stadium,Reino Unido,Europa,60000,41026
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,MetLife Stadium,Estados Unidos,América del Norte,82500,44873
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,38366
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Sydney Olympic Park,Australia,Oceanía,83000,65882
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Palau Sant Jordi,España,Europa,18000,10474
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Allianz Arena,Alemania,Europa,75000,48124
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,United Center,Estados Unidos,América del Norte,21000,13476
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,AT&T Stadium,Estados Unidos,América del Norte,80000,77524
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,71898
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,59632
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Foro Sol,México,América del Norte,65000,52077
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,12287
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Rod Laver Arena,Australia,Oceanía,15000,13548
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Allianz Arena,Alemania,Europa,75000,51517
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Palau Sant Jordi,España,Europa,18000,11380
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Arena Corinthians,Brasil,América del Sur,49000,25571
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Sydney Olympic Park,Australia,Oceanía,83000,50392
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,United Center,Estados Unidos,América del Norte,21000,18421
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Allianz Arena,Alemania,Europa,75000,71701
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,National Stadium Singapore,Singapur,Asia,55000,53389
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,National Stadium Singapore,Singapur,Asia,55000,31933
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,WiZink Center,España,Europa,17000,14424
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Santiago Bernabéu,España,Europa,81000,76771
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,13985
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Speak Now World Tour,15,95,O2 Arena,Reino Unido,Europa,20000,14678
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Allianz Arena,Alemania,Europa,75000,62752
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,50026
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Camp Nou,España,Europa,99000,75556
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,SoFi Stadium,Estados Unidos,América del Norte,70000,39491
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Camp Nou,España,Europa,99000,50827
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,AT&T Stadium,Estados Unidos,América del Norte,80000,45926
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Accor Arena,Francia,Europa,20000,13551
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Palau Sant Jordi,España,Europa,18000,17060
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Rod Laver Arena,Australia,Oceanía,15000,13456
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Scotiabank Arena,Canadá,América del Norte,20000,12606
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Rod Laver Arena,Australia,Oceanía,15000,10835
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,Madison Square Garden,Estados Unidos,América del Norte,20000,17665
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Allianz Arena,Alemania,Europa,75000,56452
+Coldplay,Británico,2000-01-01 00:00:00,Music of the Spheres World Tour,25,125,AT&T Stadium,Estados Unidos,América del Norte,80000,62652
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,Olympic Stadium,Reino Unido,Europa,60000,52716
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Camp Nou,España,Europa,99000,70640
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Arena Corinthians,Brasil,América del Sur,49000,48670
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,Estadio Azteca,México,América del Norte,87000,79901
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Olympic Stadium,Reino Unido,Europa,60000,30873
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Arena Corinthians,Brasil,América del Sur,49000,26200
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,MetLife Stadium,Estados Unidos,América del Norte,82500,52292
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,SoFi Stadium,Estados Unidos,América del Norte,70000,37771
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,61204
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Rogers Centre,Canadá,América del Norte,50000,28496
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,WiZink Center,España,Europa,17000,15248
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Staples Center,Estados Unidos,América del Norte,20000,16880
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,63958
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,River Plate Stadium,Argentina,América del Sur,83000,57641
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Staples Center,Estados Unidos,América del Norte,20000,10182
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,15158
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Staples Center,Estados Unidos,América del Norte,20000,15470
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,MetLife Stadium,Estados Unidos,América del Norte,82500,57499
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Estadio Azteca,México,América del Norte,87000,75051
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Movistar Arena Madrid,España,Europa,17000,15876
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,50865
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,United Center,Estados Unidos,América del Norte,21000,19158
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Arena Ciudad de México,México,América del Norte,22000,16179
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Evolve World Tour,20,105,Estadio Azteca,México,América del Norte,87000,57283
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,River Plate Stadium,Argentina,América del Sur,83000,66586
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Maracanã Stadium,Brasil,América del Sur,78000,46834
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Estadio Azteca,México,América del Norte,87000,74728
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,SoFi Stadium,Estados Unidos,América del Norte,70000,42757
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Allianz Arena,Alemania,Europa,75000,59652
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,AT&T Stadium,Estados Unidos,América del Norte,80000,78762
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Rod Laver Arena,Australia,Oceanía,15000,7513
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Camp Nou,España,Europa,99000,86046
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Palau Sant Jordi,España,Europa,18000,10167
+The Weeknd,Canadiense,1990-02-16 00:00:00,After Hours Til Dawn Tour,30,140,O2 Arena,Reino Unido,Europa,20000,17430
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Arena Corinthians,Brasil,América del Sur,49000,36980
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Sydney Olympic Park,Australia,Oceanía,83000,55289
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Foro Sol,México,América del Norte,65000,53034
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Play Residency,19,95,Estadio Azteca,México,América del Norte,87000,84714
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,SoFi Stadium,Estados Unidos,América del Norte,70000,62362
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,35057
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,SoFi Stadium,Estados Unidos,América del Norte,70000,39197
+Sam Smith,Británico,1992-05-19 00:00:00,Thrill of It All Tour,19,100,Wembley Stadium,Reino Unido,Europa,90000,51606
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Tokyo Dome,Japón,Asia,55000,50233
+Maroon 5,Estadounidense,2000-01-01 00:00:00,World Tour,20,105,Movistar Arena Madrid,España,Europa,17000,11671
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Movistar Arena Madrid,España,Europa,17000,12798
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Santiago Bernabéu,España,Europa,81000,62759
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,MetLife Stadium,Estados Unidos,América del Norte,82500,51325
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Overexposed Tour,18,95,Olympic Stadium,Reino Unido,Europa,60000,35710
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Movistar Arena Madrid,España,Europa,17000,14382
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,Olympic Stadium,Reino Unido,Europa,60000,34901
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,United Center,Estados Unidos,América del Norte,21000,18019
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Tokyo Dome,Japón,Asia,55000,49869
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Camp Nou,España,Europa,99000,81941
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Olympic Stadium,Reino Unido,Europa,60000,58894
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,AT&T Stadium,Estados Unidos,América del Norte,80000,61486
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Accor Arena,Francia,Europa,20000,11568
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Accor Arena,Francia,Europa,20000,12030
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Olympic Stadium,Reino Unido,Europa,60000,58272
+Coldplay,Británico,2000-01-01 00:00:00,A Head Full of Dreams Tour,24,120,Movistar Arena Madrid,España,Europa,17000,9755
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Movistar Arena Madrid,España,Europa,17000,15600
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,WiZink Center,España,Europa,17000,11108
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Santiago Bernabéu,España,Europa,81000,75484
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Allianz Arena,Alemania,Europa,75000,63934
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,39997
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,Foro Sol,México,América del Norte,65000,33916
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,Red Tour,17,100,Staples Center,Estados Unidos,América del Norte,20000,12106
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,When We All Fall Asleep Tour,22,105,Rod Laver Arena,Australia,Oceanía,15000,9536
+Maroon 5,Estadounidense,2000-01-01 00:00:00,Red Pill Blues Tour,22,110,National Stadium Singapore,Singapur,Asia,55000,46335
+Coldplay,Británico,2000-01-01 00:00:00,Mylo Xyloto Tour,22,110,Staples Center,Estados Unidos,América del Norte,20000,18893
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Witness Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,48346
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Movistar Arena Madrid,España,Europa,17000,10534
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,44352
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,Maracanã Stadium,Brasil,América del Sur,78000,65768
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,48734
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Olympic Stadium,Reino Unido,Europa,60000,56969
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Sydney Olympic Park,Australia,Oceanía,83000,77895
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Sydney Olympic Park,Australia,Oceanía,83000,46091
+Ed Sheeran,Británico,1991-02-17 00:00:00,Mathematics Tour,24,120,Accor Arena,Francia,Europa,20000,15020
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Purpose World Tour,24,115,Santiago Bernabéu,España,Europa,81000,49395
+Beyonce,Estadounidense,1981-09-04 00:00:00,Formation World Tour,32,140,Olympic Stadium,Reino Unido,Europa,60000,52613
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Santiago Bernabéu,España,Europa,81000,50865
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,National Stadium Singapore,Singapur,Asia,55000,37138
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Doo-Wops & Hooligans Tour,17,95,Rogers Centre,Canadá,América del Norte,50000,42755
+Coldplay,Británico,2000-01-01 00:00:00,Viva la Vida Tour,20,105,River Plate Stadium,Argentina,América del Sur,83000,68797
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,30734
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,69885
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Rose Bowl Stadium,Estados Unidos,América del Norte,88000,67591
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Camp Nou,España,Europa,99000,55761
+Justin Bieber,Canadiense,1994-03-01 00:00:00,Justice World Tour,22,110,O2 Arena,Reino Unido,Europa,20000,10107
+Rihanna,Barbadense,1988-02-20 00:00:00,Loud Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,47101
+Taylor Swift,Estadounidense,1989-12-13 00:00:00,The Eras Tour,45,195,Rod Laver Arena,Australia,Oceanía,15000,12761
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Foro Sol,México,América del Norte,65000,56973
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,O2 Arena,Reino Unido,Europa,20000,15252
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Santiago Bernabéu,España,Europa,81000,80493
+Rihanna,Barbadense,1988-02-20 00:00:00,Diamonds World Tour,24,120,Movistar Arena Madrid,España,Europa,17000,11138
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Scotiabank Arena,Canadá,América del Norte,20000,14581
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Rogers Centre,Canadá,América del Norte,50000,42834
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Night Visions Tour,17,95,Wembley Stadium,Reino Unido,Europa,90000,52236
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Sydney Olympic Park,Australia,Oceanía,83000,54583
+Dua Lipa,Británica,1995-08-22 00:00:00,Future Nostalgia Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,45113
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Estadio Azteca,México,América del Norte,87000,81665
+Lorde,Neozelandesa,1996-11-07 00:00:00,Melodrama World Tour,18,100,Mercedes-Benz Stadium,Estados Unidos,América del Norte,71000,40728
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Sweetener World Tour,26,125,Rod Laver Arena,Australia,Oceanía,15000,13596
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,National Stadium Singapore,Singapur,Asia,55000,30002
+The Weeknd,Canadiense,1990-02-16 00:00:00,Starboy Tour,26,120,Staples Center,Estados Unidos,América del Norte,20000,14645
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,National Stadium Singapore,Singapur,Asia,55000,47296
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,Palau Sant Jordi,España,Europa,18000,17243
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,We Own the Night Tour,15,90,Sydney Olympic Park,Australia,Oceanía,83000,65575
+Rihanna,Barbadense,1988-02-20 00:00:00,Anti World Tour,22,110,Scotiabank Arena,Canadá,América del Norte,20000,17910
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,Scotiabank Arena,Canadá,América del Norte,20000,15768
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,24K Magic World Tour,22,110,Arena Corinthians,Brasil,América del Sur,49000,45673
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,National Stadium Singapore,Singapur,Asia,55000,52213
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Movistar Arena Madrid,España,Europa,17000,14156
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Olympic Stadium,Reino Unido,Europa,60000,48729
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Scotiabank Arena,Canadá,América del Norte,20000,12994
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Allianz Arena,Alemania,Europa,75000,48417
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Accor Arena,Francia,Europa,20000,16646
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Shawn Mendes: The Tour,22,110,Palau Sant Jordi,España,Europa,18000,12862
+Katy Perry,Estadounidense,1984-10-25 00:00:00,California Dreams Tour,22,110,Movistar Arena Madrid,España,Europa,17000,13280
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Tokyo Dome,Japón,Asia,55000,45923
+Harry Styles,Británico,1994-02-01 00:00:00,Harry Styles Live Tour,17,100,Olympic Stadium,Reino Unido,Europa,60000,32548
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Olympic Stadium,Reino Unido,Europa,60000,30092
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Tokyo Dome,Japón,Asia,55000,54974
+Dua Lipa,Británica,1995-08-22 00:00:00,The Self-Titled Tour,16,95,AT&T Stadium,Estados Unidos,América del Norte,80000,70942
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Mercury World Tour,22,110,Accor Arena,Francia,Europa,20000,13542
+Harry Styles,Británico,1994-02-01 00:00:00,Love On Tour,22,110,United Center,Estados Unidos,América del Norte,21000,13117
+Maroon 5,Estadounidense,2000-01-01 00:00:00,V Tour,19,100,Estadio Azteca,México,América del Norte,87000,57547
+Billie Eilish,Estadounidense,2001-12-18 00:00:00,Happier Than Ever Tour,24,110,Olympic Stadium,Reino Unido,Europa,60000,41264
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Stars Dance Tour,17,95,Palau Sant Jordi,España,Europa,18000,11389
+Imagine Dragons,Estadounidense,2000-01-01 00:00:00,Smoke + Mirrors Tour,19,100,National Stadium Singapore,Singapur,Asia,55000,50977
+Bruno Mars,Estadounidense,1985-10-08 00:00:00,Moonshine Jungle Tour,20,105,O2 Arena,Reino Unido,Europa,20000,16596
+Sam Smith,Británico,1992-05-19 00:00:00,In the Lonely Hour Tour,16,90,Santiago Bernabéu,España,Europa,81000,62298
+Selena Gomez,Estadounidense,1992-07-22 00:00:00,Revival Tour,20,105,Arena Ciudad de México,México,América del Norte,22000,20210
+Halsey,Estadounidense,1994-09-29 00:00:00,Manic World Tour,20,105,Arena Corinthians,Brasil,América del Sur,49000,29708
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Madison Square Garden,Estados Unidos,América del Norte,20000,10039
+Beyonce,Estadounidense,1981-09-04 00:00:00,On the Run II Tour,36,160,Foro Sol,México,América del Norte,65000,38015
+Lorde,Neozelandesa,1996-11-07 00:00:00,Solar Power Tour,17,95,Staples Center,Estados Unidos,América del Norte,20000,11699
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Maracanã Stadium,Brasil,América del Sur,78000,45414
+Ed Sheeran,Británico,1991-02-17 00:00:00,Divide Tour,22,115,Olympic Stadium,Reino Unido,Europa,60000,51211
+The Weeknd,Canadiense,1990-02-16 00:00:00,Madness Fall Tour,22,110,Palau Sant Jordi,España,Europa,18000,12414
+Halsey,Estadounidense,1994-09-29 00:00:00,Hopeless Fountain Kingdom Tour,18,100,Tokyo Dome,Japón,Asia,55000,34182
+Shawn Mendes,Canadiense,1998-08-08 00:00:00,Illuminate World Tour,18,95,Estadio Azteca,México,América del Norte,87000,44609
+Ariana Grande,Estadounidense,1993-06-26 00:00:00,Dangerous Woman Tour,22,110,Olympic Stadium,Reino Unido,Europa,60000,41451
+Ed Sheeran,Británico,1991-02-17 00:00:00,Multiply Tour,17,100,Madison Square Garden,Estados Unidos,América del Norte,20000,16517
+Katy Perry,Estadounidense,1984-10-25 00:00:00,Prismatic World Tour,24,120,Staples Center,Estados Unidos,América del Norte,20000,15470
+Beyonce,Estadounidense,1981-09-04 00:00:00,Mrs Carter Show World Tour,30,135,Santiago Bernabéu,España,Europa,81000,41972
+Sam Smith,Británico,1992-05-19 00:00:00,Gloria Tour,20,105,Tokyo Dome,Japón,Asia,55000,28768
