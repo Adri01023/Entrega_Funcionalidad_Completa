@@ -756,24 +756,30 @@ def grafico_peliculas_mayor_perdida(datos: list) -> bytes:
 
     df = pd.DataFrame(datos)
 
-    # Top 10 con mayores pérdidas
-    df = df.nsmallest(10, "perdida")
-    df = df.sort_values("perdida", ascending=False)
+    # Si no hay películas con pérdidas mostramos mensaje
+    if df.empty or "perdida" not in df.columns:
+        fig, ax = plt.subplots(figsize=(10, 6))
+        ax.text(0.5, 0.5, "No hay películas con pérdidas en los datos",
+                ha="center", va="center", fontsize=14, color="gray")
+        ax.axis("off")
+        return guardar_grafico()
 
-    fig, ax = plt.subplots(figsize=(10, 6))
+    # Los datos ya vienen filtrados desde estadisticas.py
+    # solo ordenamos y cogemos el top 10
+    df = df.sort_values("perdida", ascending=True).head(10)
 
-    barras = ax.barh(df["titulo"], df["perdida"], color="red", alpha=0.8)
+    fig, ax = plt.subplots(figsize=(10, max(6, len(df) * 0.5)))
 
-    # Porcentaje de recuperación al final de cada barra
-    for barra, recuperacion in zip(barras, df["recuperacion_%"]):
-        ax.text(barra.get_width() - 100000,
+    barras = ax.barh(df["titulo"], df["perdida"],
+                     color="red", alpha=0.8)
+
+    for barra, recuperacion in zip(barras, df["recuperacion_pct"]):
+        ax.text(barra.get_width() - abs(barra.get_width()) * 0.05,
                 barra.get_y() + barra.get_height() / 2,
                 f"Recuperó {recuperacion}%",
-                va="center", fontsize=8, color="white")
+                va="center", ha="right", fontsize=8, color="white")
 
-    # Línea en 0 para referencia
     ax.axvline(x=0, color="black", linewidth=0.8)
-
     ax.set_title("Top 10 películas con mayor pérdida económica")
     ax.set_xlabel("Pérdida (€)")
 

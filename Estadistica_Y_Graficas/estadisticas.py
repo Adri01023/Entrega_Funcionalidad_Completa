@@ -486,18 +486,20 @@ def peliculas_mayor_perdida(id_admin: int) -> list:
     """
 
     df = query(f"""
-        SELECT Pelicula AS titulo, presupuesto, recaudacion, duracion
-        FROM Cine
-        WHERE presupuesto > 0
-        AND id_admin = {id_admin}
-    """)
+            SELECT Pelicula AS titulo, presupuesto, recaudacion, duracion
+            FROM Cine
+            WHERE presupuesto > 0
+            AND id_admin = {id_admin}
+        """)
 
     df["perdida"] = df["recaudacion"] - df["presupuesto"]
-    df["recuperacion_%"] = (
-        (df["recaudacion"] / df["presupuesto"]) * 100
+
+    # Usamos recuperacion_pct en lugar de recuperacion_%
+    # para evitar problemas al pasar por JSON
+    df["recuperacion_pct"] = (
+            (df["recaudacion"] / df["presupuesto"]) * 100
     ).round(2)
 
-    # Solo las que tienen pérdidas reales
     df = df[df["perdida"] < 0]
     df = df.sort_values("perdida", ascending=True)
 
